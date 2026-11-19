@@ -1,0 +1,12 @@
+/data/audio-manifest.json
+  Cache-Control: no-cache, must-revalidate
+/audio/polly/*
+  Cache-Control: public, max-age=31536000, immutable
+/data/chinese-senses.json
+  Cache-Control: no-cache, must-revalidate
+
+/data/chinese-samples.json
+  Cache-Control: no-cache, must-revalidate
+
+/audio/rates/*
+  Cache-Control: public, max-age=31536000, immutable

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-11-13T11:51:12.935Z",
+  "region": "ap-southeast-2",
+  "scannedContents": 105,
+  "contentTypes": {
+    "word": 9,
+    "phrase": 1,
+    "example": 95
+  },
+  "totalResources": 210,
+  "cacheHits": 210,
+  "ready": 210,
+  "failed": [],
+  "planned": 0,
+  "voices": {
+    "Joanna": {
+      "total": 105,
+      "ready": 105,
+      "pendingRequests": 0
+    },
+    "Stephen": {
+      "total": 105,
+      "ready": 105,
+      "pendingRequests": 0
+    }
+  },
+  "pendingRequests": 0,
+  "pendingCharacters": 0,
+  "estimatedUsd": 0,
+  "withThreeAttemptsUsd": 0,
+  "cumulativeSubmittedCharacters": 8900,
+  "cumulativeEstimatedUsd": 0.14240000000000003,
+  "runSubmittedCharacters": 0,
+  "runEstimatedUsd": 0,
+  "awsConfirmedCharacters": 8900,
+  "totalBytes": 3135048,
+  "note": "Attempt reservations include uncertain requests/retries; estimates are not the AWS bill."
+}

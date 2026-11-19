@@ -1,0 +1,7711 @@
+{
+  "schemaVersion": 1,
+  "words": [
+    "create",
+    "creative",
+    "creation",
+    "creator",
+    "creatively",
+    "creativity",
+    "make",
+    "destroy",
+    "make sense",
+    "sense"
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "English Wiktionary contributors; extracted by Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+  "modifications": "Ten-headword subset; fields projected; external quotations removed; Chinese translations retained only for explicit mapping. No generated definitions or translations.",
+  "provenance": [
+    {
+      "word": "create",
+      "url": "https://kaikki.org/dictionary/English/meaning/c/cr/create.jsonl",
+      "retrievedAt": "2026-11-10T12:30:09.473530+00:00",
+      "sha256": "e64c1d429cd5e907e9a1b60a8ae154032144ca59b8e8279fc0d69337c41a82d1",
+      "bytes": 56191
+    },
+    {
+      "word": "creative",
+      "url": "https://kaikki.org/dictionary/English/meaning/c/cr/creative.jsonl",
+      "retrievedAt": "2026-11-10T12:30:10.667048+00:00",
+      "sha256": "804c5cbff0724d119a53b659359a51431ec7cb4d676f6ac0127a74419307a782",
+      "bytes": 39924
+    },
+    {
+      "word": "creation",
+      "url": "https://kaikki.org/dictionary/English/meaning/c/cr/creation.jsonl",
+      "retrievedAt": "2026-11-10T12:30:11.967714+00:00",
+      "sha256": "c7fafc7ab6d7951cdd4d7e3ec652d90bcf2017790eb7e33fb8c63ca833d2dd11",
+      "bytes": 50720
+    },
+    {
+      "word": "creator",
+      "url": "https://kaikki.org/dictionary/English/meaning/c/cr/creator.jsonl",
+      "retrievedAt": "2026-11-10T12:30:13.197234+00:00",
+      "sha256": "ea51cc2e7ea75da77c3f794ec39466630f298795dfa4e0359bf2b71cf9f94f24",
+      "bytes": 43228
+    },
+    {
+      "word": "creatively",
+      "url": "https://kaikki.org/dictionary/English/meaning/c/cr/creatively.jsonl",
+      "retrievedAt": "2026-11-10T12:30:14.194223+00:00",
+      "sha256": "34fa50b48c81e14accc870f78dd25c247cc4658bc54b187161dafcc94280dd65",
+      "bytes": 5568
+    },
+    {
+      "word": "creativity",
+      "url": "https://kaikki.org/dictionary/English/meaning/c/cr/creativity.jsonl",
+      "retrievedAt": "2026-11-10T12:30:15.355599+00:00",
+      "sha256": "c9e53c19ccde53789f5f8198689314b5b3f38f040ae8336f323d8ac28d82897c",
+      "bytes": 22718
+    },
+    {
+      "word": "make",
+      "url": "https://kaikki.org/dictionary/English/meaning/m/ma/make.jsonl",
+      "retrievedAt": "2026-11-10T12:30:16.916972+00:00",
+      "sha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+      "bytes": 188409
+    },
+    {
+      "word": "destroy",
+      "url": "https://kaikki.org/dictionary/English/meaning/d/de/destroy.jsonl",
+      "retrievedAt": "2026-11-10T12:30:18.219380+00:00",
+      "sha256": "8bb2cc2774a3be442c432e92aff57e0dfbffcef2cbe3e9864f1e770fcd965a39",
+      "bytes": 56394
+    },
+    {
+      "word": "make sense",
+      "url": "https://kaikki.org/dictionary/English/meaning/m/ma/make%20sense.jsonl",
+      "retrievedAt": "2026-11-10T12:30:19.336115+00:00",
+      "sha256": "3d57e71f34dc4053611043c121a1b7e8038bbec54cdc0af9431dca91e1062019",
+      "bytes": 16624
+    },
+    {
+      "word": "sense",
+      "url": "https://kaikki.org/dictionary/English/meaning/s/se/sense.jsonl",
+      "retrievedAt": "2026-11-10T12:30:20.734521+00:00",
+      "sha256": "518937b61d63a10ff461d915d857d2634e696d1f3d0b9cdcf9b2a081154a3444",
+      "bytes": 104540
+    }
+  ],
+  "excludedExamples": 129,
+  "records": [
+    {
+      "word": "create",
+      "lang_code": "en",
+      "pos": "verb",
+      "sounds": [
+        {
+          "ipa": "/kɹiːˈeɪt/"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-create.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/En-us-create.ogg/En-us-create.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/En-us-create.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "creates",
+          "tags": [
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "creating",
+          "tags": [
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "past"
+          ]
+        },
+        {
+          "form": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "form": "glossary",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "form": "create",
+          "tags": [
+            "infinitive"
+          ]
+        },
+        {
+          "form": "create",
+          "tags": [
+            "first-person",
+            "present",
+            "singular"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "first-person",
+            "past",
+            "singular"
+          ]
+        },
+        {
+          "form": "create",
+          "tags": [
+            "present",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "createst",
+          "tags": [
+            "archaic",
+            "present",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "past",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "createdst",
+          "tags": [
+            "archaic",
+            "past",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "creates",
+          "tags": [
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "createth",
+          "tags": [
+            "archaic",
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "past",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "create",
+          "tags": [
+            "plural",
+            "present"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "past",
+            "plural"
+          ]
+        },
+        {
+          "form": "create",
+          "tags": [
+            "present",
+            "subjunctive"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "past",
+            "subjunctive"
+          ]
+        },
+        {
+          "form": "create",
+          "tags": [
+            "imperative",
+            "present"
+          ]
+        },
+        {
+          "form": "-",
+          "tags": [
+            "imperative",
+            "past"
+          ]
+        },
+        {
+          "form": "creating",
+          "tags": [
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "created",
+          "tags": [
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "creäte",
+          "tags": [
+            "alternative",
+            "archaic"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "cocreate"
+        },
+        {
+          "word": "concreate"
+        },
+        {
+          "word": "creatard"
+        },
+        {
+          "word": "create daylight between oneself and someone"
+        },
+        {
+          "word": "creotard"
+        },
+        {
+          "word": "discreate"
+        },
+        {
+          "word": "increate"
+        },
+        {
+          "word": "miscreate"
+        },
+        {
+          "word": "newcreate"
+        },
+        {
+          "word": "noncreating"
+        },
+        {
+          "word": "self-create"
+        },
+        {
+          "word": "transcreate"
+        },
+        {
+          "word": "uncreate"
+        }
+      ],
+      "related": [
+        {
+          "word": "creable"
+        },
+        {
+          "word": "creatability"
+        },
+        {
+          "word": "creatable"
+        },
+        {
+          "word": "creation"
+        },
+        {
+          "word": "creational"
+        },
+        {
+          "word": "creationally"
+        },
+        {
+          "word": "creationarily"
+        },
+        {
+          "word": "creationary"
+        },
+        {
+          "word": "creationism"
+        },
+        {
+          "word": "creationist"
+        },
+        {
+          "word": "creationistic"
+        },
+        {
+          "word": "creationistically"
+        },
+        {
+          "word": "creative"
+        },
+        {
+          "word": "creatively"
+        },
+        {
+          "word": "creativeness"
+        },
+        {
+          "word": "creativity"
+        },
+        {
+          "word": "creator"
+        },
+        {
+          "word": "creatorship"
+        },
+        {
+          "word": "creatress"
+        },
+        {
+          "word": "creatrix"
+        },
+        {
+          "word": "creatural"
+        },
+        {
+          "word": "creature"
+        },
+        {
+          "word": "creatureliness"
+        },
+        {
+          "word": "creaturely"
+        },
+        {
+          "word": "procreate"
+        },
+        {
+          "word": "recreate"
+        },
+        {
+          "word": "re-create"
+        },
+        {
+          "word": "recreation"
+        },
+        {
+          "word": "come into being",
+          "tags": [
+            "intransitive"
+          ]
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "bring forth"
+        },
+        {
+          "word": "cause"
+        },
+        {
+          "word": "contrive"
+        },
+        {
+          "word": "create"
+        },
+        {
+          "word": "ferment"
+        },
+        {
+          "word": "forge"
+        },
+        {
+          "word": "develop"
+        },
+        {
+          "word": "engender"
+        },
+        {
+          "word": "evolve"
+        },
+        {
+          "word": "generate"
+        },
+        {
+          "word": "gin up",
+          "tags": [
+            "North-America"
+          ]
+        },
+        {
+          "word": "innate"
+        },
+        {
+          "word": "form"
+        },
+        {
+          "word": "forthbring",
+          "tags": [
+            "obsolete"
+          ]
+        },
+        {
+          "word": "make"
+        },
+        {
+          "word": "produce"
+        },
+        {
+          "word": "spawn"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "destroy"
+        }
+      ],
+      "translations": [
+        {
+          "word": "創造 /创造",
+          "code": "cmn",
+          "sense": "to put into existence"
+        },
+        {
+          "word": "締造 /缔造",
+          "code": "cmn",
+          "sense": "to put into existence"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "To bring into existence; (sometimes in particular:)"
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "You can create the color orange by mixing yellow and red.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  8,
+                  14
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "generate"
+            },
+            {
+              "word": "make"
+            }
+          ],
+          "antonyms": [
+            {
+              "word": "annihilate"
+            },
+            {
+              "word": "extinguish"
+            }
+          ],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To bring into existence; (sometimes in particular:)",
+            "To bring into existence out of nothing, without the prior existence of the materials or elements used."
+          ],
+          "tags": [
+            "especially",
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "generate"
+            },
+            {
+              "word": "make"
+            }
+          ],
+          "antonyms": [
+            {
+              "word": "annihilate"
+            },
+            {
+              "word": "extinguish"
+            }
+          ],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To bring into existence; (sometimes in particular:)",
+            "To make or produce from other (e.g. raw, unrefined or scattered) materials or combinable elements or ideas; to design or invest with a new form, shape, function, etc."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "Couturiers create exclusive garments for an affluent clientele.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  11,
+                  17
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "generate"
+            },
+            {
+              "word": "make"
+            },
+            {
+              "word": "invent"
+            }
+          ],
+          "antonyms": [
+            {
+              "word": "annihilate"
+            },
+            {
+              "word": "extinguish"
+            },
+            {
+              "word": "imitate"
+            }
+          ],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To cause, to bring (a non-object) about by an action, behavior, or event, to occasion."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "A sudden chemical spill on the highway created a chain‐collision which created a record traffic jam.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  39,
+                  46
+                ],
+                [
+                  71,
+                  78
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To confer or invest with a rank or title of nobility, to appoint, ordain or constitute."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "Henry VIII created him a Duke. Last month, the queen created two barons.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  11,
+                  18
+                ],
+                [
+                  53,
+                  60
+                ]
+              ]
+            },
+            {
+              "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  74,
+                  81
+                ],
+                [
+                  143,
+                  150
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To be or do something creative, imaginative, originative."
+          ],
+          "tags": [
+            "intransitive"
+          ],
+          "examples": [
+            {
+              "text": "Children usually enjoy creating, never mind if it is of any use!",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  23,
+                  31
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "In theatre, to be the first performer of a role; to originate a character."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To make a fuss, complain; to shout."
+          ],
+          "tags": [
+            "UK",
+            "colloquial",
+            "intransitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "create",
+      "lang_code": "en",
+      "pos": "adj",
+      "sounds": [
+        {
+          "ipa": "/kɹiːˈeɪt/"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-create.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/En-us-create.ogg/En-us-create.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/En-us-create.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "more create",
+          "tags": [
+            "comparative"
+          ]
+        },
+        {
+          "form": "most create",
+          "tags": [
+            "superlative"
+          ]
+        },
+        {
+          "form": "creäte",
+          "tags": [
+            "alternative",
+            "archaic"
+          ]
+        }
+      ],
+      "derived": [],
+      "related": [],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "Created, resulting from creation."
+          ],
+          "tags": [
+            "obsolete"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "creative",
+      "lang_code": "en",
+      "pos": "adj",
+      "sounds": [
+        {
+          "ipa": "/kɹiˈeɪtɪv/"
+        },
+        {
+          "ipa": "/kəˈɹeɪtɪv/",
+          "tags": [
+            "nonstandard"
+          ]
+        },
+        {
+          "tags": [
+            "Southern-England"
+          ],
+          "audio": "LL-Q1860 (eng)-Vealhurl-creative.wav",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/LL-Q1860_%28eng%29-Vealhurl-creative.wav/LL-Q1860_%28eng%29-Vealhurl-creative.wav.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/LL-Q1860_%28eng%29-Vealhurl-creative.wav/LL-Q1860_%28eng%29-Vealhurl-creative.wav.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "more creative",
+          "tags": [
+            "comparative"
+          ]
+        },
+        {
+          "form": "most creative",
+          "tags": [
+            "superlative"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "anticreative"
+        },
+        {
+          "word": "cocreative"
+        },
+        {
+          "word": "creatify"
+        },
+        {
+          "word": "creative accounting"
+        },
+        {
+          "word": "creative block"
+        },
+        {
+          "word": "creative class"
+        },
+        {
+          "word": "creative destruction"
+        },
+        {
+          "word": "creative differences"
+        },
+        {
+          "word": "creative energy"
+        },
+        {
+          "word": "creativelike"
+        },
+        {
+          "word": "creatively"
+        },
+        {
+          "word": "creativeness"
+        },
+        {
+          "word": "creative nonfiction"
+        },
+        {
+          "word": "creative sentence"
+        },
+        {
+          "word": "creative sentencing"
+        },
+        {
+          "word": "creative set"
+        },
+        {
+          "word": "creative spelling"
+        },
+        {
+          "word": "creative work"
+        },
+        {
+          "word": "creative writing"
+        },
+        {
+          "word": "creativity"
+        },
+        {
+          "word": "creativize"
+        },
+        {
+          "word": "hypercreative"
+        },
+        {
+          "word": "miscreative"
+        },
+        {
+          "word": "noncreative"
+        },
+        {
+          "word": "overcreative"
+        },
+        {
+          "word": "precreative"
+        },
+        {
+          "word": "pre-creative"
+        },
+        {
+          "word": "semicreative"
+        },
+        {
+          "word": "subcreative"
+        },
+        {
+          "word": "uncreative"
+        },
+        {
+          "word": "undercreative"
+        }
+      ],
+      "related": [
+        {
+          "word": "create"
+        },
+        {
+          "word": "creation"
+        },
+        {
+          "word": "creationism"
+        },
+        {
+          "word": "creationist"
+        },
+        {
+          "word": "creator"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "inventive"
+        },
+        {
+          "word": "original"
+        },
+        {
+          "word": "Promethean"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "imitative"
+        },
+        {
+          "word": "annihilative"
+        }
+      ],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "Tending to create things, or having the ability to create; often, excellently, in a novel fashion, or any or all of these."
+          ],
+          "examples": [
+            {
+              "text": "a creative dramatist who avoids cliche",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  2,
+                  10
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "pregnant"
+            },
+            {
+              "word": "originative"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Original, expressive and imaginative."
+          ],
+          "examples": [
+            {
+              "text": "a creative new solution to an old problem",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  2,
+                  10
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A type of set of natural numbers, related to mathematical logic."
+          ],
+          "examples": [
+            {
+              "text": "a creative set",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  2,
+                  10
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Designed or executed to deceive or mislead."
+          ],
+          "tags": [
+            "ironic"
+          ],
+          "examples": [
+            {
+              "text": "creative accounting and bookkeeping",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  8
+                ]
+              ],
+              "tags": [
+                "collocation"
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "bad, unartistic, busy."
+          ],
+          "tags": [
+            "euphemistic"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "creative",
+      "lang_code": "en",
+      "pos": "noun",
+      "sounds": [
+        {
+          "ipa": "/kɹiˈeɪtɪv/"
+        },
+        {
+          "ipa": "/kəˈɹeɪtɪv/",
+          "tags": [
+            "nonstandard"
+          ]
+        },
+        {
+          "tags": [
+            "Southern-England"
+          ],
+          "audio": "LL-Q1860 (eng)-Vealhurl-creative.wav",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/LL-Q1860_%28eng%29-Vealhurl-creative.wav/LL-Q1860_%28eng%29-Vealhurl-creative.wav.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/LL-Q1860_%28eng%29-Vealhurl-creative.wav/LL-Q1860_%28eng%29-Vealhurl-creative.wav.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "creatives",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "derived": [],
+      "related": [],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "A person directly involved in a creative process; a creator of creative content."
+          ],
+          "tags": [
+            "countable"
+          ],
+          "senseid": [
+            "en:person involved"
+          ],
+          "examples": [
+            {
+              "text": "He is a visionary creative.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  18,
+                  26
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Artistic material used in advertising, e.g. photographs, drawings, or videos."
+          ],
+          "tags": [
+            "uncountable"
+          ],
+          "examples": [
+            {
+              "text": "The design team has completed the creative for next month's multi-part ad campaign.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  34,
+                  42
+                ]
+              ]
+            },
+            {
+              "text": "I've included in my portfolio all the creative I've completed in my five year design career.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  38,
+                  46
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "creation",
+      "lang_code": "en",
+      "pos": "noun",
+      "sounds": [
+        {
+          "ipa": "/ˈkɹiˈeɪʃən/"
+        },
+        {
+          "ipa": "[ˈkʰɹʷɪi̯ˈeɪ̯ʃən] ~ [ˈkʰɹʷɪi̯ˈeɪ̯ʃn̩]"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-creation.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/En-us-creation.ogg/En-us-creation.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/En-us-creation.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "creations",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "anticreation"
+        },
+        {
+          "word": "autocreation"
+        },
+        {
+          "word": "co-creation"
+        },
+        {
+          "word": "cocreation"
+        },
+        {
+          "word": "collaborative creation"
+        },
+        {
+          "word": "creational"
+        },
+        {
+          "word": "creationary"
+        },
+        {
+          "word": "creationism"
+        },
+        {
+          "word": "creationist"
+        },
+        {
+          "word": "creationless"
+        },
+        {
+          "word": "creation myth"
+        },
+        {
+          "word": "creation science"
+        },
+        {
+          "word": "creation scientist"
+        },
+        {
+          "word": "creation story"
+        },
+        {
+          "word": "decreation"
+        },
+        {
+          "word": "iration"
+        },
+        {
+          "word": "loan creation"
+        },
+        {
+          "word": "miscreation"
+        },
+        {
+          "word": "noncreation"
+        },
+        {
+          "word": "re-creation"
+        },
+        {
+          "word": "recreation"
+        },
+        {
+          "word": "special creation"
+        },
+        {
+          "word": "subcreation"
+        },
+        {
+          "word": "transcreation"
+        },
+        {
+          "word": "uncreation"
+        }
+      ],
+      "related": [
+        {
+          "word": "creatability"
+        },
+        {
+          "word": "creatable"
+        },
+        {
+          "word": "creatableness"
+        },
+        {
+          "word": "create"
+        },
+        {
+          "word": "creationally"
+        },
+        {
+          "word": "creationarily"
+        },
+        {
+          "word": "creationistic"
+        },
+        {
+          "word": "creationistically"
+        },
+        {
+          "word": "creative"
+        },
+        {
+          "word": "creatively"
+        },
+        {
+          "word": "creativeness"
+        },
+        {
+          "word": "creativity"
+        },
+        {
+          "word": "creator"
+        },
+        {
+          "word": "Creator"
+        },
+        {
+          "word": "creatorship"
+        },
+        {
+          "word": "creatress"
+        },
+        {
+          "word": "creatrix"
+        },
+        {
+          "word": "creatural"
+        },
+        {
+          "word": "creaturally"
+        },
+        {
+          "word": "creature"
+        },
+        {
+          "word": "creature comforts"
+        },
+        {
+          "word": "creatureliness"
+        },
+        {
+          "word": "creaturely"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [
+        {
+          "word": "創作品 /创作品",
+          "code": "cmn",
+          "sense": "something created such as an invention or artwork"
+        },
+        {
+          "word": "創作 /创作",
+          "code": "cmn",
+          "sense": "act of creation"
+        },
+        {
+          "word": "創造 /创造",
+          "code": "cmn",
+          "sense": "act of creation"
+        },
+        {
+          "word": "萬物 /万物",
+          "code": "cmn",
+          "sense": "(Biblical) all which exists"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "Something created such as an invention or artwork."
+          ],
+          "tags": [
+            "countable"
+          ],
+          "examples": [
+            {
+              "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  47,
+                  55
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The act of creating something."
+          ],
+          "tags": [
+            "uncountable"
+          ],
+          "examples": [
+            {
+              "text": "The restructure resulted in the creation of a number of shared services.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  32,
+                  40
+                ]
+              ]
+            },
+            {
+              "text": "the creation of passwords is done by a computer.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  4,
+                  12
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "All which exists."
+          ],
+          "tags": [
+            "uncountable"
+          ],
+          "examples": [
+            {
+              "text": "Let us pray to Christ, the King of all creation.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  39,
+                  47
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "creator",
+      "lang_code": "en",
+      "pos": "noun",
+      "sounds": [
+        {
+          "ipa": "/kɹiːˈeɪ̯təː/",
+          "tags": [
+            "Received-Pronunciation"
+          ]
+        },
+        {
+          "ipa": "[kʰɹʷɪi̯ˈeɪ̯tʰəː]",
+          "tags": [
+            "Received-Pronunciation"
+          ]
+        },
+        {
+          "tags": [
+            "Southern-England"
+          ],
+          "audio": "LL-Q1860 (eng)-I learned some phrases-creator.wav",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/LL-Q1860_%28eng%29-I_learned_some_phrases-creator.wav/LL-Q1860_%28eng%29-I_learned_some_phrases-creator.wav.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/LL-Q1860_%28eng%29-I_learned_some_phrases-creator.wav/LL-Q1860_%28eng%29-I_learned_some_phrases-creator.wav.ogg"
+        },
+        {
+          "ipa": "/kɹiːˈæ̝ɪ̯təː/",
+          "tags": [
+            "Australia",
+            "New-Zealand"
+          ]
+        },
+        {
+          "ipa": "[kʰɹʷɪi̯ˈæ̝ɪ̯tʰəː]",
+          "tags": [
+            "Australia",
+            "New-Zealand"
+          ]
+        },
+        {
+          "ipa": "/kɹiːˈæ̝ɪ̯ɾəː/",
+          "tags": [
+            "Australia",
+            "New-Zealand"
+          ]
+        },
+        {
+          "ipa": "[kʰɹʷɪi̯ˈæ̝ɪ̯ɾəː]",
+          "tags": [
+            "Australia",
+            "New-Zealand"
+          ]
+        },
+        {
+          "ipa": "/kɹiˈeɪtɚ/",
+          "tags": [
+            "Canadian",
+            "General-American",
+            "Standard"
+          ]
+        },
+        {
+          "ipa": "[kʰɹʷɪi̯ˈeɪ̯tʰɚ] ~ [kʰɹʷɪi̯ˈeɪ̯tʰɹ̩]",
+          "tags": [
+            "Canadian",
+            "General-American",
+            "Standard"
+          ]
+        },
+        {
+          "ipa": "/kɹiˈeɪɾɚ/",
+          "tags": [
+            "Canadian",
+            "General-American",
+            "Standard"
+          ]
+        },
+        {
+          "ipa": "[kʰɹʷɪi̯ˈeɪ̯ɾɚ] ~ [kʰɹʷɪi̯ˈeɪ̯ɾɹ̩]",
+          "tags": [
+            "Canadian",
+            "General-American",
+            "Standard"
+          ]
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-creator.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/En-us-creator.ogg/En-us-creator.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/En-us-creator.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "creators",
+          "tags": [
+            "plural"
+          ]
+        },
+        {
+          "form": "creatour",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "anticreator"
+        },
+        {
+          "word": "cocreator"
+        },
+        {
+          "word": "creatorhood"
+        },
+        {
+          "word": "creatorless"
+        },
+        {
+          "word": "creatorlike"
+        },
+        {
+          "word": "creatorship"
+        },
+        {
+          "word": "creatress"
+        },
+        {
+          "word": "job creator"
+        },
+        {
+          "word": "miscreator"
+        },
+        {
+          "word": "noncreator"
+        },
+        {
+          "word": "subcreator"
+        }
+      ],
+      "related": [
+        {
+          "word": "create"
+        },
+        {
+          "word": "creation"
+        },
+        {
+          "word": "creational"
+        },
+        {
+          "word": "creationally"
+        },
+        {
+          "word": "creationarily"
+        },
+        {
+          "word": "creationary"
+        },
+        {
+          "word": "creative"
+        },
+        {
+          "word": "creatrix"
+        },
+        {
+          "word": "creature"
+        },
+        {
+          "word": "procreate"
+        },
+        {
+          "word": "recreate"
+        },
+        {
+          "word": "recreation"
+        },
+        {
+          "word": "maker"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [
+        {
+          "word": "創作者 /创作者",
+          "code": "cmn",
+          "sense": "one who creates"
+        },
+        {
+          "word": "造物主",
+          "code": "cmn",
+          "sense": "the deity that created the world"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "Something or someone which creates or makes something."
+          ],
+          "examples": [
+            {
+              "text": "Kenneth E. Iverson was the creator of APL.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  27,
+                  34
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Ellipsis of content creator, someone who regularly produces and publishes content on social media, especially of a monetizable nature."
+          ],
+          "tags": [
+            "abbreviation",
+            "alt-of",
+            "ellipsis"
+          ],
+          "examples": [
+            {
+              "text": "creator economy",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  7
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The deity that created the world."
+          ],
+          "tags": [
+            "capitalized",
+            "sometimes"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A player who creates opportunities for their team to score goals; a playmaker."
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "creatively",
+      "lang_code": "en",
+      "pos": "adv",
+      "sounds": [
+        {
+          "ipa": "/kɹiˈeɪtɪvli/",
+          "tags": [
+            "Received-Pronunciation"
+          ]
+        },
+        {
+          "ipa": "/kɹiˈeɪtɪvli/",
+          "tags": [
+            "General-American"
+          ]
+        },
+        {
+          "ipa": "/-ɾəv-/",
+          "tags": [
+            "General-American"
+          ]
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "LL-Q1860 (eng)-AnotherFriendlyHuman-creatively.wav",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/LL-Q1860_%28eng%29-AnotherFriendlyHuman-creatively.wav/LL-Q1860_%28eng%29-AnotherFriendlyHuman-creatively.wav.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/LL-Q1860_%28eng%29-AnotherFriendlyHuman-creatively.wav/LL-Q1860_%28eng%29-AnotherFriendlyHuman-creatively.wav.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "more creatively",
+          "tags": [
+            "comparative"
+          ]
+        },
+        {
+          "form": "most creatively",
+          "tags": [
+            "superlative"
+          ]
+        }
+      ],
+      "derived": [],
+      "related": [
+        {
+          "word": "creatify"
+        },
+        {
+          "word": "creative"
+        },
+        {
+          "word": "creativeness"
+        },
+        {
+          "word": "creativity"
+        },
+        {
+          "word": "creativize"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "In a creative manner."
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "creativity",
+      "lang_code": "en",
+      "pos": "noun",
+      "sounds": [
+        {
+          "ipa": "/kriː.eɪˈtɪvɪti/",
+          "tags": [
+            "Received-Pronunciation"
+          ]
+        },
+        {
+          "ipa": "/krɪjɛjˈtɪvɪtɪj/",
+          "tags": [
+            "British",
+            "Southern",
+            "Standard"
+          ]
+        },
+        {
+          "ipa": "/-və-/",
+          "tags": [
+            "British",
+            "Southern",
+            "Standard"
+          ]
+        },
+        {
+          "ipa": "/kri.eɪˈtɪvɪti/",
+          "tags": [
+            "Canada",
+            "General-American"
+          ]
+        },
+        {
+          "ipa": "/-və-/",
+          "tags": [
+            "Canada",
+            "General-American"
+          ]
+        },
+        {
+          "ipa": "[-ɾi]",
+          "tags": [
+            "Canada",
+            "General-American"
+          ]
+        },
+        {
+          "tags": [
+            "General-American"
+          ],
+          "audio": "en-us-creativity.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/En-us-creativity.ogg/En-us-creativity.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/En-us-creativity.ogg"
+        },
+        {
+          "ipa": "/kriː.æɪˈtɪvəti/",
+          "tags": [
+            "Australia"
+          ]
+        },
+        {
+          "ipa": "[-ɾi]",
+          "tags": [
+            "Australia"
+          ]
+        },
+        {
+          "ipa": "/kriː.æɪˈtəvəti/",
+          "tags": [
+            "New-Zealand"
+          ]
+        },
+        {
+          "ipa": "[-ɾi]",
+          "tags": [
+            "New-Zealand"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "creativities",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "anticreativity"
+        },
+        {
+          "word": "cocreativity"
+        },
+        {
+          "word": "hypercreativity"
+        },
+        {
+          "word": "noncreativity"
+        },
+        {
+          "word": "uncreativity"
+        }
+      ],
+      "related": [
+        {
+          "word": "create"
+        },
+        {
+          "word": "creatify"
+        },
+        {
+          "word": "creation"
+        },
+        {
+          "word": "creative"
+        },
+        {
+          "word": "creatively"
+        },
+        {
+          "word": "creativeness"
+        },
+        {
+          "word": "creativize"
+        },
+        {
+          "word": "genius"
+        },
+        {
+          "word": "often associated with creativity"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [
+        {
+          "word": "創造力 /创造力",
+          "code": "cmn",
+          "sense": "quality or ability to create or invent something"
+        },
+        {
+          "word": "創造性 /创造性",
+          "code": "cmn",
+          "sense": "quality or ability to create or invent something"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "The ability to use imagination to produce a novel idea or product."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "creativeness"
+            },
+            {
+              "word": "originality"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "lang_code": "en",
+      "pos": "verb",
+      "etymology_number": "1",
+      "sounds": [
+        {
+          "ipa": "/meɪk/"
+        },
+        {
+          "ipa": "[meɪkʲ]"
+        },
+        {
+          "ipa": "[meːk]",
+          "tags": [
+            "Canada",
+            "Multicultural-London-English"
+          ]
+        },
+        {
+          "ipa": "/mɛk/",
+          "tags": [
+            "Northumbria"
+          ]
+        },
+        {
+          "ipa": "/mæk/",
+          "tags": [
+            "Wearside"
+          ]
+        },
+        {
+          "tags": [
+            "UK"
+          ],
+          "audio": "en-uk-to make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/En-uk-to_make.ogg/En-uk-to_make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/En-uk-to_make.ogg"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/En-us-make.ogg/En-us-make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/En-us-make.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "makes",
+          "tags": [
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "making",
+          "tags": [
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "past"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "obsolete",
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "obsolete",
+            "past"
+          ]
+        },
+        {
+          "form": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "form": "glossary",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "form": "make",
+          "tags": [
+            "infinitive"
+          ]
+        },
+        {
+          "form": "make",
+          "tags": [
+            "first-person",
+            "present",
+            "singular"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "first-person",
+            "past",
+            "singular"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "first-person",
+            "past",
+            "singular"
+          ]
+        },
+        {
+          "form": "make",
+          "tags": [
+            "present",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "makest",
+          "tags": [
+            "archaic",
+            "present",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "past",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "past",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "madest",
+          "tags": [
+            "archaic",
+            "past",
+            "second-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "makes",
+          "tags": [
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "maketh",
+          "tags": [
+            "archaic",
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "past",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "past",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "make",
+          "tags": [
+            "plural",
+            "present"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "past",
+            "plural"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "past",
+            "plural"
+          ]
+        },
+        {
+          "form": "make",
+          "tags": [
+            "present",
+            "subjunctive"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "past",
+            "subjunctive"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "past",
+            "subjunctive"
+          ]
+        },
+        {
+          "form": "make",
+          "tags": [
+            "imperative",
+            "present"
+          ]
+        },
+        {
+          "form": "-",
+          "tags": [
+            "imperative",
+            "past"
+          ]
+        },
+        {
+          "form": "making",
+          "tags": [
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "makeing",
+          "tags": [
+            "archaic",
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "made",
+          "tags": [
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "maked",
+          "tags": [
+            "dialectal",
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "mak",
+          "tags": [
+            "alternative",
+            "Durham",
+            "Wearside",
+            "dialectal"
+          ]
+        },
+        {
+          "form": "makee",
+          "tags": [
+            "alternative",
+            "pronunciation-spelling"
+          ]
+        },
+        {
+          "form": "myek",
+          "tags": [
+            "alternative",
+            "Geordie",
+            "dialectal"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "bad facts make bad law"
+        },
+        {
+          "word": "beauty won't make the pot boil"
+        },
+        {
+          "word": "cannot make it"
+        },
+        {
+          "word": "clothes don't make the man"
+        },
+        {
+          "word": "clothes make the man"
+        },
+        {
+          "word": "custom-make"
+        },
+        {
+          "word": "demake",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "word": "doctors make the worst patients"
+        },
+        {
+          "word": "don't get your honey where you make your money"
+        },
+        {
+          "word": "don't make me laugh"
+        },
+        {
+          "word": "empty barrels make the most noise"
+        },
+        {
+          "word": "empty cans make the most noise"
+        },
+        {
+          "word": "empty vessels make the most noise"
+        },
+        {
+          "word": "empty vessels make the most sound"
+        },
+        {
+          "word": "enough to make a cat laugh"
+        },
+        {
+          "word": "enough to make a grown man cry"
+        },
+        {
+          "word": "enough to make the angels weep"
+        },
+        {
+          "word": "fine feathers make fine birds"
+        },
+        {
+          "word": "foremake"
+        },
+        {
+          "word": "good fences make good neighbors"
+        },
+        {
+          "word": "good fences make good neighbours"
+        },
+        {
+          "word": "handmake"
+        },
+        {
+          "word": "hard cases make bad law"
+        },
+        {
+          "word": "how the sausage is made"
+        },
+        {
+          "word": "if I may make so bold"
+        },
+        {
+          "word": "it takes a heap of living to make a house a home"
+        },
+        {
+          "word": "it takes a heap o' livin' to make a house a home"
+        },
+        {
+          "word": "it takes all kinds to make a world"
+        },
+        {
+          "word": "it takes all sorts to make a world"
+        },
+        {
+          "word": "it takes a lot of living to make a house a home"
+        },
+        {
+          "word": "it takes two to make a quarrel"
+        },
+        {
+          "word": "know how many beans make five"
+        },
+        {
+          "word": "lawmaking"
+        },
+        {
+          "word": "life is what you make it"
+        },
+        {
+          "word": "Mackem"
+        },
+        {
+          "word": "mackerel sky and mare's-tails make lofty ships carry low sails"
+        },
+        {
+          "word": "mackerel sky and mare's-tails make tall ships carry low sails"
+        },
+        {
+          "word": "mackly"
+        },
+        {
+          "word": "makable"
+        },
+        {
+          "word": "make a better door than a window"
+        },
+        {
+          "word": "make a big thing out of"
+        },
+        {
+          "word": "makeability"
+        },
+        {
+          "word": "makeable"
+        },
+        {
+          "word": "make a bolt for it"
+        },
+        {
+          "word": "make a book"
+        },
+        {
+          "word": "make a break for it"
+        },
+        {
+          "word": "make a career of"
+        },
+        {
+          "word": "make a career out of"
+        },
+        {
+          "word": "make a case"
+        },
+        {
+          "word": "make a case for"
+        },
+        {
+          "word": "make a cat laugh"
+        },
+        {
+          "word": "make a clean breast"
+        },
+        {
+          "word": "make a dash for it"
+        },
+        {
+          "word": "make a day of it"
+        },
+        {
+          "word": "make a deal"
+        },
+        {
+          "word": "make a decision"
+        },
+        {
+          "word": "make a dent"
+        },
+        {
+          "word": "make a difference"
+        },
+        {
+          "word": "make a dollar out of fifteen cents"
+        },
+        {
+          "word": "make a face"
+        },
+        {
+          "word": "make a federal case out of something"
+        },
+        {
+          "word": "make a fist of"
+        },
+        {
+          "word": "make a fool of"
+        },
+        {
+          "word": "make a fool out of"
+        },
+        {
+          "word": "make a fortune"
+        },
+        {
+          "word": "make after"
+        },
+        {
+          "word": "make a fuss"
+        },
+        {
+          "word": "make against"
+        },
+        {
+          "word": "make a good fist of"
+        },
+        {
+          "word": "make a go of"
+        },
+        {
+          "word": "make a gra"
+        },
+        {
+          "word": "make a habit of"
+        },
+        {
+          "word": "make a hash of"
+        },
+        {
+          "word": "make-ahead"
+        },
+        {
+          "word": "make a hole"
+        },
+        {
+          "word": "make a joke of"
+        },
+        {
+          "word": "make a killing"
+        },
+        {
+          "word": "make a leg"
+        },
+        {
+          "word": "make a light"
+        },
+        {
+          "word": "make a lip"
+        },
+        {
+          "word": "make a living"
+        },
+        {
+          "word": "make all the difference"
+        },
+        {
+          "word": "make all the running"
+        },
+        {
+          "word": "make a long arm"
+        },
+        {
+          "word": "make a mark"
+        },
+        {
+          "word": "make a meal of"
+        },
+        {
+          "word": "make a meal out of"
+        },
+        {
+          "word": "make amends"
+        },
+        {
+          "word": "make a mistake"
+        },
+        {
+          "word": "make a mockery of"
+        },
+        {
+          "word": "make a monkey of"
+        },
+        {
+          "word": "make a monkey out of"
+        },
+        {
+          "word": "make a mountain out of a molehill"
+        },
+        {
+          "word": "make a move"
+        },
+        {
+          "word": "make a muscle"
+        },
+        {
+          "word": "make a name for oneself"
+        },
+        {
+          "word": "make an appearance"
+        },
+        {
+          "word": "make an ass of"
+        },
+        {
+          "word": "make-and-break"
+        },
+        {
+          "word": "make and mend"
+        },
+        {
+          "word": "make an effort"
+        },
+        {
+          "word": "make an entrance"
+        },
+        {
+          "word": "make an errand"
+        },
+        {
+          "word": "make an example of"
+        },
+        {
+          "word": "make an exception"
+        },
+        {
+          "word": "make an exhibition of oneself"
+        },
+        {
+          "word": "make an honest woman"
+        },
+        {
+          "word": "make an honest woman out of"
+        },
+        {
+          "word": "make a night of it"
+        },
+        {
+          "word": "make an impression"
+        },
+        {
+          "word": "make an offer"
+        },
+        {
+          "word": "make a noise in the world"
+        },
+        {
+          "word": "make a nuisance of oneself"
+        },
+        {
+          "word": "make a pass"
+        },
+        {
+          "word": "make a pig of oneself"
+        },
+        {
+          "word": "make a pig out of oneself"
+        },
+        {
+          "word": "make a pig's ear of"
+        },
+        {
+          "word": "make a pile"
+        },
+        {
+          "word": "make a play"
+        },
+        {
+          "word": "make a point"
+        },
+        {
+          "word": "make a poor fist of"
+        },
+        {
+          "word": "make a production out of"
+        },
+        {
+          "word": "make a promise"
+        },
+        {
+          "word": "make a public spectacle of oneself"
+        },
+        {
+          "word": "make a rabbit bite a bulldog"
+        },
+        {
+          "word": "make a run for it"
+        },
+        {
+          "word": "make a scene"
+        },
+        {
+          "word": "make a show of oneself"
+        },
+        {
+          "word": "make a silk purse of a sow's ear"
+        },
+        {
+          "word": "make a spectacle of oneself"
+        },
+        {
+          "word": "make a splash"
+        },
+        {
+          "word": "make a stand"
+        },
+        {
+          "word": "make a statement"
+        },
+        {
+          "word": "make a stick for one's own back"
+        },
+        {
+          "word": "make a stink"
+        },
+        {
+          "word": "make a time"
+        },
+        {
+          "word": "make a Virginia fence"
+        },
+        {
+          "word": "make a virtue of necessity"
+        },
+        {
+          "word": "make away"
+        },
+        {
+          "word": "makeaway"
+        },
+        {
+          "word": "make away with"
+        },
+        {
+          "word": "make a wish"
+        },
+        {
+          "word": "make a wrong turn at Albuquerque"
+        },
+        {
+          "word": "make baby Jesus cry"
+        },
+        {
+          "word": "make bank"
+        },
+        {
+          "word": "makebate"
+        },
+        {
+          "word": "make beautiful music together"
+        },
+        {
+          "word": "make-before-break"
+        },
+        {
+          "word": "make belief"
+        },
+        {
+          "word": "make-believe"
+        },
+        {
+          "word": "make believe"
+        },
+        {
+          "word": "make biscuits"
+        },
+        {
+          "word": "make bold"
+        },
+        {
+          "word": "make bones about"
+        },
+        {
+          "word": "make book"
+        },
+        {
+          "word": "make both ends meet"
+        },
+        {
+          "word": "make bricks without clay"
+        },
+        {
+          "word": "make bricks without straw"
+        },
+        {
+          "word": "make bricks without straws"
+        },
+        {
+          "word": "make capital out of"
+        },
+        {
+          "word": "make certain"
+        },
+        {
+          "word": "make common cause"
+        },
+        {
+          "word": "make conscience"
+        },
+        {
+          "word": "make contact with"
+        },
+        {
+          "word": "make conversation"
+        },
+        {
+          "word": "make-debate"
+        },
+        {
+          "word": "make default"
+        },
+        {
+          "word": "make do"
+        },
+        {
+          "word": "makedom"
+        },
+        {
+          "word": "make down"
+        },
+        {
+          "word": "make due"
+        },
+        {
+          "word": "make ends meet"
+        },
+        {
+          "word": "make every effort"
+        },
+        {
+          "word": "make eyes"
+        },
+        {
+          "word": "make faces"
+        },
+        {
+          "word": "make fair weather"
+        },
+        {
+          "word": "make fast"
+        },
+        {
+          "word": "makefast"
+        },
+        {
+          "word": "make fetch happen"
+        },
+        {
+          "word": "make file"
+        },
+        {
+          "word": "make fish of one and flesh of another"
+        },
+        {
+          "word": "make fish of one and fowl of another"
+        },
+        {
+          "word": "make flexible"
+        },
+        {
+          "word": "make for"
+        },
+        {
+          "word": "make foul water"
+        },
+        {
+          "word": "make-fray"
+        },
+        {
+          "word": "make free of"
+        },
+        {
+          "word": "make free with"
+        },
+        {
+          "word": "make friendly"
+        },
+        {
+          "word": "make friends"
+        },
+        {
+          "word": "make fun of"
+        },
+        {
+          "word": "makegame"
+        },
+        {
+          "word": "make game of"
+        },
+        {
+          "word": "make garden"
+        },
+        {
+          "word": "makegood"
+        },
+        {
+          "word": "make good"
+        },
+        {
+          "word": "make good on"
+        },
+        {
+          "word": "make good one's running"
+        },
+        {
+          "word": "make good time"
+        },
+        {
+          "word": "make ground"
+        },
+        {
+          "word": "make happen"
+        },
+        {
+          "word": "make hard work of"
+        },
+        {
+          "word": "make haste"
+        },
+        {
+          "word": "make hay"
+        },
+        {
+          "word": "make hay while the sun shines"
+        },
+        {
+          "word": "make head against"
+        },
+        {
+          "word": "make head nor tail of"
+        },
+        {
+          "word": "make head or tail of"
+        },
+        {
+          "word": "make headway"
+        },
+        {
+          "word": "make heavy going of"
+        },
+        {
+          "word": "make heavy weather"
+        },
+        {
+          "word": "make heavy weather of"
+        },
+        {
+          "word": "make history"
+        },
+        {
+          "word": "make interesting"
+        },
+        {
+          "word": "make into"
+        },
+        {
+          "word": "make it"
+        },
+        {
+          "word": "make it big"
+        },
+        {
+          "word": "make it count"
+        },
+        {
+          "word": "make it do or do without"
+        },
+        {
+          "word": "make it interesting"
+        },
+        {
+          "word": "make it make sense"
+        },
+        {
+          "word": "make it one's business"
+        },
+        {
+          "word": "make it one's life"
+        },
+        {
+          "word": "make it rain"
+        },
+        {
+          "word": "make it snappy"
+        },
+        {
+          "word": "make it so"
+        },
+        {
+          "word": "make it so that"
+        },
+        {
+          "word": "make-king"
+        },
+        {
+          "word": "make known"
+        },
+        {
+          "word": "make land"
+        },
+        {
+          "word": "make landfall"
+        },
+        {
+          "word": "make lemonade"
+        },
+        {
+          "word": "makeless"
+        },
+        {
+          "word": "make light of"
+        },
+        {
+          "word": "make light work of"
+        },
+        {
+          "word": "make like"
+        },
+        {
+          "word": "make like a baby and head out"
+        },
+        {
+          "word": "make like a banana and split"
+        },
+        {
+          "word": "make like a tree"
+        },
+        {
+          "word": "make like a tree and leave"
+        },
+        {
+          "word": "makeline"
+        },
+        {
+          "word": "make little of"
+        },
+        {
+          "word": "make love"
+        },
+        {
+          "word": "make love to the camera"
+        },
+        {
+          "word": "make matters worse"
+        },
+        {
+          "word": "make me"
+        },
+        {
+          "word": "make mention"
+        },
+        {
+          "word": "make mention of"
+        },
+        {
+          "word": "make merry"
+        },
+        {
+          "word": "make mileage out of"
+        },
+        {
+          "word": "make mincemeat of"
+        },
+        {
+          "word": "make mincemeat out of"
+        },
+        {
+          "word": "make moan"
+        },
+        {
+          "word": "make mockery of"
+        },
+        {
+          "word": "make money"
+        },
+        {
+          "word": "make mouths"
+        },
+        {
+          "word": "make much"
+        },
+        {
+          "word": "make muffins"
+        },
+        {
+          "word": "make music"
+        },
+        {
+          "word": "make neither head nor tail of"
+        },
+        {
+          "word": "make news"
+        },
+        {
+          "word": "make nice"
+        },
+        {
+          "word": "make no bones about"
+        },
+        {
+          "word": "make noise"
+        },
+        {
+          "word": "make noises"
+        },
+        {
+          "word": "make no mistake"
+        },
+        {
+          "word": "make no odds"
+        },
+        {
+          "word": "make no secret of"
+        },
+        {
+          "word": "make nothing of"
+        },
+        {
+          "word": "make of"
+        },
+        {
+          "word": "make off"
+        },
+        {
+          "word": "make off with"
+        },
+        {
+          "word": "make old bones"
+        },
+        {
+          "word": "make one"
+        },
+        {
+          "word": "make one's bed"
+        },
+        {
+          "word": "make one's bed and lie in it"
+        },
+        {
+          "word": "make one's bones"
+        },
+        {
+          "word": "make one's bow"
+        },
+        {
+          "word": "make oneself at home"
+        },
+        {
+          "word": "make oneself clear"
+        },
+        {
+          "word": "make oneself scarce"
+        },
+        {
+          "word": "make one's entrance"
+        },
+        {
+          "word": "make one's exit"
+        },
+        {
+          "word": "make one's hand"
+        },
+        {
+          "word": "make one's manners"
+        },
+        {
+          "word": "make one's mark"
+        },
+        {
+          "word": "make one's number"
+        },
+        {
+          "word": "make one's own"
+        },
+        {
+          "word": "make one's own luck"
+        },
+        {
+          "word": "make one's presence felt"
+        },
+        {
+          "word": "make one's toenails curl"
+        },
+        {
+          "word": "make one's toes curl"
+        },
+        {
+          "word": "make one's toilet"
+        },
+        {
+          "word": "make one's way"
+        },
+        {
+          "word": "make or break"
+        },
+        {
+          "word": "make-or-break"
+        },
+        {
+          "word": "make out"
+        },
+        {
+          "word": "make out like a bandit"
+        },
+        {
+          "word": "make out of"
+        },
+        {
+          "word": "make out with"
+        },
+        {
+          "word": "make over"
+        },
+        {
+          "word": "make peace"
+        },
+        {
+          "word": "makepeace"
+        },
+        {
+          "word": "make pigs and whistles of"
+        },
+        {
+          "word": "make pigs and whistles of something"
+        },
+        {
+          "word": "make position"
+        },
+        {
+          "word": "make pretend"
+        },
+        {
+          "word": "make quick work of"
+        },
+        {
+          "word": "make-ready"
+        },
+        {
+          "word": "make right"
+        },
+        {
+          "word": "make room"
+        },
+        {
+          "word": "make sail"
+        },
+        {
+          "word": "make semblant"
+        },
+        {
+          "word": "make sense"
+        },
+        {
+          "word": "make shift"
+        },
+        {
+          "word": "makeshift"
+        },
+        {
+          "word": "make ship"
+        },
+        {
+          "word": "make shit of"
+        },
+        {
+          "word": "make shit shake"
+        },
+        {
+          "word": "make short work of"
+        },
+        {
+          "word": "make some noise"
+        },
+        {
+          "word": "make someone hard to catch"
+        },
+        {
+          "word": "make someone's acquaintance"
+        },
+        {
+          "word": "make someone's blood boil"
+        },
+        {
+          "word": "make someone's day"
+        },
+        {
+          "word": "make someone's ears sad"
+        },
+        {
+          "word": "make someone's flesh crawl"
+        },
+        {
+          "word": "make someone's flesh creep"
+        },
+        {
+          "word": "make someone's hair curl"
+        },
+        {
+          "word": "make someone's hair stand on end"
+        },
+        {
+          "word": "make someone's head spin"
+        },
+        {
+          "word": "make someone's jaw drop"
+        },
+        {
+          "word": "make someone's skin crawl"
+        },
+        {
+          "word": "make someone's skin creep"
+        },
+        {
+          "word": "make someone's teeth itch"
+        },
+        {
+          "word": "make someone's toenails curl"
+        },
+        {
+          "word": "make someone's toes curl"
+        },
+        {
+          "word": "make something of"
+        },
+        {
+          "word": "make something of oneself"
+        },
+        {
+          "word": "makespan"
+        },
+        {
+          "word": "make-sport"
+        },
+        {
+          "word": "make sport of"
+        },
+        {
+          "word": "make strange"
+        },
+        {
+          "word": "make streaks"
+        },
+        {
+          "word": "make strides"
+        },
+        {
+          "word": "makestrife"
+        },
+        {
+          "word": "make sure"
+        },
+        {
+          "word": "make terms"
+        },
+        {
+          "word": "make the angels blush"
+        },
+        {
+          "word": "make the bald man cry"
+        },
+        {
+          "word": "make the bed"
+        },
+        {
+          "word": "make the best of"
+        },
+        {
+          "word": "make the best of a bad bargain"
+        },
+        {
+          "word": "make the best of a bad job"
+        },
+        {
+          "word": "make the best of one's way"
+        },
+        {
+          "word": "make the case for"
+        },
+        {
+          "word": "make the cheese more binding"
+        },
+        {
+          "word": "make the cut"
+        },
+        {
+          "word": "make the deasil"
+        },
+        {
+          "word": "make the difference"
+        },
+        {
+          "word": "make the dust fly"
+        },
+        {
+          "word": "make the feathers fly"
+        },
+        {
+          "word": "make the first move"
+        },
+        {
+          "word": "make the fur fly"
+        },
+        {
+          "word": "make the grade"
+        },
+        {
+          "word": "make the headlines"
+        },
+        {
+          "word": "make the most of"
+        },
+        {
+          "word": "make the news"
+        },
+        {
+          "word": "make the passes"
+        },
+        {
+          "word": "make the perfect the enemy of the good"
+        },
+        {
+          "word": "make the riffle"
+        },
+        {
+          "word": "make the road shorter"
+        },
+        {
+          "word": "make the rounds"
+        },
+        {
+          "word": "make the running"
+        },
+        {
+          "word": "make the weather"
+        },
+        {
+          "word": "make the welkin ring"
+        },
+        {
+          "word": "make the world go around"
+        },
+        {
+          "word": "make the world go round"
+        },
+        {
+          "word": "make the wrong turn at Albuquerque"
+        },
+        {
+          "word": "make things interesting"
+        },
+        {
+          "word": "make this world go around"
+        },
+        {
+          "word": "make this world go round"
+        },
+        {
+          "word": "make tick"
+        },
+        {
+          "word": "make time"
+        },
+        {
+          "word": "make time with"
+        },
+        {
+          "word": "make to order"
+        },
+        {
+          "word": "make to stock"
+        },
+        {
+          "word": "make tracks"
+        },
+        {
+          "word": "make tracks for"
+        },
+        {
+          "word": "make trial of"
+        },
+        {
+          "word": "make up"
+        },
+        {
+          "word": "make up to"
+        },
+        {
+          "word": "make use"
+        },
+        {
+          "word": "make vintage"
+        },
+        {
+          "word": "make water"
+        },
+        {
+          "word": "make waves"
+        },
+        {
+          "word": "make way"
+        },
+        {
+          "word": "makeweight"
+        },
+        {
+          "word": "make whole"
+        },
+        {
+          "word": "make whoopee"
+        },
+        {
+          "word": "make with"
+        },
+        {
+          "word": "make-work"
+        },
+        {
+          "word": "make wudu"
+        },
+        {
+          "word": "make yourself at home"
+        },
+        {
+          "word": "make yourselves at home"
+        },
+        {
+          "word": "many a mickle makes a muckle"
+        },
+        {
+          "word": "many hands make light work"
+        },
+        {
+          "word": "matchless"
+        },
+        {
+          "word": "matchmake"
+        },
+        {
+          "word": "meddle and make"
+        },
+        {
+          "word": "meddle nor make"
+        },
+        {
+          "word": "meddle or make"
+        },
+        {
+          "word": "mismake"
+        },
+        {
+          "word": "newmake"
+        },
+        {
+          "word": "new-make"
+        },
+        {
+          "word": "not make any bones about"
+        },
+        {
+          "word": "one swallow does not a spring make"
+        },
+        {
+          "word": "one swallow does not make a spring"
+        },
+        {
+          "word": "one swallow does not make a summer"
+        },
+        {
+          "word": "one swallow doesn't a spring make"
+        },
+        {
+          "word": "one swallow doesn't a summer make"
+        },
+        {
+          "word": "one swallow doesn't make a spring"
+        },
+        {
+          "word": "one swallow doesn't make a summer"
+        },
+        {
+          "word": "overmake"
+        },
+        {
+          "word": "premake"
+        },
+        {
+          "word": "put two and two together and make five"
+        },
+        {
+          "word": "remake"
+        },
+        {
+          "word": "short accounts make long friends"
+        },
+        {
+          "word": "short reckonings make long friends"
+        },
+        {
+          "word": "stuff dreams are made of"
+        },
+        {
+          "word": "tailor make"
+        },
+        {
+          "word": "tailor-make"
+        },
+        {
+          "word": "the cowl does not make the monk"
+        },
+        {
+          "word": "they don't make them like that anymore"
+        },
+        {
+          "word": "they don't make them like they used to"
+        },
+        {
+          "word": "time to make the donuts"
+        },
+        {
+          "word": "troublemaker"
+        },
+        {
+          "word": "two wrongs don't make a right"
+        },
+        {
+          "word": "two wrongs make a right"
+        },
+        {
+          "word": "unmake"
+        },
+        {
+          "word": "unmakeable"
+        },
+        {
+          "word": "upmake"
+        },
+        {
+          "word": "ve haf vays of making you talk"
+        },
+        {
+          "word": "wanton kittens make sober cats"
+        },
+        {
+          "word": "we all make mistakes"
+        },
+        {
+          "word": "what do you make the time"
+        },
+        {
+          "word": "what time do you make it"
+        },
+        {
+          "word": "you can't make an omelette without breaking eggs"
+        },
+        {
+          "word": "you can't make a silk purse of a sow's ear"
+        },
+        {
+          "word": "you make the bed you lie in"
+        },
+        {
+          "word": "you've got to crack a few eggs to make an omelette"
+        }
+      ],
+      "related": [],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [
+        {
+          "word": "製造 /制造",
+          "code": "cmn",
+          "sense": "to construct"
+        },
+        {
+          "word": "做",
+          "code": "cmn",
+          "sense": "to construct"
+        },
+        {
+          "word": "製作 /制作",
+          "code": "cmn",
+          "sense": "to construct"
+        },
+        {
+          "word": "使",
+          "code": "cmn",
+          "sense": "to cause to be"
+        },
+        {
+          "word": "使得",
+          "code": "cmn",
+          "sense": "to cause to be"
+        },
+        {
+          "word": "賺 /赚",
+          "code": "cmn",
+          "sense": "to earn, to gain (money)"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "To create.",
+            "To build, construct, produce, or originate."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "We made a bird feeder for our yard.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  3,
+                  7
+                ]
+              ]
+            },
+            {
+              "text": "I'll make a man out of him yet.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "text": "He makes deodorants.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  3,
+                  8
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "fabricate"
+            },
+            {
+              "word": "artifice"
+            },
+            {
+              "word": "assemble"
+            },
+            {
+              "word": "betimber"
+            },
+            {
+              "word": "build"
+            },
+            {
+              "word": "build up"
+            },
+            {
+              "word": "compile",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "construct"
+            },
+            {
+              "word": "edify"
+            },
+            {
+              "word": "erect"
+            },
+            {
+              "word": "extruct",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "fabricate"
+            },
+            {
+              "word": "fashion"
+            },
+            {
+              "word": "form"
+            },
+            {
+              "word": "knock up"
+            },
+            {
+              "word": "make"
+            },
+            {
+              "word": "manufacture"
+            },
+            {
+              "word": "produce"
+            },
+            {
+              "word": "put together"
+            },
+            {
+              "word": "put up"
+            },
+            {
+              "word": "raise"
+            },
+            {
+              "word": "rear",
+              "tags": [
+                "rare"
+              ]
+            },
+            {
+              "word": "timber",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "upbuild"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To create.",
+            "To write or compose."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "I made a poem for her wedding.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  2,
+                  6
+                ]
+              ]
+            },
+            {
+              "text": "He made a will.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  3,
+                  7
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To create.",
+            "To bring about; to effect or produce by means of some action."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "make war",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "text": "They were just a bunch of ne'er-do-wells who went around making trouble for honest men.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  57,
+                  63
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To create.",
+            "To create (the universe), especially (in Christianity) from nothing."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "God made earth and heaven.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  4,
+                  8
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To create.",
+            "To prepare (food); to cook (food)."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "I'm making cereal for breakfast. Who wants some?",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  4,
+                  10
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To behave, to act."
+          ],
+          "tags": [
+            "colloquial",
+            "intransitive"
+          ],
+          "examples": [
+            {
+              "text": "To make like a deer caught in the headlights.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  3,
+                  7
+                ]
+              ]
+            },
+            {
+              "text": "They made nice together, as if their fight never happened.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "text": "He made as if to punch him, but they both laughed and shook hands.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  3,
+                  7
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To tend; to contribute; to have effect; with for or against."
+          ],
+          "tags": [
+            "intransitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To constitute."
+          ],
+          "examples": [
+            {
+              "text": "They make a cute couple.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "text": "This makes the third infraction.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  5,
+                  10
+                ]
+              ]
+            },
+            {
+              "text": "One swallow does not a summer make.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  30,
+                  34
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To add up to, have a sum of."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "Two and four make six.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To interpret."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "I don’t know what to make of it.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  21,
+                  25
+                ]
+              ]
+            },
+            {
+              "text": "They couldn't make anything of the inscription.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  14,
+                  18
+                ]
+              ]
+            },
+            {
+              "text": "What time do you make it?",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To bring into success."
+          ],
+          "tags": [
+            "stressed",
+            "transitive",
+            "usually"
+          ],
+          "examples": [
+            {
+              "text": "This company is what made you.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  21,
+                  25
+                ]
+              ]
+            },
+            {
+              "text": "She married into wealth and so has it made.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  38,
+                  42
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To cause to be."
+          ],
+          "tags": [
+            "ditransitive"
+          ],
+          "examples": [
+            {
+              "text": "The blisters on my foot made it a problem to walk without a cane.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  24,
+                  28
+                ]
+              ]
+            },
+            {
+              "text": "Caesar made rich men of his supporters back in Rome.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  7,
+                  11
+                ]
+              ]
+            },
+            {
+              "text": "The citizens made their objections clear.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "text": "This might make you a bit woozy.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "text": "Did I make myself heard?",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  6,
+                  10
+                ]
+              ]
+            },
+            {
+              "text": "Scotch will make you a man.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  12,
+                  16
+                ]
+              ]
+            },
+            {
+              "text": "Mom made it clear what she expected from me in college.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  4,
+                  8
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "render"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To cause to appear to be; to represent as."
+          ],
+          "examples": [
+            {
+              "text": "Homer makes Aphrodite the daughter of Zeus, unlike Hesiod who depicted her as born from the sea foam.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  6,
+                  11
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To cause (to do something); to compel (to do something)."
+          ],
+          "tags": [
+            "ditransitive"
+          ],
+          "examples": [
+            {
+              "text": "You're making her cry.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  7,
+                  13
+                ]
+              ]
+            },
+            {
+              "text": "I was made to feel like a criminal.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  6,
+                  10
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To force to do."
+          ],
+          "tags": [
+            "ditransitive"
+          ],
+          "examples": [
+            {
+              "text": "The teacher made the student study harder.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  12,
+                  16
+                ]
+              ]
+            },
+            {
+              "text": "Don’t let them make you suffer.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  15,
+                  19
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To indicate or suggest to be."
+          ],
+          "tags": [
+            "ditransitive"
+          ],
+          "examples": [
+            {
+              "text": "His past mistakes don’t make him a bad person.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  24,
+                  28
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To cover neatly with bedclothes."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "senseid": [
+            "en:bed"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To recognise, identify, spot."
+          ],
+          "tags": [
+            "US",
+            "slang",
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "twig"
+            },
+            {
+              "word": "notice"
+            },
+            {
+              "word": "clock",
+              "tags": [
+                "regional"
+              ]
+            },
+            {
+              "word": "ID"
+            },
+            {
+              "word": "identify"
+            },
+            {
+              "word": "ken",
+              "tags": [
+                "Scottish"
+              ]
+            },
+            {
+              "word": "to make someone"
+            },
+            {
+              "word": "notice"
+            },
+            {
+              "word": "recognize"
+            },
+            {
+              "word": "twig",
+              "tags": [
+                "regional"
+              ]
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To arrive at a destination, usually at or by a certain time."
+          ],
+          "tags": [
+            "colloquial",
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "We should make Cincinnati by 7 tonight.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  10,
+                  14
+                ]
+              ]
+            },
+            {
+              "text": "I won't be able to make dinner; something's come up at work.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  19,
+                  23
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To proceed (in a direction)."
+          ],
+          "tags": [
+            "colloquial",
+            "intransitive"
+          ],
+          "examples": [
+            {
+              "text": "They made westward over the snowy mountains.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "text": "Make for the hills! It's a wildfire!",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "text": "They made away from the fire toward the river.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To cover (a given distance) by travelling."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To move at (a speed)."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "The ship could make 20 knots an hour in calm seas.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  15,
+                  19
+                ]
+              ]
+            },
+            {
+              "text": "This baby can make 220 miles an hour.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  14,
+                  18
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To appoint; to name."
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To induct into the Mafia or a similar organization (as a made man)."
+          ],
+          "tags": [
+            "slang",
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To defecate or urinate."
+          ],
+          "tags": [
+            "colloquial",
+            "euphemistic",
+            "intransitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To earn, to gain (money, points, membership or status)."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "They hope to make a bigger profit.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "text": "He didn't make the choir after his voice changed.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  10,
+                  14
+                ]
+              ]
+            },
+            {
+              "text": "She made ten points in that game.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  4,
+                  8
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To achieve coverage in; to appear in."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To pay, to cover (an expense); chiefly used after expressions of inability."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To compose verses; to write poetry; to versify."
+          ],
+          "tags": [
+            "intransitive",
+            "obsolete"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To enact; to establish."
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To develop into; to prove to be."
+          ],
+          "examples": [
+            {
+              "text": "She'll make a fine president.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  7,
+                  11
+                ]
+              ]
+            },
+            {
+              "text": "Classical literature usually makes heavy reading.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  29,
+                  33
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To study or train so as to become (a profession); to grow up to be (something)."
+          ],
+          "tags": [
+            "Appalachia"
+          ],
+          "examples": [
+            {
+              "text": "He'll make a doctor one day.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  6,
+                  10
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To form or formulate in the mind."
+          ],
+          "examples": [
+            {
+              "text": "make plans",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "text": "made a questionable decision",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To perform a feat."
+          ],
+          "examples": [
+            {
+              "text": "make a leap",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "text": "make a pass",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "text": "make a u-turn",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To gain sufficient audience to warrant its existence."
+          ],
+          "tags": [
+            "intransitive"
+          ],
+          "examples": [
+            {
+              "text": "In the end, my class didn't make, which left me with a bit of free time.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  28,
+                  32
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make."
+          ],
+          "tags": [
+            "obsolete"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To increase; to augment; to accrue."
+          ],
+          "tags": [
+            "obsolete"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To be engaged or concerned in."
+          ],
+          "tags": [
+            "obsolete"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To cause to be (in a specified place), used after a subjective what."
+          ],
+          "tags": [
+            "archaic"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To take the virginity of."
+          ],
+          "tags": [
+            "euphemistic",
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To have sexual intercourse with."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "Formal terms"
+            },
+            {
+              "word": "bed"
+            },
+            {
+              "word": "coit"
+            },
+            {
+              "word": "coitize"
+            },
+            {
+              "word": "dight",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "enjoy"
+            },
+            {
+              "word": "feague",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "go in unto",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "go to bed with"
+            },
+            {
+              "word": "have"
+            },
+            {
+              "word": "know",
+              "tags": [
+                "archaic"
+              ]
+            },
+            {
+              "word": "lie by",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "lie with"
+            },
+            {
+              "word": "love",
+              "tags": [
+                "euphemistic"
+              ]
+            },
+            {
+              "word": "mount"
+            },
+            {
+              "word": "occupy",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "penetrate"
+            },
+            {
+              "word": "season",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "seduce",
+              "tags": [
+                "euphemistic"
+              ]
+            },
+            {
+              "word": "sleep with"
+            },
+            {
+              "word": "take"
+            },
+            {
+              "word": "Any of Thesaurus:copulate + \"with\""
+            },
+            {
+              "word": "Informal and slang terms"
+            },
+            {
+              "word": "ball"
+            },
+            {
+              "word": "bang"
+            },
+            {
+              "word": "bauf",
+              "tags": [
+                "rare"
+              ]
+            },
+            {
+              "word": "beep"
+            },
+            {
+              "word": "be with",
+              "tags": [
+                "euphemistic"
+              ]
+            },
+            {
+              "word": "bone"
+            },
+            {
+              "word": "boff"
+            },
+            {
+              "word": "boink"
+            },
+            {
+              "word": "bonk"
+            },
+            {
+              "word": "boom-boom"
+            },
+            {
+              "word": "dick"
+            },
+            {
+              "word": "diddle"
+            },
+            {
+              "word": "dig out"
+            },
+            {
+              "word": "do"
+            },
+            {
+              "word": "doink",
+              "tags": [
+                "US",
+                "humorous"
+              ]
+            },
+            {
+              "word": "drill"
+            },
+            {
+              "word": "eff",
+              "tags": [
+                "euphemistic"
+              ]
+            },
+            {
+              "word": "expletive deleted",
+              "tags": [
+                "euphemistic",
+                "humorous",
+                "rare"
+              ]
+            },
+            {
+              "word": "fill"
+            },
+            {
+              "word": "frack"
+            },
+            {
+              "word": "frak"
+            },
+            {
+              "word": "frick"
+            },
+            {
+              "word": "frig"
+            },
+            {
+              "word": "fuck"
+            },
+            {
+              "word": "get into someone's pants"
+            },
+            {
+              "word": "get over on"
+            },
+            {
+              "word": "get up in"
+            },
+            {
+              "word": "give someone one"
+            },
+            {
+              "word": "give someone the time"
+            },
+            {
+              "word": "go with"
+            },
+            {
+              "word": "have one's way with"
+            },
+            {
+              "word": "have one's wicked way with"
+            },
+            {
+              "word": "hit"
+            },
+            {
+              "word": "hump"
+            },
+            {
+              "word": "jape",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "jump"
+            },
+            {
+              "word": "jump someone's bones"
+            },
+            {
+              "word": "knob",
+              "tags": [
+                "UK"
+              ]
+            },
+            {
+              "word": "knock"
+            },
+            {
+              "word": "knock off"
+            },
+            {
+              "word": "know someone in the biblical sense"
+            },
+            {
+              "word": "lay"
+            },
+            {
+              "word": "love up"
+            },
+            {
+              "word": "make"
+            },
+            {
+              "word": "nail"
+            },
+            {
+              "word": "plough"
+            },
+            {
+              "word": "plug"
+            },
+            {
+              "word": "poke"
+            },
+            {
+              "word": "pork"
+            },
+            {
+              "word": "pound"
+            },
+            {
+              "word": "prig"
+            },
+            {
+              "word": "pump",
+              "tags": [
+                "UK",
+                "obsolete"
+              ]
+            },
+            {
+              "word": "ravage"
+            },
+            {
+              "word": "ream"
+            },
+            {
+              "word": "rock",
+              "tags": [
+                "euphemistic"
+              ]
+            },
+            {
+              "word": "roger"
+            },
+            {
+              "word": "root",
+              "tags": [
+                "Australia"
+              ]
+            },
+            {
+              "word": "run through",
+              "tags": [
+                "idiomatic"
+              ]
+            },
+            {
+              "word": "rut",
+              "tags": [
+                "rare"
+              ]
+            },
+            {
+              "word": "sard",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "schlong"
+            },
+            {
+              "word": "screw"
+            },
+            {
+              "word": "see to",
+              "tags": [
+                "UK"
+              ]
+            },
+            {
+              "word": "service"
+            },
+            {
+              "word": "shaft"
+            },
+            {
+              "word": "shag"
+            },
+            {
+              "word": "shelve",
+              "tags": [
+                "Wales"
+              ]
+            },
+            {
+              "word": "slay"
+            },
+            {
+              "word": "slip it to"
+            },
+            {
+              "word": "smash"
+            },
+            {
+              "word": "smush",
+              "tags": [
+                "US",
+                "dialectal"
+              ]
+            },
+            {
+              "word": "stallionize"
+            },
+            {
+              "word": "swive",
+              "tags": [
+                "obsolete"
+              ]
+            },
+            {
+              "word": "tap"
+            },
+            {
+              "word": "tup"
+            },
+            {
+              "word": "wap"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Of water, to flow toward land; to rise."
+          ],
+          "tags": [
+            "intransitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To establish two or more men on (a point) so that it cannot be captured."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "lang_code": "en",
+      "pos": "noun",
+      "etymology_number": "1",
+      "sounds": [
+        {
+          "ipa": "/meɪk/"
+        },
+        {
+          "ipa": "[meɪkʲ]"
+        },
+        {
+          "ipa": "[meːk]",
+          "tags": [
+            "Canada",
+            "Multicultural-London-English"
+          ]
+        },
+        {
+          "ipa": "/mɛk/",
+          "tags": [
+            "Northumbria"
+          ]
+        },
+        {
+          "ipa": "/mæk/",
+          "tags": [
+            "Wearside"
+          ]
+        },
+        {
+          "tags": [
+            "UK"
+          ],
+          "audio": "en-uk-to make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/En-uk-to_make.ogg/En-uk-to_make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/En-uk-to_make.ogg"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/En-us-make.ogg/En-us-make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/En-us-make.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "makes",
+          "tags": [
+            "plural"
+          ]
+        },
+        {
+          "form": "mak",
+          "tags": [
+            "alternative",
+            "Durham",
+            "Wearside",
+            "dialectal"
+          ]
+        },
+        {
+          "form": "makee",
+          "tags": [
+            "alternative",
+            "pronunciation-spelling"
+          ]
+        },
+        {
+          "form": "myek",
+          "tags": [
+            "alternative",
+            "Geordie",
+            "dialectal"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "demake",
+          "tags": [
+            "noun"
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "match"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [
+        {
+          "word": "牌子",
+          "code": "cmn",
+          "sense": "brand"
+        },
+        {
+          "word": "品牌",
+          "code": "cmn",
+          "sense": "brand"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "Brand; marque; manufacturer; maker."
+          ],
+          "senseid": [
+            "en:brand, marque, manufacturer"
+          ],
+          "examples": [
+            {
+              "text": "we service all makes and models",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  15,
+                  20
+                ]
+              ],
+              "tags": [
+                "collocation"
+              ]
+            },
+            {
+              "text": "Q: What make and model of car do you drive? A: It's a Buick LaCrosse.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  8,
+                  12
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "kind"
+            },
+            {
+              "word": "type"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Manner or style of construction (style of how a thing is made)."
+          ],
+          "senseid": [
+            "en:manner or style of construction"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "makeup"
+            },
+            {
+              "word": "form"
+            },
+            {
+              "word": "conformation"
+            },
+            {
+              "word": "composition"
+            },
+            {
+              "word": "form factor"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Origin (of a manufactured article); manufacture; production."
+          ],
+          "senseid": [
+            "en:origin of production, production, manufacture"
+          ],
+          "examples": [
+            {
+              "text": "The camera was of German make.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  25,
+                  29
+                ]
+              ]
+            },
+            {
+              "text": "The camera was of recent make.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  25,
+                  29
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A person's character or disposition."
+          ],
+          "senseid": [
+            "en:character or disposition of a person"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The act or process of making something, especially in industrial manufacturing."
+          ],
+          "tags": [
+            "dated"
+          ],
+          "senseid": [
+            "en:act or process of making something"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "making"
+            },
+            {
+              "word": "manufacture"
+            },
+            {
+              "word": "manufacturing"
+            },
+            {
+              "word": "production"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Quantity produced, especially of materials."
+          ],
+          "tags": [
+            "uncountable"
+          ],
+          "senseid": [
+            "en:quantity produced"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "production"
+            },
+            {
+              "word": "output"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A software utility for automatically building large applications, or an implementation of this utility."
+          ],
+          "senseid": [
+            "en:type of software utility"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Identification: recognition (of identity), especially from police records or evidence."
+          ],
+          "tags": [
+            "slang"
+          ],
+          "senseid": [
+            "en:identification, recognition of identity"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "ID"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A promotion."
+          ],
+          "tags": [
+            "slang"
+          ],
+          "senseid": [
+            "en:promotion in military rank"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A homemade project, particularly one demonstrated on television."
+          ],
+          "senseid": [
+            "en:homemade project"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Turn to declare the trump for a hand (in bridge), or to shuffle the cards."
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A made basket."
+          ],
+          "senseid": [
+            "en:a made basket, in basketball"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The closing of an electrical circuit."
+          ],
+          "senseid": [
+            "en:the closing of an electrical circuit"
+          ],
+          "examples": [],
+          "synonyms": [
+            {
+              "word": "completion"
+            },
+            {
+              "word": "actuation"
+            }
+          ],
+          "antonyms": [
+            {
+              "word": "break"
+            }
+          ],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "lang_code": "en",
+      "pos": "noun",
+      "etymology_number": "2",
+      "sounds": [
+        {
+          "ipa": "/meɪk/"
+        },
+        {
+          "ipa": "[meɪkʲ]"
+        },
+        {
+          "ipa": "[meːk]",
+          "tags": [
+            "Canada",
+            "Multicultural-London-English"
+          ]
+        },
+        {
+          "ipa": "/mɛk/",
+          "tags": [
+            "Northumbria"
+          ]
+        },
+        {
+          "ipa": "/mæk/",
+          "tags": [
+            "Wearside"
+          ]
+        },
+        {
+          "tags": [
+            "UK"
+          ],
+          "audio": "en-uk-to make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/En-uk-to_make.ogg/En-uk-to_make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/En-uk-to_make.ogg"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/En-us-make.ogg/En-us-make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/En-us-make.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "makes",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "make-hawk"
+        },
+        {
+          "word": "on the make"
+        },
+        {
+          "word": "put the make on"
+        }
+      ],
+      "related": [],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "Past, present, or future target of seduction (usually female)."
+          ],
+          "tags": [
+            "slang"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Mate; a spouse or companion; a match."
+          ],
+          "tags": [
+            "UK",
+            "dialectal"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "lang_code": "en",
+      "pos": "noun",
+      "etymology_number": "3",
+      "sounds": [
+        {
+          "ipa": "/meɪk/"
+        },
+        {
+          "ipa": "[meɪkʲ]"
+        },
+        {
+          "ipa": "[meːk]",
+          "tags": [
+            "Canada",
+            "Multicultural-London-English"
+          ]
+        },
+        {
+          "ipa": "/mɛk/",
+          "tags": [
+            "Northumbria"
+          ]
+        },
+        {
+          "ipa": "/mæk/",
+          "tags": [
+            "Wearside"
+          ]
+        },
+        {
+          "tags": [
+            "UK"
+          ],
+          "audio": "en-uk-to make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/En-uk-to_make.ogg/En-uk-to_make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/En-uk-to_make.ogg"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/En-us-make.ogg/En-us-make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/En-us-make.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "makes",
+          "tags": [
+            "plural"
+          ]
+        },
+        {
+          "form": "meck",
+          "tags": [
+            "alternative",
+            "Scotland"
+          ]
+        }
+      ],
+      "derived": [],
+      "related": [],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "A halfpenny."
+          ],
+          "tags": [
+            "Ireland",
+            "Northern-England",
+            "Scotland",
+            "archaic"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "lang_code": "en",
+      "pos": "noun",
+      "etymology_number": "4",
+      "sounds": [
+        {
+          "ipa": "/meɪk/"
+        },
+        {
+          "ipa": "[meɪkʲ]"
+        },
+        {
+          "ipa": "[meːk]",
+          "tags": [
+            "Canada",
+            "Multicultural-London-English"
+          ]
+        },
+        {
+          "ipa": "/mɛk/",
+          "tags": [
+            "Northumbria"
+          ]
+        },
+        {
+          "ipa": "/mæk/",
+          "tags": [
+            "Wearside"
+          ]
+        },
+        {
+          "tags": [
+            "UK"
+          ],
+          "audio": "en-uk-to make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/En-uk-to_make.ogg/En-uk-to_make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/En-uk-to_make.ogg"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-make.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/En-us-make.ogg/En-us-make.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/En-us-make.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "makes",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "derived": [],
+      "related": [
+        {
+          "word": "make-koshi"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares."
+          ],
+          "tags": [
+            "East-Anglia",
+            "Essex",
+            "obsolete"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "destroy",
+      "lang_code": "en",
+      "pos": "verb",
+      "sounds": [
+        {
+          "ipa": "/dɪˈstɹɔɪ/"
+        },
+        {
+          "tags": [
+            "US"
+          ],
+          "audio": "en-us-destroy.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/En-us-destroy.ogg/En-us-destroy.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/En-us-destroy.ogg"
+        },
+        {
+          "tags": [
+            "Southern-England"
+          ],
+          "audio": "LL-Q1860 (eng)-Vealhurl-destroy.wav",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/LL-Q1860_%28eng%29-Vealhurl-destroy.wav/LL-Q1860_%28eng%29-Vealhurl-destroy.wav.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/LL-Q1860_%28eng%29-Vealhurl-destroy.wav/LL-Q1860_%28eng%29-Vealhurl-destroy.wav.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "destroys",
+          "tags": [
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "destroying",
+          "tags": [
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "destroyed",
+          "tags": [
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "destroyed",
+          "tags": [
+            "past"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "destroyability"
+        },
+        {
+          "word": "destroyable"
+        },
+        {
+          "word": "destroyal"
+        },
+        {
+          "word": "Destroy Dick December"
+        },
+        {
+          "word": "destroyed jeans"
+        },
+        {
+          "word": "destroyer"
+        },
+        {
+          "word": "destroyer escort"
+        },
+        {
+          "word": "destroying angel"
+        },
+        {
+          "word": "destroyingly"
+        },
+        {
+          "word": "downstroy"
+        },
+        {
+          "word": "redestroy"
+        },
+        {
+          "word": "undestroy"
+        },
+        {
+          "word": "undestroyed"
+        }
+      ],
+      "related": [
+        {
+          "word": "destruct"
+        },
+        {
+          "word": "destructible"
+        },
+        {
+          "word": "destruction"
+        },
+        {
+          "word": "destructive"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "annihilate"
+        },
+        {
+          "word": "break"
+        },
+        {
+          "word": "demolish"
+        },
+        {
+          "word": "kill"
+        },
+        {
+          "word": "ruin"
+        },
+        {
+          "word": "waste"
+        },
+        {
+          "word": "destroy"
+        },
+        {
+          "word": "aerosolize"
+        },
+        {
+          "word": "atomize"
+        },
+        {
+          "word": "benothing",
+          "tags": [
+            "obsolete",
+            "rare"
+          ]
+        },
+        {
+          "word": "bewreck"
+        },
+        {
+          "word": "blot out"
+        },
+        {
+          "word": "blotto"
+        },
+        {
+          "word": "dash"
+        },
+        {
+          "word": "decompose"
+        },
+        {
+          "word": "desolate"
+        },
+        {
+          "word": "devastate"
+        },
+        {
+          "word": "diffuse"
+        },
+        {
+          "word": "disintegrate"
+        },
+        {
+          "word": "disperse"
+        },
+        {
+          "word": "dissolve"
+        },
+        {
+          "word": "eliminate"
+        },
+        {
+          "word": "eradicate"
+        },
+        {
+          "word": "erase"
+        },
+        {
+          "word": "exterminate"
+        },
+        {
+          "word": "extinguish"
+        },
+        {
+          "word": "extirpate"
+        },
+        {
+          "word": "fordo",
+          "tags": [
+            "obsolete"
+          ]
+        },
+        {
+          "word": "fuck",
+          "tags": [
+            "vulgar"
+          ]
+        },
+        {
+          "word": "harry"
+        },
+        {
+          "word": "jazz"
+        },
+        {
+          "word": "lay waste"
+        },
+        {
+          "word": "level"
+        },
+        {
+          "word": "liquidate"
+        },
+        {
+          "word": "nuke"
+        },
+        {
+          "word": "obliterate"
+        },
+        {
+          "word": "overthrow",
+          "tags": [
+            "rare"
+          ]
+        },
+        {
+          "word": "overturn"
+        },
+        {
+          "word": "pull down"
+        },
+        {
+          "word": "pulverize"
+        },
+        {
+          "word": "race",
+          "tags": [
+            "obsolete"
+          ]
+        },
+        {
+          "word": "raze"
+        },
+        {
+          "word": "ravage"
+        },
+        {
+          "word": "ravel",
+          "tags": [
+            "obsolete"
+          ]
+        },
+        {
+          "word": "remove"
+        },
+        {
+          "word": "ruinate"
+        },
+        {
+          "word": "stamp out"
+        },
+        {
+          "word": "total"
+        },
+        {
+          "word": "subvert"
+        },
+        {
+          "word": "unbreed",
+          "tags": [
+            "figuratively"
+          ]
+        },
+        {
+          "word": "unexist"
+        },
+        {
+          "word": "unmake"
+        },
+        {
+          "word": "uproot"
+        },
+        {
+          "word": "wipe out"
+        },
+        {
+          "word": "wipe off"
+        },
+        {
+          "word": "wreck"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "build"
+        },
+        {
+          "word": "construct"
+        },
+        {
+          "word": "create"
+        },
+        {
+          "word": "make"
+        },
+        {
+          "word": "raise"
+        },
+        {
+          "word": "repair"
+        },
+        {
+          "word": "produce"
+        },
+        {
+          "word": "rebuild"
+        },
+        {
+          "word": "recover"
+        }
+      ],
+      "translations": [
+        {
+          "word": "銷毀 /销毁",
+          "code": "cmn",
+          "sense": "to damage beyond use or repair"
+        },
+        {
+          "word": "摧毀 /摧毁",
+          "code": "cmn",
+          "sense": "to damage beyond use or repair"
+        },
+        {
+          "word": "破壞 /破坏",
+          "code": "cmn",
+          "sense": "to damage beyond use or repair"
+        },
+        {
+          "word": "毀壞 /毁坏",
+          "code": "cmn",
+          "sense": "to damage beyond use or repair"
+        },
+        {
+          "word": "中和",
+          "code": "cmn",
+          "sense": "to neutralize"
+        },
+        {
+          "word": "人道毀滅 /人道毁灭",
+          "code": "cmn",
+          "sense": "to put down or euthanize (e.g. an animal)"
+        },
+        {
+          "word": "銷毀 /销毁",
+          "code": "cmn",
+          "sense": "to put down or euthanize (e.g. an animal)"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "To damage beyond use or repair; to damage (something) to the point that it effectively ceases to exist."
+          ],
+          "tags": [
+            "ambitransitive"
+          ],
+          "senseid": [
+            "en:v1"
+          ],
+          "examples": [
+            {
+              "text": "The earthquake destroyed several apartment complexes.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  15,
+                  24
+                ]
+              ]
+            },
+            {
+              "text": "Hooligans destroy unprovoked.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  10,
+                  17
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To neutralize, undo a property or condition."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "Smoking destroys the natural subtlety of the palate.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  8,
+                  16
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To put down or euthanize."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "Destroying a rabid dog is required by law.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  0,
+                  10
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To severely disrupt the well-being of (a person); ruin."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "Her divorce destroyed her; she had a nervous breakdown and was severely depressed for more than a year.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  12,
+                  21
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To utterly defeat; to crush."
+          ],
+          "tags": [
+            "informal",
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "Remember when Germany destroyed Brazil 7–1 in the World Cup?",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  22,
+                  31
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To remove data."
+          ],
+          "tags": [
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "The memory leak happened because we forgot to destroy the temporary lists.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  46,
+                  53
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To exhaust completely and thus recreate or build up."
+          ],
+          "tags": [
+            "slang",
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "This exercise is going to destroy all parts of your shoulders.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  26,
+                  33
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To penetrate sexually in an aggressive way."
+          ],
+          "tags": [
+            "slang",
+            "transitive",
+            "vulgar"
+          ],
+          "examples": [
+            {
+              "text": "She got destroyed by her lover on the carpet.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  8,
+                  17
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To sing a song extremely poorly."
+          ],
+          "tags": [
+            "US",
+            "slang",
+            "transitive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To eat food quickly, hungrily or completely."
+          ],
+          "tags": [
+            "slang",
+            "transitive"
+          ],
+          "examples": [
+            {
+              "text": "I could destroy some wings right now.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  8,
+                  15
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "make sense",
+      "lang_code": "en",
+      "pos": "verb",
+      "sounds": [
+        {
+          "tags": [
+            "Australia"
+          ],
+          "audio": "en-au-make sense.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/En-au-make_sense.ogg/En-au-make_sense.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/En-au-make_sense.ogg"
+        },
+        {
+          "tags": [
+            "Mid-Atlantic",
+            "US"
+          ],
+          "audio": "en-us-make sense.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/En-us-make_sense.ogg/En-us-make_sense.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/En-us-make_sense.ogg"
+        }
+      ],
+      "forms": [
+        {
+          "form": "makes sense",
+          "tags": [
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "making sense",
+          "tags": [
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "made sense",
+          "tags": [
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "made sense",
+          "tags": [
+            "past"
+          ]
+        }
+      ],
+      "derived": [],
+      "related": [],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [
+        {
+          "word": "有意義 /有意义",
+          "code": "cmn",
+          "sense": "to be coherent"
+        },
+        {
+          "word": "有道理",
+          "code": "cmn",
+          "sense": "to be coherent"
+        },
+        {
+          "word": "理解",
+          "code": "cmn",
+          "sense": "to decipher, understand"
+        },
+        {
+          "word": "懂得",
+          "code": "cmn",
+          "sense": "to decipher, understand"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "To be sensible, coherent, reasonable."
+          ],
+          "tags": [
+            "idiomatic",
+            "intransitive"
+          ],
+          "examples": [
+            {
+              "text": "The thing doesn’t make sense to me.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  18,
+                  28
+                ]
+              ]
+            },
+            {
+              "text": "Somehow the combination didn’t make sense, but Cranston took it at face value, whatever that was worth.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  31,
+                  41
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "add up"
+            },
+            {
+              "word": "figure"
+            },
+            {
+              "word": "track"
+            },
+            {
+              "word": "check out"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To decipher or understand."
+          ],
+          "tags": [
+            "idiomatic",
+            "intransitive",
+            "with-of"
+          ],
+          "examples": [
+            {
+              "text": "Can you make sense of her handwriting?",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  8,
+                  18
+                ]
+              ]
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "make head or tail of"
+            }
+          ],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to."
+          ],
+          "tags": [
+            "informal"
+          ],
+          "examples": [
+            {
+              "text": "Maybe we should take a break. I mean, our relationship just isn't making much sense anymore.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  66,
+                  72
+                ],
+                [
+                  78,
+                  83
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To be in the realm of the ordinary, to be not particularly developed."
+          ],
+          "tags": [
+            "slang"
+          ],
+          "examples": [
+            {
+              "text": "If you want to grow spinal erectors that don’t make sense, you have to do a lot of bent-over compound lifts.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  41,
+                  57
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [
+            {
+              "word": "ridiculous"
+            },
+            {
+              "word": "absurd"
+            }
+          ],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "sense",
+      "lang_code": "en",
+      "pos": "noun",
+      "sounds": [
+        {
+          "ipa": "/sɛns/"
+        },
+        {
+          "ipa": "/sɛnts/"
+        },
+        {
+          "tags": [
+            "General-American"
+          ],
+          "audio": "En-us-sense.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/En-us-sense.ogg/En-us-sense.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/En-us-sense.ogg"
+        },
+        {
+          "tags": [
+            "UK"
+          ],
+          "audio": "LL-Q1860 (eng)-Back ache-sense.wav",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/LL-Q1860_%28eng%29-Back_ache-sense.wav/LL-Q1860_%28eng%29-Back_ache-sense.wav.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/LL-Q1860_%28eng%29-Back_ache-sense.wav/LL-Q1860_%28eng%29-Back_ache-sense.wav.ogg"
+        },
+        {
+          "ipa": "/sɪns/",
+          "tags": [
+            "pin-pen-merger"
+          ]
+        },
+        {
+          "ipa": "/sɪnts/",
+          "tags": [
+            "pin-pen-merger"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "senses",
+          "tags": [
+            "plural"
+          ]
+        },
+        {
+          "form": "sence",
+          "tags": [
+            "alternative"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "abound in one's own sense"
+        },
+        {
+          "word": "aftersense"
+        },
+        {
+          "word": "air sense"
+        },
+        {
+          "word": "ambisense"
+        },
+        {
+          "word": "antisense"
+        },
+        {
+          "word": "civic sense"
+        },
+        {
+          "word": "come to one's senses"
+        },
+        {
+          "word": "common sense"
+        },
+        {
+          "word": "countersense"
+        },
+        {
+          "word": "court sense"
+        },
+        {
+          "word": "cowsense"
+        },
+        {
+          "word": "dress sense"
+        },
+        {
+          "word": "enough sense to pound sand into a rathole"
+        },
+        {
+          "word": "foresense"
+        },
+        {
+          "word": "game sense"
+        },
+        {
+          "word": "good sense"
+        },
+        {
+          "word": "horse sense"
+        },
+        {
+          "word": "in a sense"
+        },
+        {
+          "word": "in every sense of the word"
+        },
+        {
+          "word": "in the Biblical sense"
+        },
+        {
+          "word": "in the biblical sense"
+        },
+        {
+          "word": "knock some sense into"
+        },
+        {
+          "word": "know someone in the Biblical sense"
+        },
+        {
+          "word": "know someone in the biblical sense"
+        },
+        {
+          "word": "lack-sense"
+        },
+        {
+          "word": "make it make sense"
+        },
+        {
+          "word": "make sense"
+        },
+        {
+          "word": "missense"
+        },
+        {
+          "word": "moral sense"
+        },
+        {
+          "word": "more dollars than sense"
+        },
+        {
+          "word": "more money than sense"
+        },
+        {
+          "word": "multisense"
+        },
+        {
+          "word": "my spider sense is tingling"
+        },
+        {
+          "word": "negative sense"
+        },
+        {
+          "word": "nonsense"
+        },
+        {
+          "word": "non-sense"
+        },
+        {
+          "word": "no sense no feeling"
+        },
+        {
+          "word": "positive sense"
+        },
+        {
+          "word": "present sense impression"
+        },
+        {
+          "word": "sense amplifier"
+        },
+        {
+          "word": "sense body"
+        },
+        {
+          "word": "sense capsule"
+        },
+        {
+          "word": "sense datum"
+        },
+        {
+          "word": "senseful"
+        },
+        {
+          "word": "senseless"
+        },
+        {
+          "word": "sensely"
+        },
+        {
+          "word": "sensemaking"
+        },
+        {
+          "word": "sense of craft"
+        },
+        {
+          "word": "sense of direction"
+        },
+        {
+          "word": "sense of place"
+        },
+        {
+          "word": "sense of time"
+        },
+        {
+          "word": "sense organ"
+        },
+        {
+          "word": "sense strand"
+        },
+        {
+          "word": "sensigenous"
+        },
+        {
+          "word": "sensism"
+        },
+        {
+          "word": "sensist"
+        },
+        {
+          "word": "sensive"
+        },
+        {
+          "word": "sensory"
+        },
+        {
+          "word": "Sensurround"
+        },
+        {
+          "word": "snail-sense feminism"
+        },
+        {
+          "word": "Spider sense"
+        },
+        {
+          "word": "spider sense"
+        },
+        {
+          "word": "Spider-sense"
+        },
+        {
+          "word": "spider-sense"
+        },
+        {
+          "word": "spidey sense"
+        },
+        {
+          "word": "Spidey-sense"
+        },
+        {
+          "word": "spidey-sense"
+        },
+        {
+          "word": "Spidey sense"
+        },
+        {
+          "word": "strict-sense stationary"
+        },
+        {
+          "word": "subsense"
+        },
+        {
+          "word": "supersense"
+        },
+        {
+          "word": "talk sense"
+        },
+        {
+          "word": "undersense"
+        },
+        {
+          "word": "unsense"
+        },
+        {
+          "word": "where there's no sense there's no feeling"
+        },
+        {
+          "word": "word sense"
+        }
+      ],
+      "related": [
+        {
+          "word": "extrasensory"
+        },
+        {
+          "word": "sensation"
+        },
+        {
+          "word": "sensible"
+        },
+        {
+          "word": "sensical"
+        },
+        {
+          "word": "sensitive"
+        },
+        {
+          "word": "sensor"
+        },
+        {
+          "word": "sensorium"
+        },
+        {
+          "word": "sensual"
+        },
+        {
+          "word": "sensuous"
+        },
+        {
+          "word": "audition"
+        },
+        {
+          "word": "equilibrioception"
+        },
+        {
+          "word": "gustation"
+        },
+        {
+          "word": "hearing"
+        },
+        {
+          "word": "nociception"
+        },
+        {
+          "word": "olfaction"
+        },
+        {
+          "word": "proprioception"
+        },
+        {
+          "word": "sight"
+        },
+        {
+          "word": "smell"
+        },
+        {
+          "word": "tactition"
+        },
+        {
+          "word": "taste"
+        },
+        {
+          "word": "thermoception"
+        },
+        {
+          "word": "touch"
+        },
+        {
+          "word": "vision"
+        },
+        {
+          "word": "perception"
+        },
+        {
+          "word": "cognition"
+        },
+        {
+          "word": "nervous system"
+        },
+        {
+          "word": "neuroscience"
+        },
+        {
+          "word": "perceptibility"
+        },
+        {
+          "word": "perceptible"
+        },
+        {
+          "word": "sensory"
+        },
+        {
+          "word": "perceive"
+        },
+        {
+          "word": "produce sensation"
+        },
+        {
+          "word": "perceptibly"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "non-nonsense"
+        },
+        {
+          "word": "sense"
+        }
+      ],
+      "antonyms": [],
+      "translations": [
+        {
+          "word": "感覺 /感觉",
+          "code": "cmn",
+          "sense": "manner by which living beings perceive the physical world"
+        },
+        {
+          "word": "感覺 /感觉",
+          "code": "cmn",
+          "sense": "conscious awareness"
+        },
+        {
+          "word": "意義 /意义",
+          "code": "cmn",
+          "sense": "meaning or reason"
+        },
+        {
+          "word": "意義 /意义",
+          "code": "cmn",
+          "sense": "semantics term"
+        }
+      ],
+      "senses": [
+        {
+          "glosses": [
+            "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:manner to perceive"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Perception through the intellect; apprehension; awareness."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:conscious awareness"
+          ],
+          "examples": [
+            {
+              "text": "a sense of security",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  2,
+                  7
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "Sound practical or moral judgment."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:sound judgment"
+          ],
+          "examples": [
+            {
+              "text": "It’s common sense not to put metal objects in a microwave oven.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  12,
+                  17
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The meaning, reason, or value of something."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:meaning or reason, generally"
+          ],
+          "examples": [
+            {
+              "text": "You don’t make any sense.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  19,
+                  24
+                ]
+              ]
+            },
+            {
+              "text": "That just don't make a licka sense to me.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  29,
+                  34
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The meaning, reason, or value of something.",
+            "A meaning of a term (word or expression), among its various meanings."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:meaning or reason, generally",
+            "en:any particular meaning of a word"
+          ],
+          "examples": [
+            {
+              "text": "the various senses of the word “car” (e.g., motor car, elevator car, railcar)",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  12,
+                  18
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The meaning, reason, or value of something.",
+            "A single conventional use of a word; one of the entries or definitions for a word in a dictionary."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:meaning or reason, generally",
+            "en:semantics term"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "A natural appreciation or ability."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:natural ability"
+          ],
+          "examples": [
+            {
+              "text": "A keen musical sense",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  15,
+                  20
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "The way that a referent is presented."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:pragmatics term"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "One of two opposite directions in which a vector (especially of motion) may point. See also polarity."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:math: direction of a vector"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "One of two opposite directions of rotation, clockwise versus anti-clockwise."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:math: direction of rotation"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "referring to the strand of a nucleic acid that directly specifies the product."
+          ],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "senseid": [
+            "en:biochemistry"
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    },
+    {
+      "word": "sense",
+      "lang_code": "en",
+      "pos": "verb",
+      "sounds": [
+        {
+          "ipa": "/sɛns/"
+        },
+        {
+          "ipa": "/sɛnts/"
+        },
+        {
+          "tags": [
+            "General-American"
+          ],
+          "audio": "En-us-sense.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/En-us-sense.ogg/En-us-sense.ogg.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/En-us-sense.ogg"
+        },
+        {
+          "tags": [
+            "UK"
+          ],
+          "audio": "LL-Q1860 (eng)-Back ache-sense.wav",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/LL-Q1860_%28eng%29-Back_ache-sense.wav/LL-Q1860_%28eng%29-Back_ache-sense.wav.mp3",
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/LL-Q1860_%28eng%29-Back_ache-sense.wav/LL-Q1860_%28eng%29-Back_ache-sense.wav.ogg"
+        },
+        {
+          "ipa": "/sɪns/",
+          "tags": [
+            "pin-pen-merger"
+          ]
+        },
+        {
+          "ipa": "/sɪnts/",
+          "tags": [
+            "pin-pen-merger"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "senses",
+          "tags": [
+            "present",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "form": "sensing",
+          "tags": [
+            "participle",
+            "present"
+          ]
+        },
+        {
+          "form": "sensed",
+          "tags": [
+            "participle",
+            "past"
+          ]
+        },
+        {
+          "form": "sensed",
+          "tags": [
+            "past"
+          ]
+        },
+        {
+          "form": "sence",
+          "tags": [
+            "alternative"
+          ]
+        }
+      ],
+      "derived": [
+        {
+          "word": "foresense"
+        },
+        {
+          "word": "mechanosense"
+        },
+        {
+          "word": "missense"
+        },
+        {
+          "word": "oversense"
+        },
+        {
+          "word": "sensable"
+        },
+        {
+          "word": "senser"
+        },
+        {
+          "word": "undersense"
+        },
+        {
+          "word": "unsense"
+        }
+      ],
+      "related": [],
+      "synonyms": [],
+      "antonyms": [],
+      "translations": [],
+      "senses": [
+        {
+          "glosses": [
+            "To use biological senses: to either see, hear, smell, taste, or feel."
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To instinctively be aware."
+          ],
+          "examples": [
+            {
+              "text": "She immediately sensed her disdain.",
+              "type": "example",
+              "bold_text_offsets": [
+                [
+                  16,
+                  22
+                ]
+              ]
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        },
+        {
+          "glosses": [
+            "To comprehend."
+          ],
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "translations": []
+        }
+      ]
+    }
+  ],
+  "audioLicenses": [
+    {
+      "file": "en-us-create.ogg",
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-us-create.ogg",
+      "description": "Audio pronunciation of the term 'create' in United States English.",
+      "credit": "Self, recorded using the program Shtooka.",
+      "verifiedAt": "2026-11-10T12:36:03.119968+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3Aen-us-create.ogg",
+      "metadataSha256": "49caef5b4674ba765620249463db8fb36c49d1cf83d624b9852a6b09e9a5c271"
+    },
+    {
+      "file": "LL-Q1860 (eng)-Vealhurl-creative.wav",
+      "author": "Speaker: Vealhurl\nRecorder: Vealhurl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-creative.wav",
+      "description": "Audio pronunciation file from the Lingua Libre  project.",
+      "credit": "Own work (Lingua Libre)",
+      "verifiedAt": "2026-11-10T12:36:03.120542+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3ALL-Q1860+%28eng%29-Vealhurl-creative.wav",
+      "metadataSha256": "6e9134ec28ae81490140b32113c61e9cb07b46338b90c1ab654f1b95cead8d25"
+    },
+    {
+      "file": "LL-Q1860 (eng)-I learned some phrases-creator.wav",
+      "author": "Speaker: I learned some phrases\nRecorder: I learned some phrases",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-I_learned_some_phrases-creator.wav",
+      "description": "Audio pronunciation file from the Lingua Libre  project.",
+      "credit": "Own work (Lingua Libre)",
+      "verifiedAt": "2026-11-10T12:36:03.121418+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3ALL-Q1860+%28eng%29-I+learned+some+phrases-creator.wav",
+      "metadataSha256": "e7f2dc81e9efb0377b3e38258cda185010c05d85eff0967e7c23633612acb312"
+    },
+    {
+      "file": "en-us-creator.ogg",
+      "author": "LegionMammal978",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-us-creator.ogg",
+      "description": "Pronunciation of the term \"creator\" in US English.",
+      "credit": "Own work",
+      "verifiedAt": "2026-11-10T12:36:03.121918+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3Aen-us-creator.ogg",
+      "metadataSha256": "fe6b6f15315fcecb34803854217486298e3a6de708b13c67ec4ac7733b135e10"
+    },
+    {
+      "file": "LL-Q1860 (eng)-AnotherFriendlyHuman-creatively.wav",
+      "author": "Speaker: AnotherFriendlyHuman\nRecorder: AnotherFriendlyHuman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-AnotherFriendlyHuman-creatively.wav",
+      "description": "Audio pronunciation file from the Lingua Libre  project.",
+      "credit": "Own work",
+      "verifiedAt": "2026-11-10T12:36:03.122427+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3ALL-Q1860+%28eng%29-AnotherFriendlyHuman-creatively.wav",
+      "metadataSha256": "1ddbe476b20bebef80dee68c4199a203aec3ad81205e42a91217329768915b29"
+    },
+    {
+      "file": "en-us-creativity.ogg",
+      "author": "Sylvanmoon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-us-creativity.ogg",
+      "description": "Pronunciation of the term in US English, recorded by Sylvanmoon",
+      "credit": "Own work",
+      "verifiedAt": "2026-11-10T12:36:03.122914+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3Aen-us-creativity.ogg",
+      "metadataSha256": "7faf438f87b0950a48860a4e0b1a2367b2178d3ffb65fa24f36e6ee34cdfe8ca"
+    },
+    {
+      "file": "en-uk-to make.ogg",
+      "author": "Association Shtooka, Judith Franck",
+      "license": "CC BY 3.0 us",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-uk-to_make.ogg",
+      "description": "Pronunciation of \"to make\" in English language. Female voice. Speaker from London, England.",
+      "credit": "Shtooka Project",
+      "verifiedAt": "2026-11-10T12:36:03.123389+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3Aen-uk-to+make.ogg",
+      "metadataSha256": "349ac9ba4a0f0916714019f8aed93b5e93bdb86b0c5e18cb915f74a7f3aba97b"
+    },
+    {
+      "file": "en-us-make.ogg",
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-us-make.ogg",
+      "description": "Pronunciation of the term in US English, recorded by Dvortygirl",
+      "credit": "Own work",
+      "verifiedAt": "2026-11-10T12:36:03.123870+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3Aen-us-make.ogg",
+      "metadataSha256": "84e87a2b76fe58b98e475bff1baf91c9d391d95ccd7d3c8180fafdfabe3639df"
+    },
+    {
+      "file": "en-us-destroy.ogg",
+      "author": "Dvortygirl",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:En-us-destroy.ogg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-us-destroy.ogg",
+      "description": "Pronunciation of the word 'destroy' in US English",
+      "credit": "Own work",
+      "verifiedAt": "2026-11-10T12:36:03.124340+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3Aen-us-destroy.ogg",
+      "metadataSha256": "b7aa644047640772ed2963eba36faacfa1b93d25d28a41323879d5ef0f45ade7"
+    },
+    {
+      "file": "LL-Q1860 (eng)-Vealhurl-destroy.wav",
+      "author": "Speaker: Vealhurl\nRecorder: Vealhurl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-destroy.wav",
+      "description": "Audio pronunciation file from the Lingua Libre  project.",
+      "credit": "Own work (Lingua Libre)",
+      "verifiedAt": "2026-11-10T12:36:03.124820+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3ALL-Q1860+%28eng%29-Vealhurl-destroy.wav",
+      "metadataSha256": "adb06033f4ce6f7b48d6bcc29dc35854e8973ba5795a73fec4c14fb0033454a8"
+    },
+    {
+      "file": "en-us-make sense.ogg",
+      "author": "Steve Shives",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-us-make_sense.ogg",
+      "description": "Recording of an American man pronouncing the verb ‘make sense’.",
+      "credit": "YouTube: https://www.youtube.com/watch?v=5CRVsNVbCPU – View/save archived versions on archive.org",
+      "verifiedAt": "2026-11-10T12:36:03.125294+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3Aen-us-make+sense.ogg",
+      "metadataSha256": "849de2162f0c5f0bc66b31c75e3415bca3d435e875e41d1890b918433dc2b6c5"
+    },
+    {
+      "file": "En-us-sense.ogg",
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:En-us-sense.ogg",
+      "description": "Pronunciation of the term in US English",
+      "credit": "Own work",
+      "verifiedAt": "2026-11-10T12:36:03.125768+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3AEn-us-sense.ogg",
+      "metadataSha256": "8f0134a6978077623434c9b0c6229a0a1429724104bde91a1c798be100afdb8e"
+    },
+    {
+      "file": "LL-Q1860 (eng)-Back ache-sense.wav",
+      "author": "Speaker: Back ache\nRecorder: Back ache",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-sense.wav",
+      "description": "Audio pronunciation file from the Lingua Libre  project.",
+      "credit": "Own work (Lingua Libre)",
+      "verifiedAt": "2026-11-10T12:36:03.126241+00:00",
+      "metadataUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles=File%3ALL-Q1860+%28eng%29-Back+ache-sense.wav",
+      "metadataSha256": "40769ce5390b87f7a54e777fc512385a51542967d78882a98aee24f008103af4"
+    }
+  ]
+}

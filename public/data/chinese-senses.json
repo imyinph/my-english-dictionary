@@ -1,0 +1,4474 @@
+{
+  "schemaVersion": 2,
+  "dictionaryVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "revision": 8,
+  "locale": "zh-Hans",
+  "senses": [
+    {
+      "senseId": "creation:noun:4:2cad546e:0",
+      "entryId": "creation",
+      "englishText": "Something created such as an invention or artwork.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "e338e15ba03c9e2cb2ad55073c29ae786d40af32c89464f7cff201f3ce6f67d2",
+      "locale": "zh-Hans",
+      "version": 2,
+      "glosses": [
+        "创作品"
+      ],
+      "explanation": "指创造出来的具体事物，例如一项发明或一件艺术作品。",
+      "source": {
+        "type": "dictionary",
+        "name": "English Wiktionary · Kaikki",
+        "recordIds": [
+          "/records/4/translations/0"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creation#English"
+        ],
+        "transformations": [
+          "选择源文本已有简体形式；去掉繁简重复；原文保存在 content-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete",
+      "explanationReview": {
+        "status": "ai_approved",
+        "revision": 1,
+        "requestId": "fe57a6c78c0d774f-20261118121004075",
+        "model": "DeepSeek-V4.1-Flash-1017-Event"
+      }
+    },
+    {
+      "senseId": "creator:noun:5:d27cffb1:2",
+      "entryId": "creator",
+      "englishText": "The deity that created the world.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "2bf96a40f549ba13527a477f47551f46fc8b13c1bcdcfd07c2016c82f6824103",
+      "locale": "zh-Hans",
+      "version": 2,
+      "glosses": [
+        "造物主"
+      ],
+      "explanation": "在宗教语境中，指创造世界的神。",
+      "source": {
+        "type": "dictionary",
+        "name": "English Wiktionary · Kaikki",
+        "recordIds": [
+          "/records/5/translations/1"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creator#English"
+        ],
+        "transformations": [
+          "按原分号拆分简释；未修改语义"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete",
+      "explanationReview": {
+        "status": "ai_approved",
+        "revision": 1,
+        "requestId": "fe57a6c78c0d774f-20261118121004075",
+        "model": "DeepSeek-V4.1-Flash-1017-Event"
+      }
+    },
+    {
+      "senseId": "make:verb:1:4951f9b1:11",
+      "entryId": "make",
+      "englishText": "To cause to be.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "dd44926e44b6448b4030c965c26867f648d25601ea4b950c95c5e11bc16c0ac2",
+      "locale": "zh-Hans",
+      "version": 2,
+      "glosses": [
+        "使",
+        "使得"
+      ],
+      "explanation": "表示使某人或某物进入某种状态。常用“make + 宾语 + 形容词”来说明造成的结果。",
+      "source": {
+        "type": "dictionary",
+        "name": "English Wiktionary · Kaikki",
+        "recordIds": [
+          "/records/8/translations/3",
+          "/records/8/translations/4"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "按原分号拆分简释；未修改语义"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete",
+      "explanationReview": {
+        "status": "ai_approved",
+        "revision": 1,
+        "requestId": "490eae03d90f7fa6-20261118121207013",
+        "model": "DeepSeek-V4.1-Flash-1017-Event"
+      }
+    },
+    {
+      "senseId": "create:verb:0:b41d3520:0",
+      "entryId": "create",
+      "englishText": "To bring into existence; (sometimes in particular:)",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "2ac188ff5579701fe564354898469e6d0ec5152ee653407dc8604a265fcdaf9c",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "创造",
+        "使产生"
+      ],
+      "explanation": "使原先不存在的事物出现。这个总义不限定必须凭空产生，也可以利用已有材料。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:create:verb:0:b41d3520:0",
+          "/records/0/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creative:adj:2:7b1dafdb:0",
+      "entryId": "creative",
+      "englishText": "Tending to create things, or having the ability to create; often, excellently, in a novel fashion, or any or all of these.",
+      "partOfSpeech": "adjective",
+      "sourceFingerprint": "91c92c88c3cf7ec322ee0539e933f34f99e248cd826f39a63a53500affbd02ab",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "有创造力的",
+        "善于创造的"
+      ],
+      "explanation": "形容有创造事物的倾向或能力；这种创造可以表现为经常进行、做得出色或方式新颖，不要求同时具备所有特点。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:creative:adj:2:7b1dafdb:0",
+          "/records/2/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creation:noun:4:f628e272:1",
+      "entryId": "creation",
+      "englishText": "The act of creating something.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "c632e3276e2da0c0143c2ef225dec8e515bc1da1a466d5b6e754909bd676fb6a",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "创造",
+        "创设"
+      ],
+      "explanation": "指把某事物创造出来这一行为，重点在创造的过程，而非创造出的作品或成果。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:creation:noun:4:f628e272:1",
+          "/records/4/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creation#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creator:noun:5:56c12aa1:1",
+      "entryId": "creator",
+      "englishText": "Ellipsis of content creator, someone who regularly produces and publishes content on social media, especially of a monetizable nature.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "70647fa8074cc131de5e44231e06a5152ddc79a81139cb516028b4e2cc79ccfc",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "内容创作者"
+      ],
+      "explanation": "content creator 的省略说法，指经常在社交媒体上制作并发布内容的人，尤其是内容能够带来收入的创作者。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:creator:noun:5:56c12aa1:1",
+          "/records/5/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creator#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creatively:adv:6:f8aa136f:0",
+      "entryId": "creatively",
+      "englishText": "In a creative manner.",
+      "partOfSpeech": "adverb",
+      "sourceFingerprint": "4879abe78e207128a3c1e982f3b23d8f46755b9f3d6b348af6e6ea021f1deb31",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "有创造性地",
+        "富有创意地"
+      ],
+      "explanation": "说明做事的方式具有创造性，而不是直接指一个人所拥有的创造能力。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:creatively:adv:6:f8aa136f:0",
+          "/records/6/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creatively#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creativity:noun:7:e7f52eed:0",
+      "entryId": "creativity",
+      "englishText": "The ability to use imagination to produce a novel idea or product.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "48fbf4a5174cb8bfb2fd94c8662ec6af66e0b225aa747268cc5990ba9f902fa0",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "创造力"
+      ],
+      "explanation": "指运用想象力，产生新颖想法或产品的能力。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:creativity:noun:7:e7f52eed:0",
+          "/records/7/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creativity#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:cb285157:12",
+      "entryId": "make",
+      "englishText": "To cause to appear to be; to represent as.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "3bebc90948c6d4440e14efff9e8cb4140d1583639c5dc105d4bdcd6d28d3a41b",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使显得",
+        "描绘为"
+      ],
+      "explanation": "使某人或某事看起来具有某种身份或性质，或在叙述中将其描绘成某种样子。重点是呈现或描写，不一定是使其实际变成那样。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:make:verb:1:cb285157:12",
+          "/records/8/senses/12/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:39483fde:6",
+      "entryId": "make",
+      "englishText": "A software utility for automatically building large applications, or an implementation of this utility.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "bebbeec59ef824edf67b064afefac260a63ee1d988c50cf6677662ee93314131",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "make 构建工具"
+      ],
+      "explanation": "指用于自动构建大型应用程序的软件工具，或该工具的一种实现。这里是工具名称，不是动词“制作”。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:make:noun:1:39483fde:6",
+          "/records/9/senses/6/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:fdd5aa4:28",
+      "entryId": "make",
+      "englishText": "To compose verses; to write poetry; to versify.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "1a63833da4cd3e4b12d0ba11a86dffdc545190908953729842dbe8457fb9450a",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "作诗",
+        "写诗"
+      ],
+      "explanation": "指创作诗句或诗歌。源词典将这一不及物用法标为已废弃（obsolete），不宜当作现代常用表达。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:make:verb:1:fdd5aa4:28",
+          "/records/8/senses/28/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:e4aa6981:2",
+      "entryId": "destroy",
+      "englishText": "To put down or euthanize.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "0b7b2c7f66f6c8d77da52ae762b13e5d14e50e3df10d1790842f27724ec1d439",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "处死（动物）",
+        "对（动物）实施安乐死"
+      ],
+      "explanation": "这里指结束动物的生命；原例句中的对象是患狂犬病的狗。并非泛指损坏物品，也不表示所有这种处置都采用同一种方式。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:destroy:verb:13:e4aa6981:2",
+          "/records/13/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make-sense:verb:14:4763a134:0",
+      "entryId": "make-sense",
+      "englishText": "To be sensible, coherent, reasonable.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "0c45b3d1b44a694052e34cd933f2b8b80492bd4a7b5e93166e25af0297df1707",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "讲得通",
+        "合乎情理"
+      ],
+      "explanation": "指话语、事情或安排有条理、合理，能够让人理解。这里描述事物本身是否合理，而非某人主动去理解它。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:make-sense:verb:14:4763a134:0",
+          "/records/14/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make_sense#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:415ec60f:4",
+      "entryId": "sense",
+      "englishText": "A meaning of a term (word or expression), among its various meanings.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "3553c359c06f3ce30978c27bf42489904a9838eefabff1daf01d1ac7a4e3362e",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "义项",
+        "某一含义"
+      ],
+      "explanation": "指一个词或表达的多种意思中的某一种，强调具体是哪一个含义，而不是笼统地说它有意义。",
+      "source": {
+        "type": "ai",
+        "name": "OpenAI / Codex 对话生成（具体模型版本未提供）",
+        "recordIds": [
+          "m33-sample-12-v1:sense:noun:15:415ec60f:4",
+          "/records/15/senses/4/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为 AI 翻译与解释改编。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "根据具体英文义项、标签和已有例句生成；不是源站原有中文。",
+          "生成提示版本：m33-sense-context-v1",
+          "样本批次：m33-sample-12-v1"
+        ]
+      },
+      "reviewStatus": "approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creative:adj:2:a1fe1fed:4",
+      "entryId": "creative",
+      "englishText": "bad, unartistic, busy.",
+      "partOfSpeech": "adjective",
+      "sourceFingerprint": "028c86cf9cf8422bc539290cb4df86b13eb71014c132ddd6d07065eb5f06f246",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "（委婉）糟糕的",
+        "缺乏艺术性的",
+        "过于繁杂的"
+      ],
+      "explanation": "用于委婉评价艺术作品：质量差、缺乏艺术性，或显得过于繁杂。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "586f610a9edadafd489a2a8bcee9777cb6a47058e96b0ee4c93c18b68a616a6e",
+          "0c13f47e19ef917747df1e1e040b48c05393860f498cb7f40435fd135e2ee7e1",
+          "5e00fa2f4c860a840fa76c40725c13a30182068bbd0e9105c1ec261697537188",
+          "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "319eda67cd6f9cbcbd0e932deedb2580216963f94470c3e3d7d4828e4d5c42a7",
+          "/records/2/senses/4/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English",
+          "https://en.wiktionary.org/wiki/busy#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:d74d42b2:26",
+      "entryId": "make",
+      "englishText": "To achieve coverage in; to appear in.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "35e2718bd5f2649d2c9303452d38c352b1df2871d91bc2cca3b6c2d4e256f673",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "获得报道",
+        "出现在（媒体中）"
+      ],
+      "explanation": "指获得媒体报道，或出现在报刊等媒体中。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "ad0aadd03c7b22af849bc6704cd3a81ebb17fe99b00a881e5f9dfc0a123565fa",
+          "f42514766054ecf94328b821b880b381912d269d3bebe4df11f30e8a5cc08a81",
+          "d815faf191d9b23e392d50b6f309aa8d02e5ddfd61cf624938f5c4c9b57369f0",
+          "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "feb7352eb8009c6b7eb1d5ec6b5aec5ad2589208953aa2775a350c81f01ef590",
+          "/records/8/senses/26/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:a3d6598f:27",
+      "entryId": "make",
+      "englishText": "To pay, to cover (an expense); chiefly used after expressions of inability.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "c4a4acdadfca8eefde30d084ca987b4997dbc5849359b6f5f2859e7e7c0eb4f2",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "支付（费用）",
+        "承担（开支）"
+      ],
+      "explanation": "指支付或承担某项费用；主要用于表示无力支付的表达之后。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "ad0aadd03c7b22af849bc6704cd3a81ebb17fe99b00a881e5f9dfc0a123565fa",
+          "f42514766054ecf94328b821b880b381912d269d3bebe4df11f30e8a5cc08a81",
+          "650c6a13dd77c8698af26e1ec1aa9a74e0e3f7b3f0980c3e35c5a7d1c34805da",
+          "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "9ae47e8e3cb033335eb01036df015417424ea755bfa00a93b10b3bbd1d4a8a6a",
+          "/records/8/senses/27/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:d59b6d60:33",
+      "entryId": "make",
+      "englishText": "To perform a feat.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "56fb1b999ea8983ec77556e181026ee02812fd621a9699700c88273feb717140",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "完成壮举",
+        "做出某种举动"
+      ],
+      "explanation": "指完成或做出某种壮举、举动。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "23ae0bc825d74ff3fbbf8bd726f3e0b56d7ed0578385339b5f066d496045c292",
+          "9d31aa3a12a17056841776ecca8b64f328fdb7fd352bb1235cab291723a2b97c",
+          "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "670cbf34d30a6e58fb026d591ae2032de94e336285545a186a51de1fe75aeccc",
+          "/records/8/senses/33/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:618f46dd:34",
+      "entryId": "make",
+      "englishText": "To gain sufficient audience to warrant its existence.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "5fcf6b6287f44f29df2985ea41f172c77a8988f2554ee0c5f6a993c207191505",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "获得足以维持存在的受众"
+      ],
+      "explanation": "不及物用法，指获得足够的受众，使其有理由继续存在。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "23ae0bc825d74ff3fbbf8bd726f3e0b56d7ed0578385339b5f066d496045c292",
+          "4cea92142b5648e371eb86233516a731779fa4764d487fd739fabc9c7e43259d",
+          "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "228681aa82102c6224ad89d833a74737b43a01474854920d13036fb7aac25f8e",
+          "/records/8/senses/34/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:9835600:35",
+      "entryId": "make",
+      "englishText": "To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "f8affb5f875e3c61ab391c604ee047cb513f75ba5bfbca72cfb1b6eff8241449",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "行事",
+        "应付",
+        "干预"
+      ],
+      "explanation": "已废弃用法，指以某种方式行事、有事要做、设法应付、干预或活动；常用于 to meddle or make。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "85c0c29efe3fda81759b3bef4a4412a6c78d9ea34b529458d439d02821ea3ad6",
+          "0dd01d4b431a87ea19595a409dd25a680d7112ceab5420a8e333414370f57edf",
+          "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "e89b0e55534dabc0e0bf281ec9caad2b00390bcf42314b5965fe962fff58724d",
+          "/records/8/senses/35/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:3f95c0bc:36",
+      "entryId": "make",
+      "englishText": "To increase; to augment; to accrue.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "d9469a0f56386016c9bcef299e7cefd0272d3b4ace704fca8f2457cd0ab8d435",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "增加",
+        "增大",
+        "累积"
+      ],
+      "explanation": "已废弃用法，指增加、增大或逐渐累积。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "23ae0bc825d74ff3fbbf8bd726f3e0b56d7ed0578385339b5f066d496045c292",
+          "e193dd5ba48373c5ec47dfbe7527b494c1e672aaa11f985447841582278f3716",
+          "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "cb55f0ed3aaf0bea9c7ef9ae2beddac52cc1b5c0a9a042e592fd6c39fc5331a0",
+          "/records/8/senses/36/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:f7b0e13b:37",
+      "entryId": "make",
+      "englishText": "To be engaged or concerned in.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "25dae37964edbfef583c4c331446aa71deb108acd465420e09739a3916cdf3e5",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "参与",
+        "涉入"
+      ],
+      "explanation": "已废弃用法，指参与某事，或与某事有牵涉。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "85c0c29efe3fda81759b3bef4a4412a6c78d9ea34b529458d439d02821ea3ad6",
+          "b92b88bf7b040cce6f9f9e97cd3d65e93978036dcdb75975ba3041ab4beaf440",
+          "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "edff35f3d3c3a92f5509668fe5ac1ee6c64ef9968d06129eb71339ebafe331d6",
+          "/records/8/senses/37/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:2220f1c7:38",
+      "entryId": "make",
+      "englishText": "To cause to be (in a specified place), used after a subjective what.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "85ef4ad7c327d296991e9051e89d59a4971512345889c17bbfd035a2af57d189",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使处于（某处）"
+      ],
+      "explanation": "古旧用法，用在作主语的 what 之后，表示使某人或某物处于某处。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "5d9c0fcfb71ee8974a4e940ebef586d1b105ad390cc3600bb0af8a14f69c4fc6",
+          "8ef293aeb4690eef9b2dbc4c0f5cb46510ecf3d55d493fa227d93b4df87e1aa7",
+          "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "a0e2693cb244fe2456af6f16cd43dfd8e05352d17775910ac34cff80d2e7c1dd",
+          "/records/8/senses/38/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:8066bf79:41",
+      "entryId": "make",
+      "englishText": "Of water, to flow toward land; to rise.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "47bf95c0ae4075b153679fc89ca07d018b3eda6b94cbf0c1f590ec826272742f",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "（水）向岸涌流",
+        "上涨"
+      ],
+      "explanation": "不及物用法，用于水，指向陆地流动或水位上涨。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "5d9c0fcfb71ee8974a4e940ebef586d1b105ad390cc3600bb0af8a14f69c4fc6",
+          "5d11edec0aefd9f495e1fb908b44735068509e02ed4fc94ded56844bd130a307",
+          "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "49ed5b4a67ad448aadd06de952cc7b1d0952dcc5adcc81f38d599cd01eef0ff1",
+          "/records/8/senses/41/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:7c0ba878:42",
+      "entryId": "make",
+      "englishText": "To establish two or more men on (a point) so that it cannot be captured.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "2170326bb4fedb777ef631ed04738e22a63d60c55ec484bbad8903406a90cf95",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "占稳（棋盘点位）"
+      ],
+      "explanation": "双陆棋用语，指在同一点位放置至少两枚己方棋子，使该点位不能被对手占取。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "daba6eeda7f17681e9865220d59462d11535e0dd5a13f1e885573a0c6d3634b5",
+          "5d9c0fcfb71ee8974a4e940ebef586d1b105ad390cc3600bb0af8a14f69c4fc6",
+          "d0deeca61453d89c2e8a274d6f8db941e29a62dfd828b40f6e9c34e343fe7fa1",
+          "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "3f5a46d866fbd226d39754c7a9b96daa87430082009e59e74a2075f61f197f00",
+          "/records/8/senses/42/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:7673f9f6:9",
+      "entryId": "make",
+      "englishText": "A homemade project, particularly one demonstrated on television.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "2ce243efe08e2efae95c3fdb6d517f88db8b23fa01444b34196b7891b937f882",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "自制项目"
+      ],
+      "explanation": "指自己动手制作的项目，尤指在电视上展示制作的那类。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "cf04dcdd038206c3a03cdbea506c67c9bf1377ed92645e6733d6180dfb979aca",
+          "07677df40934d83e045dacc380417c291992f5169fb2ae738af473998a9b88bf",
+          "00c9b8aa8662b543b0d276e24edb6d8d1c976a979e0dfd8196b4a08ec24fa6eb",
+          "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "aed2af2d6f4c49ae5fe74f771c58c7ed4d63efa8a4ffc509074b955968f69c64",
+          "/records/9/senses/9/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:83b51cf7:10",
+      "entryId": "make",
+      "englishText": "Turn to declare the trump for a hand (in bridge), or to shuffle the cards.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "4a1a087200437365c1d99670d529979a4e9987cf2aa42c3f27c5dcbc99a44927",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "定将牌或洗牌的轮次"
+      ],
+      "explanation": "牌类用语，指轮到某人宣布一手牌的将牌（桥牌中），或轮到某人洗牌。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "35de378ae26fd32daef0d0bb47d5ba79d58f19d4012ab273c8d86bc101a6f60b",
+          "07677df40934d83e045dacc380417c291992f5169fb2ae738af473998a9b88bf",
+          "5294cf29c3c0b164517c22bb57fea22d5625eba6c324192f67d47dfe9244a41a",
+          "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "432e9548826b342314d43d4a5aef33053c0ef30f5e2640b9ec98b897634fbb9e",
+          "/records/9/senses/10/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:4:1cd14633:0",
+      "entryId": "make",
+      "englishText": "An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "c072b9363723cc11b3bb581926ef2c55a1a07496a9cae24585c71d4bf09c0225",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "镰刀状的收割农具"
+      ],
+      "explanation": "英格兰东盎格利亚、埃塞克斯地区的旧称，指类似镰刀、用于收割豌豆、芦苇等植物的农具。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "3c5e94f161377b07025643db100ee2aaf3fa2de11b0e2555433e701d88e600fb",
+          "7e553b4f47324d4b3c1d751e537f46ae4e310c3d7d00d3c677607615ec817614",
+          "a30ea46d57f9e9ea9168e41d1eddc94ec00894ad0d6c0a0edae9b6c3d9fe9a49",
+          "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "f390bc229fe3710e1c19248dcc374801eee7d3e7285912578b26d9d5bf789fcf",
+          "/records/12/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:917cfc7a:6",
+      "entryId": "destroy",
+      "englishText": "To exhaust completely and thus recreate or build up.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "fbab0070d680504e1a4761907762ebc6a018b9c7ae6c45220119e4915fc3df1b",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使彻底力竭以促其恢复或增强"
+      ],
+      "explanation": "健身俚语，以反语说法指使肌肉等彻底力竭，从而促其恢复或增强；原例谈到肩部锻炼。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "0f2f2af53f0a9cb261bf495d8bf907d82997d799dc060f99cbb9eefded272a55",
+          "bbcd35df714947ae92b424473edcbd840ed5b6f76ab7713e865d429183b0bc59",
+          "0f45138113b272960342ffdb8a6e7c78e159255131cf8d7833bf300a62fa97ed",
+          "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "1ec3157a094823f729b2deae045b86a1edc465a760bc2a0fea85d61840281db9",
+          "/records/13/senses/6/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:452a12a5:8",
+      "entryId": "destroy",
+      "englishText": "To sing a song extremely poorly.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "4b76e763f03e1f844ffd0caaad398c960b3bf9202c9f091f1c1b337a6a78d41b",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "把（歌）唱得极糟"
+      ],
+      "explanation": "美国俚语，及物用法，指把一首歌唱得极其糟糕。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "0f2f2af53f0a9cb261bf495d8bf907d82997d799dc060f99cbb9eefded272a55",
+          "7e553b4f47324d4b3c1d751e537f46ae4e310c3d7d00d3c677607615ec817614",
+          "04435a24a380b94c12b66ff40254e491e7a30d09d0aef87af09210d36147fa87",
+          "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "cf61d3d0a3bca44efd5787f98a0f16fb28de5e14d53f71c26c424013b41e4363",
+          "/records/13/senses/8/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make-sense:verb:14:621d0f9e:2",
+      "entryId": "make-sense",
+      "englishText": "Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "fd42773998dc89868a6e643c0329984195436d8f2b6ca7707ce1b6643ecb8102",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "合意",
+        "有益",
+        "行得通"
+      ],
+      "explanation": "非正式用法，可表示对某事感兴趣或有意愿，也可表示某事令人满意、有益、能起作用或对某人有利。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "f13f4fd7c07efe28c3eac9ee91a3c5f78163ebe9484f688af8e2687d38013bdb",
+          "bbcd35df714947ae92b424473edcbd840ed5b6f76ab7713e865d429183b0bc59",
+          "173b03f714a850757ede99f7ff0e044121ddf9aed39ef5d1e27aa131f94a7260",
+          "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "7994c63f746a51aa401485cbc8abf2553101afd87b0bf78694d79aa5d98fecaf",
+          "/records/14/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make_sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make-sense:verb:14:ef843e21:3",
+      "entryId": "make-sense",
+      "englishText": "To be in the realm of the ordinary, to be not particularly developed.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "e0813b2aa75f1516e78c9c60c8285f15c90e36ef058d67f3e27c13e5ef6bb1f4",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "处于普通水平",
+        "并不特别发达"
+      ],
+      "explanation": "健身俚语，指发展程度普通、并不特别发达，通常以否定形式出现；原例的 don’t make sense 因而形容肌肉发达得很突出。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "f13f4fd7c07efe28c3eac9ee91a3c5f78163ebe9484f688af8e2687d38013bdb",
+          "842e6afe6eaf17927671f1a146add877f58f79ffb3d91e001b1fd16aaae0836e",
+          "d41ae9c9abf0526890130ee7699254291b61fb30972c940431f58cc37a3f543e",
+          "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "e12fcb36fd69c5afd8efbfcbe39d4ad17cad0d7f253e5568b1bbc0a39fc87b1e",
+          "/records/14/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make_sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:14810876:7",
+      "entryId": "sense",
+      "englishText": "The way that a referent is presented.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "799779f56f598c88a34ea751db881f4b871c2b70458025ec7d00a6b8658ee854",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "指称对象的呈现方式"
+      ],
+      "explanation": "语用学用语，指一个指称对象被呈现的方式。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "23e9002a12875cd0f65f8edb8e78a277e4415d763d1b77a0934dca5c57237565",
+          "842e6afe6eaf17927671f1a146add877f58f79ffb3d91e001b1fd16aaae0836e",
+          "f29abbc0c02df3288f3b868d7bed92781532f362103996464b25bded879438c1",
+          "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "fea9982c593a96932d9d8b253d460ec28bf46d352801aeea8b1b3065860cc0e6",
+          "/records/15/senses/7/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:e11fbf0f:10",
+      "entryId": "sense",
+      "englishText": "referring to the strand of a nucleic acid that directly specifies the product.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "e9e2e471f192eebe049b06d7b67290950a6f74e236d5a660ae66102373aae9fc",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "直接规定产物的核酸链"
+      ],
+      "explanation": "生物化学用语，指核酸中直接规定产物的那条链。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "23e9002a12875cd0f65f8edb8e78a277e4415d763d1b77a0934dca5c57237565",
+          "8aa9375e3672a0b67170a8c170c32fd00c994be08f7c9e98125e5d1a37f21e64",
+          "71dafbff86674c664b8025404d848f946b36fc67cd8ae26d33ce3d5f2e6ee016",
+          "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "36d66285936dd03441ec748d43b15aded083e3113c5cf6cc20e38d849bd72b03",
+          "/records/15/senses/10/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:verb:0:53cefab5:1",
+      "entryId": "create",
+      "englishText": "To bring into existence out of nothing, without the prior existence of the materials or elements used.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "3055b4b4522808c68c4c52aacfd52d222ca6751857f8febf32d145fa9f2a51ba",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "从无中创造"
+      ],
+      "explanation": "指不依靠预先存在的材料或元素，使事物从无到有；原始用法说明尤其指神的创造。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "99556d2cb6295aaff04e1c22cca4fa63127bb5ca80b3801d1133ef55af868d30",
+          "70c8f1626938f400502e8ececcc844c328f9b4302b653a5aadbc6fe68a45d5fe",
+          "e8ed8d021a00e8ea41de74c505f4f458d57628de5d7078e4b389fb9d8e5d0072",
+          "eb016acddb402d9aa4c8844c39ab8ee763f4a8d3df2ab9ebf93a2dff2e33de03",
+          "/records/0/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:verb:0:e8d7c6be:2",
+      "entryId": "create",
+      "englishText": "To make or produce from other (e.g. raw, unrefined or scattered) materials or combinable elements or ideas; to design or invest with a new form, shape, function, etc.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "de4e5b30f10fd13bc8d12aa4be7ee74171493069b8116a7b0741ffbc5e1ec444",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "制作",
+        "创作",
+        "设计"
+      ],
+      "explanation": "利用现有材料、可组合的元素或想法制作事物，或赋予其新的形式、形状或功能。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "b3fb37fe51961bd4b4132fd1915f57513d373d757ccba9a74940784390c5602e",
+          "7de0e02f8234d6e567e6784dfc26b978938767ab9f37ecb5757e9464fc45a539",
+          "e8ed8d021a00e8ea41de74c505f4f458d57628de5d7078e4b389fb9d8e5d0072",
+          "fb8be02ff02576355402b9f57f4af994d3afbd34373eb6be960e8fdd35bcc34f",
+          "/records/0/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:verb:0:b1c3c967:3",
+      "entryId": "create",
+      "englishText": "To cause, to bring (a non-object) about by an action, behavior, or event, to occasion.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "533f84b1d179e9bd41e2bbf0a44cda820229dcda96aa06432879551e934caf28",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "引起",
+        "造成"
+      ],
+      "explanation": "指通过行动、行为或事件，带来某种非实物性的事物或结果。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "b3fb37fe51961bd4b4132fd1915f57513d373d757ccba9a74940784390c5602e",
+          "9e6b21392d9883d35d3b7cd7276e28bda3fda080bdeca881ff2d9e753322f028",
+          "e8ed8d021a00e8ea41de74c505f4f458d57628de5d7078e4b389fb9d8e5d0072",
+          "3279d643d83304015cb4b19c26378a3dddad6bb88ceb30597dc8b3f6f5fa3659",
+          "/records/0/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:verb:0:69902ac:4",
+      "entryId": "create",
+      "englishText": "To confer or invest with a rank or title of nobility, to appoint, ordain or constitute.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "d57510ae1e88125c5e7515ffd6617a9175452a4a2f6c3b2902ed6870cb50ed35",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "授予爵位或头衔",
+        "任命",
+        "设立"
+      ],
+      "explanation": "指授予爵位或贵族头衔，或正式任命、按立、设立。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "b3fb37fe51961bd4b4132fd1915f57513d373d757ccba9a74940784390c5602e",
+          "a20df468fbe03cbc5e7f5d6a016346c5b3de665e5e11ab73b394a0ca8a53ed2f",
+          "c79fa09a440c60324b860c2c0c1222ebc8754e624cffbf9849a52ba927ea27b1",
+          "4f3d9b0c729057fd51c92d6f0be5a6cc5c105d898732aa7c6e40fc1c5e151b42",
+          "/records/0/senses/4/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:verb:0:ea3de579:5",
+      "entryId": "create",
+      "englishText": "To be or do something creative, imaginative, originative.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "277153e164c3e3b0e5cb40d92bb93464863bae929f76f5e9df7777fa00052f98",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "进行创造性活动",
+        "表现出创造力"
+      ],
+      "explanation": "不及物用法，指从事具有创造性、想象力和原创性的活动。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "b3fb37fe51961bd4b4132fd1915f57513d373d757ccba9a74940784390c5602e",
+          "a9c5a8a216fca5e1520c9f08b36aeea07f605f8694c0bf5d7ccc98ad0023a71a",
+          "c79fa09a440c60324b860c2c0c1222ebc8754e624cffbf9849a52ba927ea27b1",
+          "2787ad0a3bda03fd433ddbbcc781c9af3dfb767dda6b62bc9f97b0ad64e341ce",
+          "/records/0/senses/5/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:verb:0:a78ced8a:6",
+      "entryId": "create",
+      "englishText": "In theatre, to be the first performer of a role; to originate a character.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "5d12d76c3da4d745e2f14595867404217242e19f803b162276f8ffe03e7beb1a",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "首次扮演（某角色）"
+      ],
+      "explanation": "戏剧用语，指成为某一角色的第一位扮演者。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "b3fb37fe51961bd4b4132fd1915f57513d373d757ccba9a74940784390c5602e",
+          "6ced07f712849a56899d350b277e2c698ea5ed0b2ae603998ab9b1caa66fb5b5",
+          "c79fa09a440c60324b860c2c0c1222ebc8754e624cffbf9849a52ba927ea27b1",
+          "c648c3e3addeca38300ea702adcd1367bedfc8e110329d1b6097eb7bcf39de7d",
+          "/records/0/senses/6/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:verb:0:4b784282:7",
+      "entryId": "create",
+      "englishText": "To make a fuss, complain; to shout.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "c5f65ba55d2389de996ed25e60bfc3f3aebca1de332c26c5826c9d3436dfaa65",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "大吵大闹",
+        "抱怨",
+        "叫嚷"
+      ],
+      "explanation": "指吵闹、抱怨或大声叫喊。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "645701be470e4cd9e97394f61bf5949c8ec2f5c5ca724f1c94d4ad7ef14f2851",
+          "78eb181eee9f06e032b4aca53cf6406a3f41734e85c0e4c1c16e058a2e36dfea",
+          "7a7d93903e6f8a538888d2918f9623216829f5a708ee85493a2fa7960ee737f0",
+          "c142bc85d0420f02d36ec166cae12ede46ee815b16387f58bb31d1459cf77eb0",
+          "/records/0/senses/7/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "create:adj:1:66d01713:0",
+      "entryId": "create",
+      "englishText": "Created, resulting from creation.",
+      "partOfSpeech": "adjective",
+      "sourceFingerprint": "9d5836c17130f9773e18809dc90e81044249c0f1607e6f1a2ba3006f6be964d6",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "被创造的",
+        "创生的"
+      ],
+      "explanation": "该用法现已废弃，其含义等同于现代英语中的 created，即由创造行为产生的。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "645701be470e4cd9e97394f61bf5949c8ec2f5c5ca724f1c94d4ad7ef14f2851",
+          "80d452a90216858808f0c60969667b4795a8dc84df825864effaaa7d0954df1e",
+          "7a7d93903e6f8a538888d2918f9623216829f5a708ee85493a2fa7960ee737f0",
+          "52b057b2ed0967d0c6487056297f0bcc40c0dc2f45ff696ea3029a843474749c",
+          "/records/1/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/create#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creative:adj:2:15df66f3:1",
+      "entryId": "creative",
+      "englishText": "Original, expressive and imaginative.",
+      "partOfSpeech": "adjective",
+      "sourceFingerprint": "27812b4a5be47d199b8d8dbfb1dde474071b1052440ac23fb07b736df6bab6ec",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "独创的",
+        "富有表现力的",
+        "富有想象力的"
+      ],
+      "explanation": "指创造出来的事物具有独创性、表现力和想象力。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "645701be470e4cd9e97394f61bf5949c8ec2f5c5ca724f1c94d4ad7ef14f2851",
+          "6a51ade50289a65b422d1551218131f30da21e2e81eb5be5cbb8f80287152a03",
+          "7a7d93903e6f8a538888d2918f9623216829f5a708ee85493a2fa7960ee737f0",
+          "50ba7baf5f1dfa10b984e52b02a5a9d90cf50feaea4e0307d4b7978ca15d0736",
+          "/records/2/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creative:adj:2:19ed4ffd:2",
+      "entryId": "creative",
+      "englishText": "A type of set of natural numbers, related to mathematical logic.",
+      "partOfSpeech": "adjective",
+      "sourceFingerprint": "69ace1d612a5201b6a5948e7edecd3a86733552d80ed10c9149d4b8af263c5d1",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "创造集的"
+      ],
+      "explanation": "数理逻辑用语，用于描述某一类自然数集，如原例中的 creative set；此处不是日常所说的有创意。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 历史 Gemini 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "645701be470e4cd9e97394f61bf5949c8ec2f5c5ca724f1c94d4ad7ef14f2851",
+          "fded8a068ecd3483463e3dded5beec770a21a91061304f4ebc9d4943d8508eba",
+          "89f4894713e5e18ce343f44285d43ab05c56fef77b76956f326d5e0f8d2eac71",
+          "8126443e7ec40e5c8b77acaf750d9c231157de1d5871f70645f17a5046e5c93c",
+          "/records/2/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creative:adj:2:1b7514e8:3",
+      "entryId": "creative",
+      "englishText": "Designed or executed to deceive or mislead.",
+      "partOfSpeech": "adjective",
+      "sourceFingerprint": "d468f5fa2c67e4c7efbfadca746bfc55e34b3416642e756496be1bba0305cfe8",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "欺骗性的",
+        "误导性的"
+      ],
+      "explanation": "指为欺骗或误导而设计或实施的。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "595558c29221a7afdbe8e592251a4eb4f32de90e088cc7e6c3055b61f9768eb5",
+          "f6d8203e75820f569579440406f1a433f349e2269df8c8251f7c24b41a945b63",
+          "89f4894713e5e18ce343f44285d43ab05c56fef77b76956f326d5e0f8d2eac71",
+          "1e4aa50c1652730af6792e19ca55867402b440006d592e734c35328ce045d39b",
+          "/records/2/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creative:noun:3:46afaac9:0",
+      "entryId": "creative",
+      "englishText": "A person directly involved in a creative process; a creator of creative content.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "2e8a985b55763f91fe89f5b3058098e015d401280836d7f934e070d865eee359",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "创意人员",
+        "创作者"
+      ],
+      "explanation": "可数名词，指直接参与创作过程的人，即创意内容的创作者。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "595558c29221a7afdbe8e592251a4eb4f32de90e088cc7e6c3055b61f9768eb5",
+          "b7b9b75d6235915ddcba832b06c50ffee5c9656b43dfbdffef9a231ae4df6061",
+          "89f4894713e5e18ce343f44285d43ab05c56fef77b76956f326d5e0f8d2eac71",
+          "080b15503c48e735c30c27d4ae2572fb2c84633ead8d260544d8d7614f233c11",
+          "/records/3/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creative:noun:3:93002252:1",
+      "entryId": "creative",
+      "englishText": "Artistic material used in advertising, e.g. photographs, drawings, or videos.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "3c9ee1159e5d6cca3dd70e02697851da7edfe7a6c9b7eb36f537c1722a32f73f",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "广告创意素材"
+      ],
+      "explanation": "不可数名词，指用于广告的艺术素材，如照片、图画或视频。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "595558c29221a7afdbe8e592251a4eb4f32de90e088cc7e6c3055b61f9768eb5",
+          "5073ef8c20c7e474a7d5d726286a4f65a6ec5a27f8fc803d7008d53585489420",
+          "1ec900e8b976519cbbba14ee20cd842045888ab446241addeb31ab3526420338",
+          "67971737ca294ba4ca148926dd6e590f4b988ec14d24ff5b2e6ef9345ad78169",
+          "/records/3/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creation:noun:4:db675b33:2",
+      "entryId": "creation",
+      "englishText": "All which exists.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "3c9ef74d5d008a593ba6a054c1696626544c21afd343fc6efbbdc9bfde164684",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "万物"
+      ],
+      "explanation": "不可数名词，指存在的一切；常用于宗教或哲学语境。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "595558c29221a7afdbe8e592251a4eb4f32de90e088cc7e6c3055b61f9768eb5",
+          "9fa44747c5edee1019dfc84f4efe7857423dab89f35fe16a843f6bd09abb1f57",
+          "1ec900e8b976519cbbba14ee20cd842045888ab446241addeb31ab3526420338",
+          "eeafe3c0957cb0092194abc9e3995c58ef64bffb3c10f7deb79a2966c99de0ef",
+          "/records/4/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creation#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creator:noun:5:10a6db84:0",
+      "entryId": "creator",
+      "englishText": "Something or someone which creates or makes something.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "900c330e6099ab5b8525b15cf9141ed638235de284ba20bc11b0792569479686",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "创造者",
+        "创作者"
+      ],
+      "explanation": "指创造或制作某种事物的人或事物。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "595558c29221a7afdbe8e592251a4eb4f32de90e088cc7e6c3055b61f9768eb5",
+          "5f0553015d11571f3f107ff86392d4e330ebe09b91e71832f354a0bf36dafc79",
+          "1ec900e8b976519cbbba14ee20cd842045888ab446241addeb31ab3526420338",
+          "03a3d9c00a27ce229322cc1f25ceab432dfe328df2d9741ab807b0225859fd3a",
+          "/records/5/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creator#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "creator:noun:5:512dc3b4:3",
+      "entryId": "creator",
+      "englishText": "A player who creates opportunities for their team to score goals; a playmaker.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "f941dbf998ca6490593a294651b522e74844658a5fe3a8e22e3069b84b7faa08",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "进攻组织者"
+      ],
+      "explanation": "指为球队创造进球机会的球员。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "4ab6d1ae1d7f9dbfd21e9d9816b2b83489acc59181bc2b668b389184db9f0483",
+          "060f4e552bcee991bf19a8c1ba5b14b82cf9ef532bf5f65edcf7ae1edd5b79c8",
+          "87c2d3d4abc579d777f488e04f9186bbf2c5e0456a4eb925f1480547be124d73",
+          "a08e6e95c344e3621473c0e8ce31fb49302bc7b91fdcb780cda9ba63ab15ec2c",
+          "/records/5/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creator#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:52d8ab2b:0",
+      "entryId": "make",
+      "englishText": "To build, construct, produce, or originate.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "8d56e5da75dd221d1e6aca4976bb25aa9576ca3a09d0267c7f3c49d558d9032c",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "制作",
+        "建造",
+        "生产"
+      ],
+      "explanation": "表示建造、制作、生产或创造出某物，是及物用法。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "4ab6d1ae1d7f9dbfd21e9d9816b2b83489acc59181bc2b668b389184db9f0483",
+          "22d68a8322e4ebc2ea7c490ebf1fec4ca2e9062598de2d8a0162afeabc65a93b",
+          "87c2d3d4abc579d777f488e04f9186bbf2c5e0456a4eb925f1480547be124d73",
+          "9706c50cde84262acb3259c079028bc0054029e9889bda3a16da9be3db8da1b5",
+          "/records/8/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:fed3eac9:1",
+      "entryId": "make",
+      "englishText": "To write or compose.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "9d49272a2c4c9c086a1766c250771c5af21517977df94f4a87e100263cbe3404",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "撰写",
+        "创作"
+      ],
+      "explanation": "指写作或创作文字作品，如遗嘱、诗歌等。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "4ab6d1ae1d7f9dbfd21e9d9816b2b83489acc59181bc2b668b389184db9f0483",
+          "4a54001bdf8c8cbf0b2e39057ff1c6774a1d062be2bdbf11de3abe9be672b56b",
+          "87c2d3d4abc579d777f488e04f9186bbf2c5e0456a4eb925f1480547be124d73",
+          "ba831e5b76e86c57428a715d1683607b9d17d24bd164ad0437a19553d57520a3",
+          "/records/8/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:8b872efa:2",
+      "entryId": "make",
+      "englishText": "To bring about; to effect or produce by means of some action.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "9b1cc13f32bd731336a69b9e20096bdb61140c088b35676017a51318a124287d",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "造成",
+        "引起"
+      ],
+      "explanation": "指通过某种行动导致、引起或产生某种结果。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "4ab6d1ae1d7f9dbfd21e9d9816b2b83489acc59181bc2b668b389184db9f0483",
+          "9a9b0f73dafd6b536c0af8dd4164816784b6642d7aa88db4efa42a0219e5e3c1",
+          "fada106af56421e54637b8030dec4b57142c98e5a0bf91176c0584b340bf5caa",
+          "70c757d61d26214cdc714b2f5d66cc05939aa78057e0189d8aa021d39c3fa741",
+          "/records/8/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:26123dc9:3",
+      "entryId": "make",
+      "englishText": "To create (the universe), especially (in Christianity) from nothing.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "1f1a24e8e7485fe51f4326690c8aa55990804c67aa76e34525fd64ee3f1cbfe4",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "创造"
+      ],
+      "explanation": "指创造宇宙，尤指基督教中从无到有的创造。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "4ab6d1ae1d7f9dbfd21e9d9816b2b83489acc59181bc2b668b389184db9f0483",
+          "85be254ebabbf4eaa19fa3635b8d64699e29add31a514f2086d7f39ea789ca6c",
+          "fada106af56421e54637b8030dec4b57142c98e5a0bf91176c0584b340bf5caa",
+          "a0361572c9d78b1e78a49456e7bd99133cc0327898877be938ff44495a498dc4",
+          "/records/8/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:834df3dc:4",
+      "entryId": "make",
+      "englishText": "To prepare (food); to cook (food).",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "d89ff62701b74dd820765fcd8d195df847807b0cd2df334414d1239741cdb588",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "做（食物）",
+        "烹制"
+      ],
+      "explanation": "指准备或烹调食物。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "9d39da9c8e6a57f0a485315d0fec56b2ce012a55560df9ede52c2911d3f6fad7",
+          "a7c36ef6a40b1a3ef5f65d751537cf1ca335186cf10bfdb5c28b72086d860a5a",
+          "fada106af56421e54637b8030dec4b57142c98e5a0bf91176c0584b340bf5caa",
+          "cdb3b193fc65592ddcedb4f0c6e500d699ddc3418e63df17f7e40942a9d7687f",
+          "/records/8/senses/4/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:e4e18ce4:5",
+      "entryId": "make",
+      "englishText": "To behave, to act.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "f85cd44cd985d2a9454c05146d844355bc1f10cf3862ff19d89a926ab33c4b97",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "表现",
+        "行动"
+      ],
+      "explanation": "指以某种方式表现或行动；该义项为不及物用法，多用于口语。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "9d39da9c8e6a57f0a485315d0fec56b2ce012a55560df9ede52c2911d3f6fad7",
+          "6fe70109a4a7445db6734705bb11f6bb0b797ff29f579c514271b7f9dd073ff3",
+          "369a7ba7ed937cab3001064ea770f393c8a085b1e3d188b9813eac141f7b8242",
+          "02543304959d32fd565df72ddc54c34e7ca22a4c70e50500368c18e6830c9b2e",
+          "/records/8/senses/5/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:61b75f7b:6",
+      "entryId": "make",
+      "englishText": "To tend; to contribute; to have effect; with for or against.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "b9935f59c00f2e1b7ace2f55b3abcb9dc6fc9bdc5a3ac1e3dca9b437bd29a0ac",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "趋向",
+        "有助于",
+        "起作用"
+      ],
+      "explanation": "指趋向某种结果、促成某事或产生影响，后接 for 或 against。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "9d39da9c8e6a57f0a485315d0fec56b2ce012a55560df9ede52c2911d3f6fad7",
+          "f2f92031bdaec916bc9d92503080d70f2d9fbf0ce4ab341351facfccb32b7239",
+          "369a7ba7ed937cab3001064ea770f393c8a085b1e3d188b9813eac141f7b8242",
+          "44464cdc3d6825aa9219289645101cd94a8e5d86402509862ab24bbc056aa64c",
+          "/records/8/senses/6/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:eafe4f4:7",
+      "entryId": "make",
+      "englishText": "To constitute.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "fd01b5055f0258878f8e545a55bfd066e86df5adc03dd565fb6b486e31167659",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "构成",
+        "组成"
+      ],
+      "explanation": "表示构成或组成某事物。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "9d39da9c8e6a57f0a485315d0fec56b2ce012a55560df9ede52c2911d3f6fad7",
+          "299e7f16ccb825b354047c1b371e694c14f9937ce847d18bb7af2e65aa9ac997",
+          "369a7ba7ed937cab3001064ea770f393c8a085b1e3d188b9813eac141f7b8242",
+          "792f4d4232f6451508171eadf9e8caa67500aac1767d4c79db036b70819cf303",
+          "/records/8/senses/7/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:3ed13b76:8",
+      "entryId": "make",
+      "englishText": "To add up to, have a sum of.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "76391798fd4d4b91b79c7fe4e16720c7d5ddee744343b220dbcc20eae12b37e5",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "合计为",
+        "总计为"
+      ],
+      "explanation": "表示数目相加的结果。例：二加四等于六。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "9d39da9c8e6a57f0a485315d0fec56b2ce012a55560df9ede52c2911d3f6fad7",
+          "220d62325b95a940bad439cc28fc93bcd8fd5ac5b77b32d3ba04e1283b75120a",
+          "af8722276644541d23889328b76ea34b415a333b6f74afccbf7b58637d5f3168",
+          "2000601f8004c2be7ac6b9936e9a880de22da52cfb7895cb2ce59201e44cb3f2",
+          "/records/8/senses/8/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:e38b0b9d:9",
+      "entryId": "make",
+      "englishText": "To interpret.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "06e90dd72b3e8067c6877046ed4c1247c2c20709c7c34102caed2d611bdd1d63",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "理解",
+        "解释"
+      ],
+      "explanation": "指对某事物作出理解或解释，常用于“make of”等结构中，如不知道该如何理解某事。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "84e88f8838a681f9b7a42e90a2ad85bea558172ef7859018597c12f9aa112589",
+          "c73c0275b37b36445ee6a3fdabddcb3c0d1492bb817c0fa3e28356a7e8a6e4d1",
+          "af8722276644541d23889328b76ea34b415a333b6f74afccbf7b58637d5f3168",
+          "c221aa3453380917233d16e6ade842d16b5964fb8f9e420631ebf41dd1615757",
+          "/records/8/senses/9/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:f1006ba5:10",
+      "entryId": "make",
+      "englishText": "To bring into success.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "e2b10d87502a7322e0c9131db802549cc47bfa4d1c7531c71a2e61ebeedf0950",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使成功"
+      ],
+      "explanation": "指使某人或某事取得成功。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "84e88f8838a681f9b7a42e90a2ad85bea558172ef7859018597c12f9aa112589",
+          "e0fba92f5b5883623a0ba01df8bf76424542ef92449b82f7b610c24028fd6f23",
+          "af8722276644541d23889328b76ea34b415a333b6f74afccbf7b58637d5f3168",
+          "054c60d0242722dc49875c2cd503c2428c5d0f6b2456dc6f04b871aa354f7aa0",
+          "/records/8/senses/10/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:fce002b3:13",
+      "entryId": "make",
+      "englishText": "To cause (to do something); to compel (to do something).",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "8c42a1fd2b65f9c9f7ab660c134ad0f01e6f37f2651b5eea65bd5864965eb228",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使（某人）做",
+        "迫使（某人）做"
+      ],
+      "explanation": "指促使或强制某人做某事。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "84e88f8838a681f9b7a42e90a2ad85bea558172ef7859018597c12f9aa112589",
+          "e4d7752794d86da624895dbad1beeeb6db9dc9d4a0e247ab2daeca3a6ca91bea",
+          "838ac7ef144a0328e6022ab04d9c9e516bc0e30574fcfdbe5f05eb7c4cda0008",
+          "8469ba23858be30a5fabf62bb619c34a8bc0ade8a9f7fa5beefb26bc8b37d044",
+          "/records/8/senses/13/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:f2fe8079:14",
+      "entryId": "make",
+      "englishText": "To force to do.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "1291150c80b82430a9f82b536981333858bac2c324acf63b0edc7f68610acbf5",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "强迫（某人）做"
+      ],
+      "explanation": "强调强制某人做某事。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "84e88f8838a681f9b7a42e90a2ad85bea558172ef7859018597c12f9aa112589",
+          "ecf201b61eaf2ca9c63707c9cabf9bcc3ff83bdb8f134995a46536eeaa7e4d5d",
+          "838ac7ef144a0328e6022ab04d9c9e516bc0e30574fcfdbe5f05eb7c4cda0008",
+          "f4fbfb353757aa86c6eb70c0858a98f27b1d26c168576b8e8abab78fe9dd7bed",
+          "/records/8/senses/14/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:6f247daa:15",
+      "entryId": "make",
+      "englishText": "To indicate or suggest to be.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "6e5ce219b585f9c7966fcc2403fd9094ace0f9f7eda0d169e602faf170287dee",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "表明是",
+        "说明是"
+      ],
+      "explanation": "指表明或暗示某人或某物是某种情况，如过去的错误并不表明他是坏人。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "84e88f8838a681f9b7a42e90a2ad85bea558172ef7859018597c12f9aa112589",
+          "df1a006d483973e1729010f92d371d12ca773ba9aba5f1a568454ab6acc5fe88",
+          "838ac7ef144a0328e6022ab04d9c9e516bc0e30574fcfdbe5f05eb7c4cda0008",
+          "85dc3ebd3a90d09412b08e3892f13334d110bac43f81d01270e9478b43c3780d",
+          "/records/8/senses/15/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:8cfe0d27:16",
+      "entryId": "make",
+      "englishText": "To cover neatly with bedclothes.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "8758238b67724a34f47295fe1d9b5cc65de76d1410f38fc2988a676e960bde5e",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "铺床",
+        "整理被褥"
+      ],
+      "explanation": "指把被褥整齐地铺盖好，通常用于整理床铺。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "25c7f3d19aba41d886f28d472527efff90759876ec440321488bffc16c6903f7",
+          "21846ea2f633f8be3d48184ce4f04e7b887cf22d9ac3e81301796da04291eb13",
+          "7653161d0fd96e72aa5d335ca264e8223d38601a221e07b298307a027c5ba419",
+          "ab0096e05fc8a6f3811b6f831441ec6bdd35bc0757888fd0d0d19b1a97a68df6",
+          "/records/8/senses/16/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:3f3032b5:17",
+      "entryId": "make",
+      "englishText": "To recognise, identify, spot.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "e27cf2c24975e8a60f32328be7e690d611f01f6f85861fbfd0f201d7cba227fb",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "认出",
+        "辨认出"
+      ],
+      "explanation": "美国俚语用法，指认出、辨认出或发现某人或某物。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "25c7f3d19aba41d886f28d472527efff90759876ec440321488bffc16c6903f7",
+          "9aa5c44bcca1d6820e588fc6a420296d53a7f1abac2a2714debbd656619175d4",
+          "7653161d0fd96e72aa5d335ca264e8223d38601a221e07b298307a027c5ba419",
+          "115661867be20077dd7b02f506e25939ff943260fc330847adf167972e65aac6",
+          "/records/8/senses/17/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:cf96a2a3:18",
+      "entryId": "make",
+      "englishText": "To arrive at a destination, usually at or by a certain time.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "71868c718c36eb5e1087ab25889092c6b09f170f3fc12645b734c78276e27916",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "到达",
+        "赶到"
+      ],
+      "explanation": "口语用法，指抵达某地，通常含有在某个时间或之前赶到的意思。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "25c7f3d19aba41d886f28d472527efff90759876ec440321488bffc16c6903f7",
+          "ab80b56dda81a072e9fe608df49c6a1e5819c7f3e573634571da12f28c8125fb",
+          "7653161d0fd96e72aa5d335ca264e8223d38601a221e07b298307a027c5ba419",
+          "fd22878c67c4738833f33b84f11775503defdeff48faa05c4a7be18c710d15bd",
+          "/records/8/senses/18/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:de209668:19",
+      "entryId": "make",
+      "englishText": "To proceed (in a direction).",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "d179a7cb13a36be8ec578fbb5d5c7d8f8fa2e63b2491ed59ca5d588df837a675",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "朝……行进",
+        "前往"
+      ],
+      "explanation": "口语用法，指朝某个方向前进，常与 for、away、westward 等方向性词语连用。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "25c7f3d19aba41d886f28d472527efff90759876ec440321488bffc16c6903f7",
+          "14b8b44dc5bb2bb7655fad13dd378f6c7dde9ee850aa86f193be5445a9a3b292",
+          "ceb898f46650991f37ca7255eedd3cd6bb7286c75e8b741a5a184895449d4229",
+          "4d15061ac56d920eca071276c5415af2ef97e74cfbf68dcb63e88e1f29a6fcb0",
+          "/records/8/senses/19/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:e2fbec8:20",
+      "entryId": "make",
+      "englishText": "To cover (a given distance) by travelling.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "3a0baa9c30e225a87b246fb56af67d5ca08dd6ebd4d05981f6d06ec183685d0c",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "行进（一段距离）",
+        "走完（一段路程）"
+      ],
+      "explanation": "指通过旅行或行进走完某段距离。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "25c7f3d19aba41d886f28d472527efff90759876ec440321488bffc16c6903f7",
+          "22aa2e184dbc839c73930248da11a15ed8b2bbe3f67589986d9d9ec69680aeb7",
+          "ceb898f46650991f37ca7255eedd3cd6bb7286c75e8b741a5a184895449d4229",
+          "2d044b771eb0b4a2b9892f4511f8603a39de2a59a2ac0a6c9888667ab96ab674",
+          "/records/8/senses/20/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:3be334e5:21",
+      "entryId": "make",
+      "englishText": "To move at (a speed).",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "2dcb9d4103cdddb768ab125ea6ea0d613139b85940cdc770fd8a44cd3aa47b84",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "以（某速度）行进"
+      ],
+      "explanation": "指以指定的速度移动或行进。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "50fa7e781db69df1599fa3bdcfaf5b522d87fb1bffd2569d3ab9de4cafc774cf",
+          "f1ac5c219de025e9f38d6af5731d7172d8af9a1a420088a07366d34dacdbe45c",
+          "ceb898f46650991f37ca7255eedd3cd6bb7286c75e8b741a5a184895449d4229",
+          "ebf775eba750fda02ed41e216f259b7b6bee9b1ecb1b183f2adfbaee9edf6855",
+          "/records/8/senses/21/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:3e7b64c0:22",
+      "entryId": "make",
+      "englishText": "To appoint; to name.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "22fc6d3341875bf4a33ac8c32a11dadb76fc9e3b1065e6787658eea181f7f62d",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "任命",
+        "指定"
+      ],
+      "explanation": "指任命或指定某人。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "50fa7e781db69df1599fa3bdcfaf5b522d87fb1bffd2569d3ab9de4cafc774cf",
+          "91132bf6b1349661a918ba39b906500cf6d7be075a43daf7b61080273348a784",
+          "921cb520a1a9fd4844f3f60397000ce32cbe317ffdbc8f61352c1c7e92785347",
+          "4872ec28f9a74fa7e074c007c5a0b15c5760efff51939ba6fc9d4b79c1e77864",
+          "/records/8/senses/22/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:90377beb:23",
+      "entryId": "make",
+      "englishText": "To induct into the Mafia or a similar organization (as a made man).",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "0b5e6c2b9f0363518f22291a0060d6804f462db4e0d68516f21b7253fc84d3bd",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "吸收（某人）加入黑手党等组织"
+      ],
+      "explanation": "俚语，指将某人正式引入黑手党或类似组织，如成为“made man”（正式成员）。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "50fa7e781db69df1599fa3bdcfaf5b522d87fb1bffd2569d3ab9de4cafc774cf",
+          "8e02fd0821c085e87b44c456e081559badf51cb1208c311735c36e89fa8e5c01",
+          "921cb520a1a9fd4844f3f60397000ce32cbe317ffdbc8f61352c1c7e92785347",
+          "097d145f35611534cc18588d314e65f5b82f63c14c1844eb19ae71fc450d87fc",
+          "/records/8/senses/23/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:76e5e310:24",
+      "entryId": "make",
+      "englishText": "To defecate or urinate.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "4f7be151bdc366299609eb73ab24884d637b440ca1cb8969c6d0c29aa23777e3",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "排泄",
+        "大小便"
+      ],
+      "explanation": "口语委婉说法，指排便或排尿，为不及物用法。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "50fa7e781db69df1599fa3bdcfaf5b522d87fb1bffd2569d3ab9de4cafc774cf",
+          "aa0eab8ce5acd8c7c4d203000a24f93fd4877fdab4ec105cd76cd8ecc8962e0c",
+          "921cb520a1a9fd4844f3f60397000ce32cbe317ffdbc8f61352c1c7e92785347",
+          "3f752085df50f1bf5172db4f47d0786fef2f0a1a5f080059b9171de1af8cdbda",
+          "/records/8/senses/24/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:6ece6aab:25",
+      "entryId": "make",
+      "englishText": "To earn, to gain (money, points, membership or status).",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "958278cff8c9261c0bf7cd6ded356500ca77b82193b2441e41992792f3fe0ba1",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "赚得",
+        "获得"
+      ],
+      "explanation": "指赚取或取得金钱、分数、成员资格或地位。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "50fa7e781db69df1599fa3bdcfaf5b522d87fb1bffd2569d3ab9de4cafc774cf",
+          "c955f24f92c362ee3d62ab49d272105843c437e7244fc90f670b7f4ff28f29bb",
+          "b606f01458baa0ebbaa88ea4a1197123fde5898ab17744c5c6487ab620cc15db",
+          "691999a270794d1349bc26e6b8cb3b3d718ef74ae39f62f28a5ff0db1d9a4b9a",
+          "/records/8/senses/25/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:20f8bc42:29",
+      "entryId": "make",
+      "englishText": "To enact; to establish.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "61bf56746fc2c2ef04fbeebc8279c333ed026fedb792f7c5e64db326d68d8edd",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "制定",
+        "确立"
+      ],
+      "explanation": "指制定（法律等）或确立、建立。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "ad0aadd03c7b22af849bc6704cd3a81ebb17fe99b00a881e5f9dfc0a123565fa",
+          "b3e10a63c559f9e071b8d381a690878e440ab377c65f2ea52487b078c3c5b811",
+          "b606f01458baa0ebbaa88ea4a1197123fde5898ab17744c5c6487ab620cc15db",
+          "f0b309147cb64ddfc7a95abc88bbd71f4930b78976e54a0382c20128b54a2649",
+          "/records/8/senses/29/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:5bc7329b:30",
+      "entryId": "make",
+      "englishText": "To develop into; to prove to be.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "02f7cfc64848407adfd879d84951d7543d91c5db2028c5a7bfed0d72f24402a7",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "成为",
+        "结果是"
+      ],
+      "explanation": "指发展成为某种人或事物，或最终证明是某种情况；如例句中“她会成为一位好总统”。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "ad0aadd03c7b22af849bc6704cd3a81ebb17fe99b00a881e5f9dfc0a123565fa",
+          "b20cd2721c32029bb5767fbc3d3d31ece01cf7d96121638f9fc82a1798437d66",
+          "b606f01458baa0ebbaa88ea4a1197123fde5898ab17744c5c6487ab620cc15db",
+          "6744afa7dee4d96dfb9fa828d7fcd7e209b1fc12d6eeda0e39670b769f042f6a",
+          "/records/8/senses/30/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:c7bbd065:31",
+      "entryId": "make",
+      "englishText": "To study or train so as to become (a profession); to grow up to be (something).",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "5c1a3bd3377b534404bcc8c1f40efc7299099a044943aeb6badb0f24a6f97e7e",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "学成（某职业）",
+        "长大成为"
+      ],
+      "explanation": "指通过学习或训练成为某种职业人员，或长大后成为某种人。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "ad0aadd03c7b22af849bc6704cd3a81ebb17fe99b00a881e5f9dfc0a123565fa",
+          "d1a1b02c3276228d0bd4eb17c79209b9e9a6c912eb5ff74a335a8a6682f8166e",
+          "df0091dbdd32d25b5fd4ecad8fc3781b635d37f42426bf11026a3e71a0bd4b68",
+          "c342adb3537f8cea0131ed1e795d03ee5c0943fc383c80f6532c5720e0bf6f40",
+          "/records/8/senses/31/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:412f1d2c:32",
+      "entryId": "make",
+      "englishText": "To form or formulate in the mind.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "2d625467fb3677edeb1801e2362040bdb99e9a3043cd33f03bc3ca0162245c0a",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "构想",
+        "在头脑中形成"
+      ],
+      "explanation": "指在头脑中形成或构思某事。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "ce0bcd4be34f8e126d0bbd614d83d84d3ab4cecee255160226ef6d3936bf528b",
+          "df0091dbdd32d25b5fd4ecad8fc3781b635d37f42426bf11026a3e71a0bd4b68",
+          "95518c1b289c708077048ffd8aa22fd067fb10fee019cc9710f3fb0c64909c51",
+          "/records/8/senses/32/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:b21f3da:39",
+      "entryId": "make",
+      "englishText": "To take the virginity of.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "38bb58139e092ae32828bbc698a67972469d93f37d6bd01a926f97d61df52607",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使失去童贞"
+      ],
+      "explanation": "委婉说法，指夺去某人的童贞。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "0e550650fdc0fcca52151897bae6554fb836236310b7060b37aa2ec447cf44d3",
+          "df0091dbdd32d25b5fd4ecad8fc3781b635d37f42426bf11026a3e71a0bd4b68",
+          "f42f0b37c9de67784086e2ba4bd3544aefb7b4078ce67d3293fee83b21c85a95",
+          "/records/8/senses/39/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:verb:1:514635b5:40",
+      "entryId": "make",
+      "englishText": "To have sexual intercourse with.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "252750f823b02125463aaf9dddc3d68cc8d32a2455a0d45dc0f8bec0c20153b3",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "与…发生性关系"
+      ],
+      "explanation": "及物用法，指与某人发生性交。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "b22b2104ca0a8bee0be3643645a1dbf9ed3e09c66904466eddbd7013c0942779",
+          "ac5110de749e86ae0542ace68d3627912a7d8992d813a6595ed6b5fe350f16c1",
+          "b76596dfe61e3418ae43fd9a52982353a607226ebd3df08c33490f66177f7766",
+          "/records/8/senses/40/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:e9c6cf23:0",
+      "entryId": "make",
+      "englishText": "Brand; marque; manufacturer; maker.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "8cf265a6b1ae83fd6c68e0494b929983151de4d06ab1a0d584ee7a205358992c",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "品牌",
+        "牌子",
+        "厂商"
+      ],
+      "explanation": "指商品的品牌或制造厂商，如例句中询问汽车的品牌和型号。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "daba6eeda7f17681e9865220d59462d11535e0dd5a13f1e885573a0c6d3634b5",
+          "6d07d07ea42a7ab3dbc42618190a39799701e9a5a0cbf22b6652b72f4d5f924e",
+          "ac5110de749e86ae0542ace68d3627912a7d8992d813a6595ed6b5fe350f16c1",
+          "7091567094b7db07172afd930dfcabe9edcfdc39c3ac9a3c06a24fcace6cd43f",
+          "/records/9/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:1c23ac5f:1",
+      "entryId": "make",
+      "englishText": "Manner or style of construction (style of how a thing is made).",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "18838318652a6d3755210d4639f79b818944241122910ee5c25ee087f97df08f",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "做工",
+        "制作样式"
+      ],
+      "explanation": "指物品的制作方式或构造风格，即东西是怎样做成的。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "daba6eeda7f17681e9865220d59462d11535e0dd5a13f1e885573a0c6d3634b5",
+          "16b052fc6c37908badeaaa7a4b0e4773b318de9dd12367468ab173f336bae597",
+          "ac5110de749e86ae0542ace68d3627912a7d8992d813a6595ed6b5fe350f16c1",
+          "0a3009324f062f77883308503e4f6f7f49882f2ee053304eefd94b008aa033dd",
+          "/records/9/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:8d68192f:2",
+      "entryId": "make",
+      "englishText": "Origin (of a manufactured article); manufacture; production.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "832d3efad0b0bf0426c8566be4885c4421d79a9981b8b42fef3f28081a016ef5",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "产地",
+        "制造"
+      ],
+      "explanation": "指制成品的来源地或制造、生产，如例句中说明相机为德国制造或近期制造。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "daba6eeda7f17681e9865220d59462d11535e0dd5a13f1e885573a0c6d3634b5",
+          "a689b25e0991c7c9f33ad9a09f99f0317c2a5101e518a799e7dd8331b32d920d",
+          "88840a85b66ad8b295b4db25ae6e16e4a87ccbfc68406605197cf6a185b4180c",
+          "5df25cb115310c02d03ae608ed8f9dc898684a06cfa946622e9bd0e9d5727443",
+          "/records/9/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:9641a864:3",
+      "entryId": "make",
+      "englishText": "A person's character or disposition.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "f8673cb49781a2fa61e30656011178337f81b80bab3e67c88d3aba558a2e6631",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "性格",
+        "性情"
+      ],
+      "explanation": "指一个人的品格或性情。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "daba6eeda7f17681e9865220d59462d11535e0dd5a13f1e885573a0c6d3634b5",
+          "0b18fc4ffe472a24eeeaa3d3cb82b900ef37a9cf7750af993dc36c5340a427ee",
+          "88840a85b66ad8b295b4db25ae6e16e4a87ccbfc68406605197cf6a185b4180c",
+          "d9d6e372bac4b4ea3331162c982efad18a142b3898271100b8693196b686ee1f",
+          "/records/9/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:913462c7:4",
+      "entryId": "make",
+      "englishText": "The act or process of making something, especially in industrial manufacturing.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "ef8263653c182fea97279b9eec8977a6ee9f9bb078a2b356bd9e6182747e3aa1",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "制造",
+        "制作"
+      ],
+      "explanation": "指制造某物的行为或过程，尤用于工业制造语境。该义项标注为过时用法。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "cf04dcdd038206c3a03cdbea506c67c9bf1377ed92645e6733d6180dfb979aca",
+          "9721d5aba0ab168dc9fa6cf6220942d515e826855360d31672f1e60741355c70",
+          "88840a85b66ad8b295b4db25ae6e16e4a87ccbfc68406605197cf6a185b4180c",
+          "77887ca2db5eb039fe204f841118ebe55dd1e4905ffc86748f79c9ece85cf7c0",
+          "/records/9/senses/4/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:c4ead23e:5",
+      "entryId": "make",
+      "englishText": "Quantity produced, especially of materials.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "617fabcd02e33c658d4e2daf79dc6887e1b070bf883ba03bc6136723108000d7",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "产量"
+      ],
+      "explanation": "指生产出的数量，尤指材料的产量。该义项为不可数用法。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "cf04dcdd038206c3a03cdbea506c67c9bf1377ed92645e6733d6180dfb979aca",
+          "02d1671fb3466674d7dd037040116a3cdc6fc31e3be6f5be5f0b840afb7234d4",
+          "6c8aec6a2fd72a33632b5e701d40e016cfb0026ba3bed15472572283a42dc425",
+          "faf0e5d54a92bbd75dd2ac0945be6ea661ba3e72b8d2e836d819aac08ca6905c",
+          "/records/9/senses/5/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:cf442b13:7",
+      "entryId": "make",
+      "englishText": "Identification: recognition (of identity), especially from police records or evidence.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "2de5818c4c5459c7307fb50ded3795a37dd020a881300fb214faf792a3a26342",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "辨认",
+        "指认"
+      ],
+      "explanation": "俚语，指对身份的识别或确认，尤指依据警方记录或证据所作的辨认。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "cf04dcdd038206c3a03cdbea506c67c9bf1377ed92645e6733d6180dfb979aca",
+          "30c401e2e2095f32652d345e9c0f922ba27ad109b50a032b16a7b9c95955ebb4",
+          "6c8aec6a2fd72a33632b5e701d40e016cfb0026ba3bed15472572283a42dc425",
+          "fdd4e24e5d8093124f33fa196f922c57a71cc1cdb5df8ca3fd0b4f8e2e7d0d55",
+          "/records/9/senses/7/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:51a20031:8",
+      "entryId": "make",
+      "englishText": "A promotion.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "1af64c3e74d023ad0b32b6d1c41794882b33e61096048be3ebeb3998916c60d2",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "军衔晋升"
+      ],
+      "explanation": "军事俚语，指军衔的晋升。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "cf04dcdd038206c3a03cdbea506c67c9bf1377ed92645e6733d6180dfb979aca",
+          "5e57eefb5eed403c566a6f9092fa48d2abe3294b934a96efdeb731112111ec61",
+          "6c8aec6a2fd72a33632b5e701d40e016cfb0026ba3bed15472572283a42dc425",
+          "cde513804cdd910c12f73ea4950e9482ee205696d2f39ca1de5426cdfaf5fd93",
+          "/records/9/senses/8/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:23629a29:11",
+      "entryId": "make",
+      "englishText": "A made basket.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "9187a15c315781c2437109db290577ed7e7c789a9ee2bc081ad65af4d67c5d58",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "投中的一球"
+      ],
+      "explanation": "篮球用语，指成功投进的一球。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "35de378ae26fd32daef0d0bb47d5ba79d58f19d4012ab273c8d86bc101a6f60b",
+          "137297a8591eea11d42d419a33290f819588a3cfc4a69886df43312fa3eef391",
+          "d78dce9418bf089b934427e87d954f1a6b9d0e92e8ac116700dbfcbce9d1e18a",
+          "f0480b2a50554a44c6e75df5a1e7fa8accb869b92bc3b413358a0d7763902be9",
+          "/records/9/senses/11/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:1:95c7f036:12",
+      "entryId": "make",
+      "englishText": "The closing of an electrical circuit.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "38b82724fc467a3e62ee5f604112060828693e50918fb77111a1b20bbfb91e8d",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "电路接通"
+      ],
+      "explanation": "指使电路闭合、接通的动作或状态。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "35de378ae26fd32daef0d0bb47d5ba79d58f19d4012ab273c8d86bc101a6f60b",
+          "75d38635c2821f9d01ad8ed1dbdedd6b1867656e596aecb72bbf23c36959b48a",
+          "d78dce9418bf089b934427e87d954f1a6b9d0e92e8ac116700dbfcbce9d1e18a",
+          "5dbe871ef6205ffee9109a63e95bb8c223414cbc5d68318d02dfd2cb36f953b6",
+          "/records/9/senses/12/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:2:f2b868e4:0",
+      "entryId": "make",
+      "englishText": "Past, present, or future target of seduction (usually female).",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "7874a07a946c811fcd02da85bd21d3ddc5148bd00f954de7b38ad5c9df8705c3",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "勾引对象"
+      ],
+      "explanation": "俚语，指过去、现在或将来勾引的对象，通常为女性。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "35de378ae26fd32daef0d0bb47d5ba79d58f19d4012ab273c8d86bc101a6f60b",
+          "4fc9feee73a5fda606a94a010ad4332ba3f572be726285b9550f519998bf82cf",
+          "d78dce9418bf089b934427e87d954f1a6b9d0e92e8ac116700dbfcbce9d1e18a",
+          "a42029e883b4f169aa94940b9cec8e90fb348546da53af36d78e3b56fb493078",
+          "/records/10/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:2:d13c805b:1",
+      "entryId": "make",
+      "englishText": "Mate; a spouse or companion; a match.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "a49a3a0c684965704637fda65e0e09ffd1c1c9850f9d475151bc5b8bcb88ae9d",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "配偶",
+        "伴侣",
+        "相配者"
+      ],
+      "explanation": "英国方言用法，指配偶、伴侣或相配的人。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "35de378ae26fd32daef0d0bb47d5ba79d58f19d4012ab273c8d86bc101a6f60b",
+          "b0b21493217044478cb2f07e206732ba13c30565902a198b129ee4fdba2efd60",
+          "7f58e39a9012820589a7b08ed5c1e1c0a162961a9a3e67a4ea428af11ae605da",
+          "1a9ee17affc18f2d1952ddf81d644d8837fde4f40bb7aa3f8c305cfcdb8cea2f",
+          "/records/10/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make:noun:3:1b6212cd:0",
+      "entryId": "make",
+      "englishText": "A halfpenny.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "1918d954c50b9fbc833855c2644d22b481a9f4f18449655ce514a93d7add1a22",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "半便士"
+      ],
+      "explanation": "旧时地区用语，指一枚半便士硬币；见于爱尔兰、英格兰北部和苏格兰，现已罕见。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "3c5e94f161377b07025643db100ee2aaf3fa2de11b0e2555433e701d88e600fb",
+          "699b3d39b2b3bc1159d8e7f9aa4972855e9cfa018537d3526cf77545183724b8",
+          "56257cdbcb7ae67f7d5df33aa91e6af45be610188f15633cf1c18a0200de9760",
+          "e79acd9cb64b1a496dd8d5b49324e0c271174093f7ffe2371dd2c017ac85dfb7",
+          "/records/11/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:717e425b:0",
+      "entryId": "destroy",
+      "englishText": "To damage beyond use or repair; to damage (something) to the point that it effectively ceases to exist.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "df6b7656659f585374732fd3ad941ce82fcfd60dc30e532303ce0c49cf6a1b6e",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "毁坏",
+        "摧毁"
+      ],
+      "explanation": "指把某物损坏到无法使用或修复的程度，实际上使其不复存在。可及物也可不及物。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "3c5e94f161377b07025643db100ee2aaf3fa2de11b0e2555433e701d88e600fb",
+          "3b4b5aea1b60262b0ec91686d24eeab9bf4c833e9e95ac33620830e58cafa1c7",
+          "7f58e39a9012820589a7b08ed5c1e1c0a162961a9a3e67a4ea428af11ae605da",
+          "9c1cf3c9f079093db8de0901893ef11f1899f1240bd268852b39d9827d0ae737",
+          "/records/13/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:bdaf4cb5:1",
+      "entryId": "destroy",
+      "englishText": "To neutralize, undo a property or condition.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "2e58db8937eef027f5d308c64132f9e3308da622b3a92cb30ee8a70dc5949672",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使失效",
+        "消除"
+      ],
+      "explanation": "指抵消或去除某种特性或状态，而非从物理上毁掉物体。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "3c5e94f161377b07025643db100ee2aaf3fa2de11b0e2555433e701d88e600fb",
+          "bd86691beba8fa9f40b1615ca67906836cfefbeebc306a91181ff3a2dd57ca6a",
+          "d188043fbee3c5dfb63b13a5585904dd0c7ab1056f804daa265e360c3c26ce6c",
+          "013da435c6d58ed10ffce7a9446b1bfba4cc5388980ea346fd3b9fb7142cd802",
+          "/records/13/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:122e2bf2:3",
+      "entryId": "destroy",
+      "englishText": "To severely disrupt the well-being of (a person); ruin.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "d60ae1e262b7fca06011700e3b1464dd3a669ce470caa0f58ecbaec9f515b7b4",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "使身心崩溃",
+        "毁掉（某人）"
+      ],
+      "explanation": "指严重破坏某人的身心状态或生活，使其陷入痛苦或崩溃。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "3c5e94f161377b07025643db100ee2aaf3fa2de11b0e2555433e701d88e600fb",
+          "faaf33e5c5ee756081025a27d7970e0f4c56b5e2af9ffa91b07e74e5837439b0",
+          "d188043fbee3c5dfb63b13a5585904dd0c7ab1056f804daa265e360c3c26ce6c",
+          "ce3082a11cf1a8fa5cfe698f6c38b99da152f10cd5e9bcf8ed3b606fcbd774f6",
+          "/records/13/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:170010bf:4",
+      "entryId": "destroy",
+      "englishText": "To utterly defeat; to crush.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "d4355d0dfc51fd8089848dfc0fa1ee9652dd3ef209547aa9162b6997f88fd87a",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "彻底击败",
+        "碾压"
+      ],
+      "explanation": "非正式用法，指彻底打败对手。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "0f2f2af53f0a9cb261bf495d8bf907d82997d799dc060f99cbb9eefded272a55",
+          "ddd3e6aeb0c05b0e91af74947688d65c8fae11e9b74d2f7e5380adf038be6cbc",
+          "d188043fbee3c5dfb63b13a5585904dd0c7ab1056f804daa265e360c3c26ce6c",
+          "9438cd7c47af5c13c594efd7fa4d64a5d44f344422808f77bb7194bc0dcf4ea5",
+          "/records/13/senses/4/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:d55be696:5",
+      "entryId": "destroy",
+      "englishText": "To remove data.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "65df9ed3a8b7ab2bb4022b46bf4778b7b0ca65322a5a5f299073af5ea2ac23f6",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "删除（数据）",
+        "清除（数据）"
+      ],
+      "explanation": "指删除或清除数据。例句中因忘记删除临时列表而导致内存泄漏。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "0f2f2af53f0a9cb261bf495d8bf907d82997d799dc060f99cbb9eefded272a55",
+          "97b8497f5fcb4c89c5a92c1c9d349a620cda61248ef511b86ce1eb102e1c2958",
+          "07b2fb1a4244cc3aaf6679f84c73abae590674c32456b962c190a0d2cfa6c9b8",
+          "5a2e8fa365ee6d2d418f737d63cd1af632596ef0a27e6f5c47526bd72854cbde",
+          "/records/13/senses/5/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:fc98c8fc:7",
+      "entryId": "destroy",
+      "englishText": "To penetrate sexually in an aggressive way.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "e8bf0b1658321ef9465eda1754982954f9c473740f3746f213fa5594d0b7c2b1",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "猛烈地进行性插入"
+      ],
+      "explanation": "粗俗俚语，指以猛烈的方式实施性插入。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "0f2f2af53f0a9cb261bf495d8bf907d82997d799dc060f99cbb9eefded272a55",
+          "e352498ea74aae182c745042f42bd53c96611c8dd6ce5dadd6353ec2c27ba2a6",
+          "07b2fb1a4244cc3aaf6679f84c73abae590674c32456b962c190a0d2cfa6c9b8",
+          "bbcb58058a7666afd772b90f38e227dc52ea9a2b6b92516b5a9342f14a71cecc",
+          "/records/13/senses/7/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "destroy:verb:13:40d21753:9",
+      "entryId": "destroy",
+      "englishText": "To eat food quickly, hungrily or completely.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "da90f8394e22f63ce55c152cae566ccee1a108f33d4f4f741ccb3e195c1b732b",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "狼吞虎咽地吃",
+        "吃光"
+      ],
+      "explanation": "俚语，指快速地、大口急切地吃，或把食物全部吃完。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "f13f4fd7c07efe28c3eac9ee91a3c5f78163ebe9484f688af8e2687d38013bdb",
+          "48b0d547bd3ad88d5c4d243f5523bbeda885a7dbf4b69f0017ecf37ce39880b6",
+          "07b2fb1a4244cc3aaf6679f84c73abae590674c32456b962c190a0d2cfa6c9b8",
+          "1f0d9488137d9f0fdb066f8038d4b5c6d95bfe8ed0ffefe77895141c9302b078",
+          "/records/13/senses/9/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "make-sense:verb:14:12ae7d9d:1",
+      "entryId": "make-sense",
+      "englishText": "To decipher or understand.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "29978f96494991cdd41ea083cefa86b32ebdb748b770cb01474f1d4099a65caa",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "理解",
+        "弄懂"
+      ],
+      "explanation": "指辨认或理解某事物，常与 of 连用，如理解某人的笔迹。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "f13f4fd7c07efe28c3eac9ee91a3c5f78163ebe9484f688af8e2687d38013bdb",
+          "478faefe0289812fb72d5db59c2f85d0a4d00d0f85adf4a1c2f29c2cda65182e",
+          "1a83eff40b484bf7649510d6deef71ae9eaf1120866f2fe004804e618cf34021",
+          "43982d6a5bb1a83da8b1a7eb8d839c6ede93aaeaf419c9f038383c7093777d5f",
+          "/records/14/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make_sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:62975f96:0",
+      "entryId": "sense",
+      "englishText": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "6ba7ea07484704ab9cff40d06e235fbd6a9441b3d232d4760f400f2a2431f5d6",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "感觉",
+        "感官"
+      ],
+      "explanation": "指生物感知物理世界的各种方式，对人类而言即视觉、嗅觉、听觉、触觉和味觉。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "f13f4fd7c07efe28c3eac9ee91a3c5f78163ebe9484f688af8e2687d38013bdb",
+          "f426e6af2a71af991df9d48a14263e57b47105e7f87bdd6d6b4484f5847543fe",
+          "1a83eff40b484bf7649510d6deef71ae9eaf1120866f2fe004804e618cf34021",
+          "9304ad10b046ccca20e418f61537501d7845433476346223949b55bdf8c0a7f3",
+          "/records/15/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:ca3e50d1:1",
+      "entryId": "sense",
+      "englishText": "Perception through the intellect; apprehension; awareness.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "5ba9692c09a6a1531d51c4c2e956020866de3e26957fa867ed8f362066915606",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "意识",
+        "感知",
+        "领会"
+      ],
+      "explanation": "通过理智进行的感知；觉察、领会或意识，如“安全感”中的“感”。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "e9d0f9c43b9f4037d25cdd8db0c11d573ea5859b70cc108b0b5792663134e642",
+          "a8f84497097da74c17cf091ae6187dbff2634fa8d91ea81b0529b0016837c69a",
+          "1a83eff40b484bf7649510d6deef71ae9eaf1120866f2fe004804e618cf34021",
+          "ac42c7bea178b8f7ee3e44cd48045819906f5c62e9bc4246bc07f7db2abd131a",
+          "/records/15/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:76ebb38d:2",
+      "entryId": "sense",
+      "englishText": "Sound practical or moral judgment.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "6902901e81e168c0e91f721f23bf4a1cccc0dff1061a7ac46e341eb543e62c8c",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "判断力",
+        "明智"
+      ],
+      "explanation": "指健全的实践或道德判断力。例中“common sense”即常识，指不把金属物品放进微波炉这类实际判断。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "e9d0f9c43b9f4037d25cdd8db0c11d573ea5859b70cc108b0b5792663134e642",
+          "aa1f47d0161f6776b2e84089e662cec7e4530bd25f0d7ce1f8da9c41f7d44896",
+          "54b26fd53f530921133172e27b7807c38419f49f44835cd9a8aee524cda75234",
+          "e43062b57b9fb8bbb50d0d08d6063f3fc1eb05a2f7c0236ca3a4d295b6ba28bc",
+          "/records/15/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:1684e60a:3",
+      "entryId": "sense",
+      "englishText": "The meaning, reason, or value of something.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "009f040b1cdb1964a88b8745b7325348cdb43d73cb8f2a3aecd8822a9eaddf12",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "意义",
+        "道理"
+      ],
+      "explanation": "指某事物的含义、理由或价值。例中“make sense”表示讲得通、有道理，“don’t make any sense”即毫无道理。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "e9d0f9c43b9f4037d25cdd8db0c11d573ea5859b70cc108b0b5792663134e642",
+          "0a35a86b763598894d6083be96720d6a588871009c97ee9bc13c451ebdb5da45",
+          "54b26fd53f530921133172e27b7807c38419f49f44835cd9a8aee524cda75234",
+          "bbd5500eda396c744d01c050b67a56e7cb37dd1690da96a7109012c14f13aaad",
+          "/records/15/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:c0c31fa8:5",
+      "entryId": "sense",
+      "englishText": "A single conventional use of a word; one of the entries or definitions for a word in a dictionary.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "688cd59c9d786ef16d61357062c1a3dac800763f4595d63bfeba1c695d9a90c7",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "义项"
+      ],
+      "explanation": "指一个词的一种惯常用法，即词典中为该词列出的条目或释义之一。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "e9d0f9c43b9f4037d25cdd8db0c11d573ea5859b70cc108b0b5792663134e642",
+          "8108706537efc7c9bb48586c900685da08bb16837243682186eab1b123d4717d",
+          "54b26fd53f530921133172e27b7807c38419f49f44835cd9a8aee524cda75234",
+          "f85d0a044903c859c05ce85bf1ad6c1c58f599fefaa267678cc6679156f964cd",
+          "/records/15/senses/5/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:c90a0a53:6",
+      "entryId": "sense",
+      "englishText": "A natural appreciation or ability.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "39f87cd2da331d0e3d0f60e07d9ec890166f0a5c23bf055dc9acaa63d02de647",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "天赋",
+        "鉴赏力"
+      ],
+      "explanation": "指天生的鉴赏力或能力。例中“a keen musical sense”即敏锐的音乐感。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "e9d0f9c43b9f4037d25cdd8db0c11d573ea5859b70cc108b0b5792663134e642",
+          "c6149adfc078d3c564936c80ff3f22243c2d447ee943ecfd3a6ce59580abffe4",
+          "272572c201191c2df22aab95819eeca9062c387f66977d552f6bcca92fe9496c",
+          "13080a358ad0a87bb6e81998349b355eecc3603c2e962dcfd21daa0b54a3aaeb",
+          "/records/15/senses/6/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:82e533bf:8",
+      "entryId": "sense",
+      "englishText": "One of two opposite directions in which a vector (especially of motion) may point. See also polarity.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "d0d9552c0106b1d2e08b3e43f8d1fa14e9ad28ea1f5666c778408938dbf73057",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "方向（矢量的两个相反指向之一）"
+      ],
+      "explanation": "指矢量（尤指运动矢量）可能指向的两个相反方向之一，与极性相关。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "23e9002a12875cd0f65f8edb8e78a277e4415d763d1b77a0934dca5c57237565",
+          "e32b793a022b9bd730c5d3e4020a71778c227956ae341a2923a31e035120d118",
+          "272572c201191c2df22aab95819eeca9062c387f66977d552f6bcca92fe9496c",
+          "1ab7ab059fd794556ffec7a1d642eca0a33efd3127135dca7420abc1435d3914",
+          "/records/15/senses/8/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:noun:15:56c2b91:9",
+      "entryId": "sense",
+      "englishText": "One of two opposite directions of rotation, clockwise versus anti-clockwise.",
+      "partOfSpeech": "noun",
+      "sourceFingerprint": "61a4d1ded710aa539551cbcf59fba18ad6a411211276afb7f57824b0d4a2fab6",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "旋转方向（顺时针或逆时针）"
+      ],
+      "explanation": "指旋转的两个相反方向之一，即顺时针方向或逆时针方向。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "23e9002a12875cd0f65f8edb8e78a277e4415d763d1b77a0934dca5c57237565",
+          "b5aab08741257af827fa2dfdb97af41c6be7a5f874e4a87b69950e62f06e5837",
+          "272572c201191c2df22aab95819eeca9062c387f66977d552f6bcca92fe9496c",
+          "38523a2a0325a5b5b65aab6eaaf642bb9d9861bb8c0d6c9ce5fd1033369e3280",
+          "/records/15/senses/9/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:verb:16:23afe6ff:0",
+      "entryId": "sense",
+      "englishText": "To use biological senses: to either see, hear, smell, taste, or feel.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "affde1692cfaf14ed43f493ce8f814d611fb0b941456281f0e0795d0b6a7bc4c",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "感觉到",
+        "感知到"
+      ],
+      "explanation": "指运用生物感官，即看到、听到、闻到、尝到或触到。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "23e9002a12875cd0f65f8edb8e78a277e4415d763d1b77a0934dca5c57237565",
+          "4fcf3577722d3ab4ac1a31dcc5bf41943e9ec0bd9614a0e973e431cc52423e45",
+          "62efee1da41b49088c823eb8b7a9e3116622170ed2f6cca811dba6f0005030e7",
+          "93a02daed26614bb8b054fb81dd916a834c92a5201a8b64100bea58a1a589c82",
+          "/records/16/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:verb:16:c7c6175a:1",
+      "entryId": "sense",
+      "englishText": "To instinctively be aware.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "0f63a7d78478202f7e9b2aa70d675c9983dda041b06bbd656aa25d774849bdeb",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "本能地意识到",
+        "直觉感到"
+      ],
+      "explanation": "指不经过有意识的推理而本能地察觉到某事。例句中她立刻本能地察觉到对方的轻蔑。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "b2368e0f63e55f47680a4910e9572c4c97f237957d56489bf080329c4ec6871a",
+          "9b0912203fbaec5121d82ed4d5063ab1ef82f66c82acb7a99e5a0e5582496464",
+          "62efee1da41b49088c823eb8b7a9e3116622170ed2f6cca811dba6f0005030e7",
+          "6fae448d77fd09da61ba33d98652da2326a3991bca0e9d422edc71224e417629",
+          "/records/16/senses/1/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    },
+    {
+      "senseId": "sense:verb:16:7a8d2e7f:2",
+      "entryId": "sense",
+      "englishText": "To comprehend.",
+      "partOfSpeech": "verb",
+      "sourceFingerprint": "773bb6f0f4eacef4f9a8b2bdd080f7e818763d1774d951ec6b4991aeb87181ee",
+      "locale": "zh-Hans",
+      "version": 3,
+      "glosses": [
+        "理解",
+        "领会"
+      ],
+      "explanation": "指理解、领会。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "b2368e0f63e55f47680a4910e9572c4c97f237957d56489bf080329c4ec6871a",
+          "b31eb01e3c4180f08a805ee26bc6d89a64ac6ab8f425117a164fb3d2f401db17",
+          "62efee1da41b49088c823eb8b7a9e3116622170ed2f6cca811dba6f0005030e7",
+          "4adc3806abfaac0f58e884acf0773c8308caec6eeb59ea5ace50e46b9bdc06f1",
+          "/records/16/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-closeout78-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      },
+      "reviewStatus": "ai_approved",
+      "translationStatus": "complete"
+    }
+  ]
+}

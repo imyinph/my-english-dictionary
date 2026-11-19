@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "checkedExistingSourceAndPublicFiles": 284,
+  "changed": [
+    "public\\_headers",
+    "src\\App.tsx",
+    "src\\styles.css"
+  ],
+  "mp3FilesChecked": 210,
+  "mp3FilesChanged": 0,
+  "sampleSenses": 12,
+  "sampleExplanations": 12,
+  "independentReview": "pending",
+  "humanReview": "pending",
+  "formalChineseUnchanged": true,
+  "paidApiCalls": 0,
+  "iphoneAcceptance": "not_tested",
+  "deployment": "not_deployed",
+  "validation": {
+    "unitAndScriptPassed": 100,
+    "unitFailures": 0,
+    "fullBrowserRunPassed": 108,
+    "finalSampleRerun": "included_in_full_run",
+    "realMp3Decoded": 210,
+    "nativePlaybackPassed": 6,
+    "intermediateWebkitTimeouts": 3,
+    "finalFullBrowserPassed": 108,
+    "finalBrowserFailures": 0,
+    "finalBrowserSkipped": 0
+  }
+}

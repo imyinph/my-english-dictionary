@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "dictionaryVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "baseRevision": 4,
+  "createdAt": "2026-11-17T10:08:18.377Z",
+  "items": [
+    {
+      "senseId": "creative:adj:2:a1fe1fed:4",
+      "sourceFingerprint": "028c86cf9cf8422bc539290cb4df86b13eb71014c132ddd6d07065eb5f06f246",
+      "expectedVersion": 1,
+      "glosses": [
+        "（委婉）糟糕的",
+        "缺乏艺术性的",
+        "过于繁杂的"
+      ],
+      "explanation": "用于委婉评价艺术作品：质量差、缺乏艺术性，或显得过于繁杂。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "586f610a9edadafd489a2a8bcee9777cb6a47058e96b0ee4c93c18b68a616a6e",
+          "0c13f47e19ef917747df1e1e040b48c05393860f498cb7f40435fd135e2ee7e1",
+          "5e00fa2f4c860a840fa76c40725c13a30182068bbd0e9105c1ec261697537188",
+          "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "319eda67cd6f9cbcbd0e932deedb2580216963f94470c3e3d7d4828e4d5c42a7",
+          "/records/2/senses/4/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/creative#English",
+          "https://en.wiktionary.org/wiki/busy#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:d74d42b2:26",
+      "sourceFingerprint": "35e2718bd5f2649d2c9303452d38c352b1df2871d91bc2cca3b6c2d4e256f673",
+      "expectedVersion": 1,
+      "glosses": [
+        "获得报道",
+        "出现在（媒体中）"
+      ],
+      "explanation": "指获得媒体报道，或出现在报刊等媒体中。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "ad0aadd03c7b22af849bc6704cd3a81ebb17fe99b00a881e5f9dfc0a123565fa",
+          "f42514766054ecf94328b821b880b381912d269d3bebe4df11f30e8a5cc08a81",
+          "d815faf191d9b23e392d50b6f309aa8d02e5ddfd61cf624938f5c4c9b57369f0",
+          "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "feb7352eb8009c6b7eb1d5ec6b5aec5ad2589208953aa2775a350c81f01ef590",
+          "/records/8/senses/26/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:a3d6598f:27",
+      "sourceFingerprint": "c4a4acdadfca8eefde30d084ca987b4997dbc5849359b6f5f2859e7e7c0eb4f2",
+      "expectedVersion": 1,
+      "glosses": [
+        "支付（费用）",
+        "承担（开支）"
+      ],
+      "explanation": "指支付或承担某项费用；主要用于表示无力支付的表达之后。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "ad0aadd03c7b22af849bc6704cd3a81ebb17fe99b00a881e5f9dfc0a123565fa",
+          "f42514766054ecf94328b821b880b381912d269d3bebe4df11f30e8a5cc08a81",
+          "650c6a13dd77c8698af26e1ec1aa9a74e0e3f7b3f0980c3e35c5a7d1c34805da",
+          "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "9ae47e8e3cb033335eb01036df015417424ea755bfa00a93b10b3bbd1d4a8a6a",
+          "/records/8/senses/27/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:d59b6d60:33",
+      "sourceFingerprint": "56fb1b999ea8983ec77556e181026ee02812fd621a9699700c88273feb717140",
+      "expectedVersion": 1,
+      "glosses": [
+        "完成壮举",
+        "做出某种举动"
+      ],
+      "explanation": "指完成或做出某种壮举、举动。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "23ae0bc825d74ff3fbbf8bd726f3e0b56d7ed0578385339b5f066d496045c292",
+          "9d31aa3a12a17056841776ecca8b64f328fdb7fd352bb1235cab291723a2b97c",
+          "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "670cbf34d30a6e58fb026d591ae2032de94e336285545a186a51de1fe75aeccc",
+          "/records/8/senses/33/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:618f46dd:34",
+      "sourceFingerprint": "5fcf6b6287f44f29df2985ea41f172c77a8988f2554ee0c5f6a993c207191505",
+      "expectedVersion": 1,
+      "glosses": [
+        "获得足以维持存在的受众"
+      ],
+      "explanation": "不及物用法，指获得足够的受众，使其有理由继续存在。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "23ae0bc825d74ff3fbbf8bd726f3e0b56d7ed0578385339b5f066d496045c292",
+          "4cea92142b5648e371eb86233516a731779fa4764d487fd739fabc9c7e43259d",
+          "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "228681aa82102c6224ad89d833a74737b43a01474854920d13036fb7aac25f8e",
+          "/records/8/senses/34/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:9835600:35",
+      "sourceFingerprint": "f8affb5f875e3c61ab391c604ee047cb513f75ba5bfbca72cfb1b6eff8241449",
+      "expectedVersion": 1,
+      "glosses": [
+        "行事",
+        "应付",
+        "干预"
+      ],
+      "explanation": "已废弃用法，指以某种方式行事、有事要做、设法应付、干预或活动；常用于 to meddle or make。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "85c0c29efe3fda81759b3bef4a4412a6c78d9ea34b529458d439d02821ea3ad6",
+          "0dd01d4b431a87ea19595a409dd25a680d7112ceab5420a8e333414370f57edf",
+          "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "e89b0e55534dabc0e0bf281ec9caad2b00390bcf42314b5965fe962fff58724d",
+          "/records/8/senses/35/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:3f95c0bc:36",
+      "sourceFingerprint": "d9469a0f56386016c9bcef299e7cefd0272d3b4ace704fca8f2457cd0ab8d435",
+      "expectedVersion": 1,
+      "glosses": [
+        "增加",
+        "增大",
+        "累积"
+      ],
+      "explanation": "已废弃用法，指增加、增大或逐渐累积。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "914700599fb1eefcb5ec34f705e541db9d29c68d5424899841de114b91d84fac",
+          "23ae0bc825d74ff3fbbf8bd726f3e0b56d7ed0578385339b5f066d496045c292",
+          "e193dd5ba48373c5ec47dfbe7527b494c1e672aaa11f985447841582278f3716",
+          "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "cb55f0ed3aaf0bea9c7ef9ae2beddac52cc1b5c0a9a042e592fd6c39fc5331a0",
+          "/records/8/senses/36/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:f7b0e13b:37",
+      "sourceFingerprint": "25dae37964edbfef583c4c331446aa71deb108acd465420e09739a3916cdf3e5",
+      "expectedVersion": 1,
+      "glosses": [
+        "参与",
+        "涉入"
+      ],
+      "explanation": "已废弃用法，指参与某事，或与某事有牵涉。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "85c0c29efe3fda81759b3bef4a4412a6c78d9ea34b529458d439d02821ea3ad6",
+          "b92b88bf7b040cce6f9f9e97cd3d65e93978036dcdb75975ba3041ab4beaf440",
+          "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "edff35f3d3c3a92f5509668fe5ac1ee6c64ef9968d06129eb71339ebafe331d6",
+          "/records/8/senses/37/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:2220f1c7:38",
+      "sourceFingerprint": "85ef4ad7c327d296991e9051e89d59a4971512345889c17bbfd035a2af57d189",
+      "expectedVersion": 1,
+      "glosses": [
+        "使处于（某处）"
+      ],
+      "explanation": "古旧用法，用在作主语的 what 之后，表示使某人或某物处于某处。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "5d9c0fcfb71ee8974a4e940ebef586d1b105ad390cc3600bb0af8a14f69c4fc6",
+          "8ef293aeb4690eef9b2dbc4c0f5cb46510ecf3d55d493fa227d93b4df87e1aa7",
+          "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "a0e2693cb244fe2456af6f16cd43dfd8e05352d17775910ac34cff80d2e7c1dd",
+          "/records/8/senses/38/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:8066bf79:41",
+      "sourceFingerprint": "47bf95c0ae4075b153679fc89ca07d018b3eda6b94cbf0c1f590ec826272742f",
+      "expectedVersion": 1,
+      "glosses": [
+        "（水）向岸涌流",
+        "上涨"
+      ],
+      "explanation": "不及物用法，用于水，指向陆地流动或水位上涨。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "bd6728c8916d2c53793971662ea082ae8bac0b4df82aa012577b50d151d6b5bc",
+          "5d9c0fcfb71ee8974a4e940ebef586d1b105ad390cc3600bb0af8a14f69c4fc6",
+          "5d11edec0aefd9f495e1fb908b44735068509e02ed4fc94ded56844bd130a307",
+          "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "49ed5b4a67ad448aadd06de952cc7b1d0952dcc5adcc81f38d599cd01eef0ff1",
+          "/records/8/senses/41/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:verb:1:7c0ba878:42",
+      "sourceFingerprint": "2170326bb4fedb777ef631ed04738e22a63d60c55ec484bbad8903406a90cf95",
+      "expectedVersion": 1,
+      "glosses": [
+        "占稳（棋盘点位）"
+      ],
+      "explanation": "双陆棋用语，指在同一点位放置至少两枚己方棋子，使该点位不能被对手占取。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "daba6eeda7f17681e9865220d59462d11535e0dd5a13f1e885573a0c6d3634b5",
+          "5d9c0fcfb71ee8974a4e940ebef586d1b105ad390cc3600bb0af8a14f69c4fc6",
+          "d0deeca61453d89c2e8a274d6f8db941e29a62dfd828b40f6e9c34e343fe7fa1",
+          "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "3f5a46d866fbd226d39754c7a9b96daa87430082009e59e74a2075f61f197f00",
+          "/records/8/senses/42/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:noun:1:7673f9f6:9",
+      "sourceFingerprint": "2ce243efe08e2efae95c3fdb6d517f88db8b23fa01444b34196b7891b937f882",
+      "expectedVersion": 1,
+      "glosses": [
+        "自制项目"
+      ],
+      "explanation": "指自己动手制作的项目，尤指在电视上展示制作的那类。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "cf04dcdd038206c3a03cdbea506c67c9bf1377ed92645e6733d6180dfb979aca",
+          "07677df40934d83e045dacc380417c291992f5169fb2ae738af473998a9b88bf",
+          "00c9b8aa8662b543b0d276e24edb6d8d1c976a979e0dfd8196b4a08ec24fa6eb",
+          "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "aed2af2d6f4c49ae5fe74f771c58c7ed4d63efa8a4ffc509074b955968f69c64",
+          "/records/9/senses/9/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:noun:1:83b51cf7:10",
+      "sourceFingerprint": "4a1a087200437365c1d99670d529979a4e9987cf2aa42c3f27c5dcbc99a44927",
+      "expectedVersion": 1,
+      "glosses": [
+        "定将牌或洗牌的轮次"
+      ],
+      "explanation": "牌类用语，指轮到某人宣布一手牌的将牌（桥牌中），或轮到某人洗牌。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "35de378ae26fd32daef0d0bb47d5ba79d58f19d4012ab273c8d86bc101a6f60b",
+          "07677df40934d83e045dacc380417c291992f5169fb2ae738af473998a9b88bf",
+          "5294cf29c3c0b164517c22bb57fea22d5625eba6c324192f67d47dfe9244a41a",
+          "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "432e9548826b342314d43d4a5aef33053c0ef30f5e2640b9ec98b897634fbb9e",
+          "/records/9/senses/10/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make:noun:4:1cd14633:0",
+      "sourceFingerprint": "c072b9363723cc11b3bb581926ef2c55a1a07496a9cae24585c71d4bf09c0225",
+      "expectedVersion": 1,
+      "glosses": [
+        "镰刀状的收割农具"
+      ],
+      "explanation": "英格兰东盎格利亚、埃塞克斯地区的旧称，指类似镰刀、用于收割豌豆、芦苇等植物的农具。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "3c5e94f161377b07025643db100ee2aaf3fa2de11b0e2555433e701d88e600fb",
+          "7e553b4f47324d4b3c1d751e537f46ae4e310c3d7d00d3c677607615ec817614",
+          "a30ea46d57f9e9ea9168e41d1eddc94ec00894ad0d6c0a0edae9b6c3d9fe9a49",
+          "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "f390bc229fe3710e1c19248dcc374801eee7d3e7285912578b26d9d5bf789fcf",
+          "/records/12/senses/0/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "destroy:verb:13:917cfc7a:6",
+      "sourceFingerprint": "fbab0070d680504e1a4761907762ebc6a018b9c7ae6c45220119e4915fc3df1b",
+      "expectedVersion": 1,
+      "glosses": [
+        "使彻底力竭以促其恢复或增强"
+      ],
+      "explanation": "健身俚语，以反语说法指使肌肉等彻底力竭，从而促其恢复或增强；原例谈到肩部锻炼。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "0f2f2af53f0a9cb261bf495d8bf907d82997d799dc060f99cbb9eefded272a55",
+          "bbcd35df714947ae92b424473edcbd840ed5b6f76ab7713e865d429183b0bc59",
+          "0f45138113b272960342ffdb8a6e7c78e159255131cf8d7833bf300a62fa97ed",
+          "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "1ec3157a094823f729b2deae045b86a1edc465a760bc2a0fea85d61840281db9",
+          "/records/13/senses/6/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "destroy:verb:13:452a12a5:8",
+      "sourceFingerprint": "4b76e763f03e1f844ffd0caaad398c960b3bf9202c9f091f1c1b337a6a78d41b",
+      "expectedVersion": 1,
+      "glosses": [
+        "把（歌）唱得极糟"
+      ],
+      "explanation": "美国俚语，及物用法，指把一首歌唱得极其糟糕。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "0f2f2af53f0a9cb261bf495d8bf907d82997d799dc060f99cbb9eefded272a55",
+          "7e553b4f47324d4b3c1d751e537f46ae4e310c3d7d00d3c677607615ec817614",
+          "04435a24a380b94c12b66ff40254e491e7a30d09d0aef87af09210d36147fa87",
+          "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "cf61d3d0a3bca44efd5787f98a0f16fb28de5e14d53f71c26c424013b41e4363",
+          "/records/13/senses/8/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/destroy#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make-sense:verb:14:621d0f9e:2",
+      "sourceFingerprint": "fd42773998dc89868a6e643c0329984195436d8f2b6ca7707ce1b6643ecb8102",
+      "expectedVersion": 1,
+      "glosses": [
+        "合意",
+        "有益",
+        "行得通"
+      ],
+      "explanation": "非正式用法，可表示对某事感兴趣或有意愿，也可表示某事令人满意、有益、能起作用或对某人有利。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "f13f4fd7c07efe28c3eac9ee91a3c5f78163ebe9484f688af8e2687d38013bdb",
+          "bbcd35df714947ae92b424473edcbd840ed5b6f76ab7713e865d429183b0bc59",
+          "173b03f714a850757ede99f7ff0e044121ddf9aed39ef5d1e27aa131f94a7260",
+          "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "7994c63f746a51aa401485cbc8abf2553101afd87b0bf78694d79aa5d98fecaf",
+          "/records/14/senses/2/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make_sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "make-sense:verb:14:ef843e21:3",
+      "sourceFingerprint": "e0813b2aa75f1516e78c9c60c8285f15c90e36ef058d67f3e27c13e5ef6bb1f4",
+      "expectedVersion": 1,
+      "glosses": [
+        "处于普通水平",
+        "并不特别发达"
+      ],
+      "explanation": "健身俚语，指发展程度普通、并不特别发达，通常以否定形式出现；原例的 don’t make sense 因而形容肌肉发达得很突出。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "f13f4fd7c07efe28c3eac9ee91a3c5f78163ebe9484f688af8e2687d38013bdb",
+          "842e6afe6eaf17927671f1a146add877f58f79ffb3d91e001b1fd16aaae0836e",
+          "d41ae9c9abf0526890130ee7699254291b61fb30972c940431f58cc37a3f543e",
+          "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "e12fcb36fd69c5afd8efbfcbe39d4ad17cad0d7f253e5568b1bbc0a39fc87b1e",
+          "/records/14/senses/3/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/make_sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "sense:noun:15:14810876:7",
+      "sourceFingerprint": "799779f56f598c88a34ea751db881f4b871c2b70458025ec7d00a6b8658ee854",
+      "expectedVersion": 1,
+      "glosses": [
+        "指称对象的呈现方式"
+      ],
+      "explanation": "语用学用语，指一个指称对象被呈现的方式。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "23e9002a12875cd0f65f8edb8e78a277e4415d763d1b77a0934dca5c57237565",
+          "842e6afe6eaf17927671f1a146add877f58f79ffb3d91e001b1fd16aaae0836e",
+          "f29abbc0c02df3288f3b868d7bed92781532f362103996464b25bded879438c1",
+          "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "fea9982c593a96932d9d8b253d460ec28bf46d352801aeea8b1b3065860cc0e6",
+          "/records/15/senses/7/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    },
+    {
+      "senseId": "sense:noun:15:e11fbf0f:10",
+      "sourceFingerprint": "e9e2e471f192eebe049b06d7b67290950a6f74e236d5a660ae66102373aae9fc",
+      "expectedVersion": 1,
+      "glosses": [
+        "直接规定产物的核酸链"
+      ],
+      "explanation": "生物化学用语，指核酸中直接规定产物的那条链。",
+      "source": {
+        "type": "ai",
+        "name": "Codex AI 修订（基于 DeepSeek 候选） · DeepSeek 交叉复核",
+        "recordIds": [
+          "23e9002a12875cd0f65f8edb8e78a277e4415d763d1b77a0934dca5c57237565",
+          "8aa9375e3672a0b67170a8c170c32fd00c994be08f7c9e98125e5d1a37f21e64",
+          "71dafbff86674c664b8025404d848f946b36fc67cd8ae26d33ce3d5f2e6ee016",
+          "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "36d66285936dd03441ec748d43b15aded083e3113c5cf6cc20e38d849bd72b03",
+          "/records/15/senses/10/glosses"
+        ],
+        "datasetVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+        "licenseStatus": "cleared",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors). 中文为源义项的 AI 翻译与解释改编：Codex 修订、DeepSeek 独立复核、Codex 根据原始来源裁定分歧；未经用户逐条人工审核。",
+        "urls": [
+          "https://en.wiktionary.org/wiki/sense#English"
+        ],
+        "transformations": [
+          "source-bound-editorial-20261117-v1",
+          "DeepSeek-V4.1-Flash-1017-Event / deepseek-recheck-source-bound-zh-v3",
+          "保留独立复核前文本及最终裁定哈希；不将后续裁定冒充独立模型已审版本",
+          "Codex 具体模型版本未记录；无人工批准；Azure/ECDICT 对照不进入前端"
+        ]
+      }
+    }
+  ]
+}

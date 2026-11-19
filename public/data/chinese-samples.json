@@ -1,0 +1,580 @@
+{
+  "schemaVersion": 1,
+  "batchId": "m33-sample-12-v1",
+  "dictionaryVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "locale": "zh-Hans",
+  "scope": "sample-only",
+  "generator": {
+    "provider": "OpenAI / Codex conversation",
+    "model": "not-exposed",
+    "promptVersion": "m33-sense-context-v1",
+    "generatedOn": "2026-11-14",
+    "datePrecision": "day"
+  },
+  "records": [
+    {
+      "senseId": "create:verb:0:b41d3520:0",
+      "entryId": "create",
+      "englishText": "To bring into existence; (sometimes in particular:)",
+      "sourceFingerprint": "2ac188ff5579701fe564354898469e6d0ec5152ee653407dc8604a265fcdaf9c",
+      "context": {
+        "headword": "create",
+        "partOfSpeech": "verb",
+        "glosses": [
+          "To bring into existence; (sometimes in particular:)"
+        ],
+        "tags": [
+          "transitive"
+        ],
+        "examples": [
+          "You can create the color orange by mixing yellow and red."
+        ],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/0/senses/0/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/create#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/create.jsonl",
+          "extractedFileSha256": "e64c1d429cd5e907e9a1b60a8ae154032144ca59b8e8279fc0d69337c41a82d1",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "创造",
+        "使产生"
+      ],
+      "explanation": "使原先不存在的事物出现。这个总义不限定必须凭空产生，也可以利用已有材料。",
+      "version": 1,
+      "review": {
+        "senseId": "create:verb:0:b41d3520:0",
+        "contentHash": "637ed9ba9a0fe7f42554921536af7b2cfd8c619831fbaf0d698afdf88804b8de",
+        "status": "self_checked",
+        "rationale": "总义保留 bring into existence；原例混合红黄产生橙色，不能限定为凭空创造。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "creative:adj:2:7b1dafdb:0",
+      "entryId": "creative",
+      "englishText": "Tending to create things, or having the ability to create; often, excellently, in a novel fashion, or any or all of these.",
+      "sourceFingerprint": "91c92c88c3cf7ec322ee0539e933f34f99e248cd826f39a63a53500affbd02ab",
+      "context": {
+        "headword": "creative",
+        "partOfSpeech": "adjective",
+        "glosses": [
+          "Tending to create things, or having the ability to create; often, excellently, in a novel fashion, or any or all of these."
+        ],
+        "tags": [],
+        "examples": [
+          "a creative dramatist who avoids cliche"
+        ],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/2/senses/0/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/creative#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creative.jsonl",
+          "extractedFileSha256": "804c5cbff0724d119a53b659359a51431ec7cb4d676f6ac0127a74419307a782",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "有创造力的",
+        "善于创造的"
+      ],
+      "explanation": "形容有创造事物的倾向或能力；这种创造可以表现为经常进行、做得出色或方式新颖，不要求同时具备所有特点。",
+      "version": 1,
+      "review": {
+        "senseId": "creative:adj:2:7b1dafdb:0",
+        "contentHash": "53e0426b6c4450b33e322db4ba0ee8bf3f4409d4ddf25ae8f1d95bff625a5ca4",
+        "status": "self_checked",
+        "rationale": "保留创造倾向/能力及源文多个可选特点，不把出色、新颖和经常创造全部设为必要条件。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "creation:noun:4:f628e272:1",
+      "entryId": "creation",
+      "englishText": "The act of creating something.",
+      "sourceFingerprint": "c632e3276e2da0c0143c2ef225dec8e515bc1da1a466d5b6e754909bd676fb6a",
+      "context": {
+        "headword": "creation",
+        "partOfSpeech": "noun",
+        "glosses": [
+          "The act of creating something."
+        ],
+        "tags": [
+          "uncountable"
+        ],
+        "examples": [
+          "The restructure resulted in the creation of a number of shared services.",
+          "the creation of passwords is done by a computer."
+        ],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/4/senses/1/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/creation#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creation.jsonl",
+          "extractedFileSha256": "c7fafc7ab6d7951cdd4d7e3ec652d90bcf2017790eb7e33fb8c63ca833d2dd11",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "创造",
+        "创设"
+      ],
+      "explanation": "指把某事物创造出来这一行为，重点在创造的过程，而非创造出的作品或成果。",
+      "version": 1,
+      "review": {
+        "senseId": "creation:noun:4:f628e272:1",
+        "contentHash": "28e83e3bc3fdeae2c75552e1290c0a6ffb84573f730be59652530408a8f346b3",
+        "status": "self_checked",
+        "rationale": "名词行为义；原例服务创设、密码创建支持动作过程，不复用已人工审核的成果义“创作品”。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "creator:noun:5:56c12aa1:1",
+      "entryId": "creator",
+      "englishText": "Ellipsis of content creator, someone who regularly produces and publishes content on social media, especially of a monetizable nature.",
+      "sourceFingerprint": "70647fa8074cc131de5e44231e06a5152ddc79a81139cb516028b4e2cc79ccfc",
+      "context": {
+        "headword": "creator",
+        "partOfSpeech": "noun",
+        "glosses": [
+          "Ellipsis of content creator, someone who regularly produces and publishes content on social media, especially of a monetizable nature."
+        ],
+        "tags": [
+          "abbreviation",
+          "alt-of",
+          "ellipsis"
+        ],
+        "examples": [
+          "creator economy"
+        ],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/5/senses/1/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/creator#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creator.jsonl",
+          "extractedFileSha256": "ea51cc2e7ea75da77c3f794ec39466630f298795dfa4e0359bf2b71cf9f94f24",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "内容创作者"
+      ],
+      "explanation": "content creator 的省略说法，指经常在社交媒体上制作并发布内容的人，尤其是内容能够带来收入的创作者。",
+      "version": 1,
+      "review": {
+        "senseId": "creator:noun:5:56c12aa1:1",
+        "contentHash": "0b00dfe10b2a9cb5e0b25d729b0fd83d327e96bcb58948d4e299832fa9bef7b0",
+        "status": "self_checked",
+        "rationale": "保留社交媒体、经常发布和尤其可变现限定；不混入另一个 deity 义项。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "creatively:adv:6:f8aa136f:0",
+      "entryId": "creatively",
+      "englishText": "In a creative manner.",
+      "sourceFingerprint": "4879abe78e207128a3c1e982f3b23d8f46755b9f3d6b348af6e6ea021f1deb31",
+      "context": {
+        "headword": "creatively",
+        "partOfSpeech": "adverb",
+        "glosses": [
+          "In a creative manner."
+        ],
+        "tags": [],
+        "examples": [],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/6/senses/0/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/creatively#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creatively.jsonl",
+          "extractedFileSha256": "34fa50b48c81e14accc870f78dd25c247cc4658bc54b187161dafcc94280dd65",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "有创造性地",
+        "富有创意地"
+      ],
+      "explanation": "说明做事的方式具有创造性，而不是直接指一个人所拥有的创造能力。",
+      "version": 1,
+      "review": {
+        "senseId": "creatively:adv:6:f8aa136f:0",
+        "contentHash": "a341d531d6dec22fa34fda5c1708924db6c48ec35952f19b7ffbdf372e45209d",
+        "status": "self_checked",
+        "rationale": "副词方式义，与 creativity 的能力名词区分；无源例句，未编造例句。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "creativity:noun:7:e7f52eed:0",
+      "entryId": "creativity",
+      "englishText": "The ability to use imagination to produce a novel idea or product.",
+      "sourceFingerprint": "48fbf4a5174cb8bfb2fd94c8662ec6af66e0b225aa747268cc5990ba9f902fa0",
+      "context": {
+        "headword": "creativity",
+        "partOfSpeech": "noun",
+        "glosses": [
+          "The ability to use imagination to produce a novel idea or product."
+        ],
+        "tags": [
+          "countable",
+          "uncountable"
+        ],
+        "examples": [],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/7/senses/0/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creativity.jsonl",
+          "extractedFileSha256": "c9e53c19ccde53789f5f8198689314b5b3f38f040ae8336f323d8ac28d82897c",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "创造力"
+      ],
+      "explanation": "指运用想象力，产生新颖想法或产品的能力。",
+      "version": 1,
+      "review": {
+        "senseId": "creativity:noun:7:e7f52eed:0",
+        "contentHash": "1ae1b0b2bd76027b0efe56357483242d8fc01d4a3907a63084846ef44507f20c",
+        "status": "self_checked",
+        "rationale": "保留想象力、新颖想法或产品、能力三个要素；没有添加成功或艺术领域限制。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "make:verb:1:cb285157:12",
+      "entryId": "make",
+      "englishText": "To cause to appear to be; to represent as.",
+      "sourceFingerprint": "3bebc90948c6d4440e14efff9e8cb4140d1583639c5dc105d4bdcd6d28d3a41b",
+      "context": {
+        "headword": "make",
+        "partOfSpeech": "verb",
+        "glosses": [
+          "To cause to appear to be; to represent as."
+        ],
+        "tags": [],
+        "examples": [
+          "Homer makes Aphrodite the daughter of Zeus, unlike Hesiod who depicted her as born from the sea foam."
+        ],
+        "sourceSenseIds": [],
+        "etymologyNumber": "1"
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/8/senses/12/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/m/ma/make.jsonl",
+          "extractedFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "使显得",
+        "描绘为"
+      ],
+      "explanation": "使某人或某事看起来具有某种身份或性质，或在叙述中将其描绘成某种样子。重点是呈现或描写，不一定是使其实际变成那样。",
+      "version": 1,
+      "review": {
+        "senseId": "make:verb:1:cb285157:12",
+        "contentHash": "87dc1656f8a941d259a44300acd4c9617480c518e7869525e74eb3b35d51ad78",
+        "status": "self_checked",
+        "rationale": "appear/represent 是呈现义；Homer 例句支持“描绘为”，避免混同 cause to be 的实际致使义。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "make:noun:1:39483fde:6",
+      "entryId": "make",
+      "englishText": "A software utility for automatically building large applications, or an implementation of this utility.",
+      "sourceFingerprint": "bebbeec59ef824edf67b064afefac260a63ee1d988c50cf6677662ee93314131",
+      "context": {
+        "headword": "make",
+        "partOfSpeech": "noun",
+        "glosses": [
+          "A software utility for automatically building large applications, or an implementation of this utility."
+        ],
+        "tags": [],
+        "examples": [],
+        "sourceSenseIds": [
+          "en:type of software utility"
+        ],
+        "etymologyNumber": "1"
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/9/senses/6/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/m/ma/make.jsonl",
+          "extractedFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "make 构建工具"
+      ],
+      "explanation": "指用于自动构建大型应用程序的软件工具，或该工具的一种实现。这里是工具名称，不是动词“制作”。",
+      "version": 1,
+      "review": {
+        "senseId": "make:noun:1:39483fde:6",
+        "contentHash": "57775fc4034247dbfb96ba11b2647f39b861ef92b2819b8d7511530d80d2bed8",
+        "status": "self_checked",
+        "rationale": "名词软件工具及其实现；保留自动构建应用程序，不扩展为编程语言或具体实现品牌。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "make:verb:1:fdd5aa4:28",
+      "entryId": "make",
+      "englishText": "To compose verses; to write poetry; to versify.",
+      "sourceFingerprint": "1a63833da4cd3e4b12d0ba11a86dffdc545190908953729842dbe8457fb9450a",
+      "context": {
+        "headword": "make",
+        "partOfSpeech": "verb",
+        "glosses": [
+          "To compose verses; to write poetry; to versify."
+        ],
+        "tags": [
+          "intransitive",
+          "obsolete"
+        ],
+        "examples": [],
+        "sourceSenseIds": [],
+        "etymologyNumber": "1"
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/8/senses/28/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/m/ma/make.jsonl",
+          "extractedFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "作诗",
+        "写诗"
+      ],
+      "explanation": "指创作诗句或诗歌。源词典将这一不及物用法标为已废弃（obsolete），不宜当作现代常用表达。",
+      "version": 1,
+      "review": {
+        "senseId": "make:verb:1:fdd5aa4:28",
+        "contentHash": "af244c52634bf46a058e4ffc5a757e9ef443fbd7579c07439e4e667fdd293e4b",
+        "status": "self_checked",
+        "rationale": "只覆盖写诗，并保留源标签 obsolete/intransitive；不误示为现代常见用法。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "destroy:verb:13:e4aa6981:2",
+      "entryId": "destroy",
+      "englishText": "To put down or euthanize.",
+      "sourceFingerprint": "0b7b2c7f66f6c8d77da52ae762b13e5d14e50e3df10d1790842f27724ec1d439",
+      "context": {
+        "headword": "destroy",
+        "partOfSpeech": "verb",
+        "glosses": [
+          "To put down or euthanize."
+        ],
+        "tags": [
+          "transitive"
+        ],
+        "examples": [
+          "Destroying a rabid dog is required by law."
+        ],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/13/senses/2/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/destroy#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/d/de/destroy.jsonl",
+          "extractedFileSha256": "8bb2cc2774a3be442c432e92aff57e0dfbffcef2cbe3e9864f1e770fcd965a39",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "处死（动物）",
+        "对（动物）实施安乐死"
+      ],
+      "explanation": "这里指结束动物的生命；原例句中的对象是患狂犬病的狗。并非泛指损坏物品，也不表示所有这种处置都采用同一种方式。",
+      "version": 1,
+      "review": {
+        "senseId": "destroy:verb:13:e4aa6981:2",
+        "contentHash": "2c60f83f7e5dcdefbb8eccd1b65bc3e4010d96bb94a00723e6c48636df64e01a",
+        "status": "self_checked",
+        "rationale": "put down/euthanize 与狗的原例一致；不混入物品毁坏义，也未指定处置方法。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "make-sense:verb:14:4763a134:0",
+      "entryId": "make-sense",
+      "englishText": "To be sensible, coherent, reasonable.",
+      "sourceFingerprint": "0c45b3d1b44a694052e34cd933f2b8b80492bd4a7b5e93166e25af0297df1707",
+      "context": {
+        "headword": "make sense",
+        "partOfSpeech": "verb",
+        "glosses": [
+          "To be sensible, coherent, reasonable."
+        ],
+        "tags": [
+          "idiomatic",
+          "intransitive"
+        ],
+        "examples": [
+          "Somehow the combination didn’t make sense, but Cranston took it at face value, whatever that was worth.",
+          "The thing doesn’t make sense to me."
+        ],
+        "sourceSenseIds": [],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/14/senses/0/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/m/ma/make%20sense.jsonl",
+          "extractedFileSha256": "3d57e71f34dc4053611043c121a1b7e8038bbec54cdc0af9431dca91e1062019",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "讲得通",
+        "合乎情理"
+      ],
+      "explanation": "指话语、事情或安排有条理、合理，能够让人理解。这里描述事物本身是否合理，而非某人主动去理解它。",
+      "version": 1,
+      "review": {
+        "senseId": "make-sense:verb:14:4763a134:0",
+        "contentHash": "3a8df37dde75676d3df233aed08223a062aa48e9fe4f18e194725c7cae91f455",
+        "status": "self_checked",
+        "rationale": "不及物合理/连贯义；不与另一个主动 decipher/understand 义项合并。",
+        "reviewedOn": "2026-11-14"
+      }
+    },
+    {
+      "senseId": "sense:noun:15:415ec60f:4",
+      "entryId": "sense",
+      "englishText": "A meaning of a term (word or expression), among its various meanings.",
+      "sourceFingerprint": "3553c359c06f3ce30978c27bf42489904a9838eefabff1daf01d1ac7a4e3362e",
+      "context": {
+        "headword": "sense",
+        "partOfSpeech": "noun",
+        "glosses": [
+          "The meaning, reason, or value of something.",
+          "A meaning of a term (word or expression), among its various meanings."
+        ],
+        "tags": [
+          "countable",
+          "uncountable"
+        ],
+        "examples": [
+          "the various senses of the word “car” (e.g., motor car, elevator car, railcar)"
+        ],
+        "sourceSenseIds": [
+          "en:any particular meaning of a word",
+          "en:meaning or reason, generally"
+        ],
+        "etymologyNumber": null
+      },
+      "sourceRefs": [
+        {
+          "snapshotPath": "data/kaikki-subset.json",
+          "snapshotSha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+          "jsonPointer": "/records/15/senses/4/glosses",
+          "referenceUrl": "https://en.wiktionary.org/wiki/sense#English",
+          "extractionUrl": "https://kaikki.org/dictionary/English/meaning/s/se/sense.jsonl",
+          "extractedFileSha256": "518937b61d63a10ff461d915d857d2634e696d1f3d0b9cdcf9b2a081154a3444",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors)."
+        }
+      ],
+      "glosses": [
+        "义项",
+        "某一含义"
+      ],
+      "explanation": "指一个词或表达的多种意思中的某一种，强调具体是哪一个含义，而不是笼统地说它有意义。",
+      "version": 1,
+      "review": {
+        "senseId": "sense:noun:15:415ec60f:4",
+        "contentHash": "438054a8dc337e245631a3e5f194a00e0b54eb50182a9d0efc15822f99a532fb",
+        "status": "self_checked",
+        "rationale": "聚焦词或表达的某一含义，源 car 多义例支持；没有将父级泛义或感官义混入。",
+        "reviewedOn": "2026-11-14"
+      }
+    }
+  ],
+  "reviewer": {
+    "kind": "same-agent-second-pass",
+    "independentReview": "pending",
+    "humanReview": "approved"
+  }
+}

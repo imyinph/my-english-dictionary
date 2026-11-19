@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "dictionarySha256": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "audioManifestSha256": "06181af8d2a217abcd3acbfb67c65c79d9662469f6c90a2ab4414fc95909f90e",
+  "initialMigrationAt": "2026-11-14T00:00:00.000Z",
+  "timestampPrecision": "day",
+  "entries": 10,
+  "senses": 113,
+  "examples": 95
+}

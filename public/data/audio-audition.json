@@ -1,0 +1,3399 @@
+{
+  "schemaVersion": 1,
+  "stage": "audition-only",
+  "recipeVersion": "audition-v1",
+  "samples": [
+    {
+      "id": "create",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "note": "单词清晰度、音节与重音",
+      "source": {
+        "id": "wiktionary:create",
+        "title": "English Wiktionary · Kaikki / Wiktextract",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "referenceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "historyUrl": "https://en.wiktionary.org/w/index.php?title=create&action=history",
+        "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/create.jsonl",
+        "retrievedAt": "2026-11-10T12:30:09.473530+00:00",
+        "modifications": "仅截取本阶段词条；字段映射；移除外部引文；按原义项组织。未生成或改写释义、例句、翻译。",
+        "isTestData": false
+      }
+    },
+    {
+      "id": "creative",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "note": "单词清晰度、音节与重音",
+      "source": {
+        "id": "wiktionary:creative",
+        "title": "English Wiktionary · Kaikki / Wiktextract",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "referenceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "historyUrl": "https://en.wiktionary.org/w/index.php?title=creative&action=history",
+        "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creative.jsonl",
+        "retrievedAt": "2026-11-10T12:30:10.667048+00:00",
+        "modifications": "仅截取本阶段词条；字段映射；移除外部引文；按原义项组织。未生成或改写释义、例句、翻译。",
+        "isTestData": false
+      }
+    },
+    {
+      "id": "creativity",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "note": "单词清晰度、音节与重音",
+      "source": {
+        "id": "wiktionary:creativity",
+        "title": "English Wiktionary · Kaikki / Wiktextract",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "referenceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "historyUrl": "https://en.wiktionary.org/w/index.php?title=creativity&action=history",
+        "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creativity.jsonl",
+        "retrievedAt": "2026-11-10T12:30:15.355599+00:00",
+        "modifications": "仅截取本阶段词条；字段映射；移除外部引文；按原义项组织。未生成或改写释义、例句、翻译。",
+        "isTestData": false
+      }
+    },
+    {
+      "id": "make-sense",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "note": "短语连读与尾辅音",
+      "source": {
+        "id": "wiktionary:make sense",
+        "title": "English Wiktionary · Kaikki / Wiktextract",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "referenceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "historyUrl": "https://en.wiktionary.org/w/index.php?title=make_sense&action=history",
+        "extractionUrl": "https://kaikki.org/dictionary/English/meaning/m/ma/make%20sense.jsonl",
+        "retrievedAt": "2026-11-10T12:30:19.336115+00:00",
+        "modifications": "仅截取本阶段词条；字段映射；移除外部引文；按原义项组织。未生成或改写释义、例句、翻译。",
+        "isTestData": false
+      }
+    },
+    {
+      "id": "creation:noun:4:2cad546e:0:example:9e601935",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "note": "常规例句、缩写与句尾语调",
+      "source": {
+        "id": "wiktionary:creation",
+        "title": "English Wiktionary · Kaikki / Wiktextract",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "referenceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "historyUrl": "https://en.wiktionary.org/w/index.php?title=creation&action=history",
+        "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/creation.jsonl",
+        "retrievedAt": "2026-11-10T12:30:11.967714+00:00",
+        "modifications": "仅截取本阶段词条；字段映射；移除外部引文；按原义项组织。未生成或改写释义、例句、翻译。",
+        "isTestData": false
+      }
+    },
+    {
+      "id": "create:verb:0:69902ac:4:example:b56c6a5c",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "note": "长句、分号停顿、专有名词；不改写来源原文",
+      "source": {
+        "id": "wiktionary:create",
+        "title": "English Wiktionary · Kaikki / Wiktextract",
+        "license": "CC BY-SA 4.0",
+        "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "referenceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "historyUrl": "https://en.wiktionary.org/w/index.php?title=create&action=history",
+        "extractionUrl": "https://kaikki.org/dictionary/English/meaning/c/cr/create.jsonl",
+        "retrievedAt": "2026-11-10T12:30:09.473530+00:00",
+        "modifications": "仅截取本阶段词条；字段映射；移除外部引文；按原义项组织。未生成或改写释义、例句、翻译。",
+        "isTestData": false
+      }
+    },
+    {
+      "id": "diagnostic:record-noun-context",
+      "text": "This is a record of our work.",
+      "note": "上下文自动判断：record 名词，第一音节重读",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "source": {
+        "title": "项目自编试听诊断；非词典词条",
+        "attribution": "本项目自编评测文本",
+        "license": "Project-authored evaluation text",
+        "isTestData": true
+      }
+    },
+    {
+      "id": "diagnostic:record-verb-context",
+      "text": "Please record the next sentence.",
+      "note": "上下文自动判断：record 动词，第二音节重读",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "source": {
+        "title": "项目自编试听诊断；非词典词条",
+        "attribution": "本项目自编评测文本",
+        "license": "Project-authored evaluation text",
+        "isTestData": true
+      }
+    },
+    {
+      "id": "diagnostic:record-noun",
+      "text": "record",
+      "ipa": {
+        "en-US": "ˈrɛkɚd",
+        "en-GB": "ˈrɛkɔːd"
+      },
+      "note": "强制音素诊断：record 名词，第一音节重读",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "source": {
+        "title": "项目自编试听诊断；非词典词条",
+        "attribution": "本项目自编评测文本",
+        "license": "Project-authored evaluation text",
+        "isTestData": true
+      }
+    },
+    {
+      "id": "diagnostic:record-verb",
+      "text": "record",
+      "ipa": {
+        "en-US": "rɪˈkɔrd",
+        "en-GB": "rɪˈkɔːd"
+      },
+      "note": "强制音素诊断：record 动词，第二音节重读",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "source": {
+        "title": "项目自编试听诊断；非词典词条",
+        "attribution": "本项目自编评测文本",
+        "license": "Project-authored evaluation text",
+        "isTestData": true
+      }
+    },
+    {
+      "id": "diagnostic:read-present",
+      "text": "read",
+      "ipa": {
+        "en-US": "riːd",
+        "en-GB": "riːd"
+      },
+      "note": "强制音素诊断：read 原形 /riːd/",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "source": {
+        "title": "项目自编试听诊断；非词典词条",
+        "attribution": "本项目自编评测文本",
+        "license": "Project-authored evaluation text",
+        "isTestData": true
+      }
+    },
+    {
+      "id": "diagnostic:read-past",
+      "text": "read",
+      "ipa": {
+        "en-US": "rɛd",
+        "en-GB": "rɛd"
+      },
+      "note": "强制音素诊断：read 过去式 /rɛd/",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "source": {
+        "title": "项目自编试听诊断；非词典词条",
+        "attribution": "本项目自编评测文本",
+        "license": "Project-authored evaluation text",
+        "isTestData": true
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural"
+    },
+    {
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural"
+    },
+    {
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD"
+    },
+    {
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD"
+    },
+    {
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural"
+    },
+    {
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural"
+    },
+    {
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD"
+    },
+    {
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD"
+    }
+  ],
+  "resources": [
+    {
+      "id": "9d2f9acb336bb2b3e5b8dcf230dd152343d5676d2898ce7820b01854e00f5954",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "746316a4d8be2af29411dec4d1e1693904b6f922ad6b506af215bf8d2c77a4da",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "4afccd0e90e4fef06f96c6801a9c98fa16a0e3ee84f93de4f8e570b2d1e3492b",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "13b925fe1925be8ac24c3c722ae93e8dc69bce9e4255b8253b303fd077868ae9",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fd2b05fcdc2cf024dec7a2902eb0e03b03f4bf53ea1cfbdf991b300fcb2d4c31",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c375a06be69ac38d952c33faf8b2054f34616428ab1d37fe8e42a29f33d9ca2f",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "22c472b1083c62af20173cfd49f84f3b20858c4a61d79acdd529a151e5d9c4f2",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bbc16cd235747362504f9a96bfb6ec3071acc88e250f8f0d17e0f3ce6ed729f6",
+      "target": {
+        "contentId": "create",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "create",
+      "textSha256": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "710b0f5920f1c97635adb6307cdc34da349ff7bd5681d6cade1605a17132c1be",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "5bad8eebcbc51d4dcb9b57f4beb692933868b4888a7fad63739f263607b9f93b",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "2f2c0b64b18b5bd811f6bc48acaee8347f9bc5bb122fbc9cbdeb1f947ebff383",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "caf4013c8930c302496e85b7dbcdca3c8314a77930a7ad0b7e504b42a9c247a0",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "aeaf5e4164a102bcb6fd25fbfc3c68461820ae035c9167170fcc96b76fad3423",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "2a065be298543670ec68a8570399f4f520e2e51786590d42bc87704fbef54b28",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "048392178e98b06df68d672e7202ade9760f5683fb14a7091571e9859b5cb6e0",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "ee6ea7a887637497389c5c6ac1124e013521ae88e525b2797b04d3062782cb46",
+      "target": {
+        "contentId": "creative",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creative",
+      "textSha256": "828febb7609afd5e728ec843df2d11f0b8cd2167d4af2af02eb354f8503850c2",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "23c6caaada1d53824c1252ed4bf357ec9a50d33604aaec6cb708fd1360643c8a",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "79002af2fa2c0aba5da64e48dfc14daaae1970a915f4a88f673eb673fe6d6d07",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "345ede533811450679e33fb38b29916d19fb0f330ddd3c03adc9cfd8760e42e5",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "12f461fe2a93e8506c029bf4cfba454363cb33c4c12a708df949e5e84c1dd430",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bfc8d9d0c1d598c864985ce152a2f627e99472d149be0859cc4c2fa3cc442336",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "da5c6d2ba23122f87383e671780a30ba2d7f498dca5377f8ebef5f59d2ce289b",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "494f69774e4083a5745563180333cacd3c8a90073f48fb1994b5833b19e50932",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "8a87767936c42299a6bbf69ee9acfe8e5ca5676e482369ab644c11f8e30f9f9d",
+      "target": {
+        "contentId": "creativity",
+        "kind": "word",
+        "pronunciationId": "entry-default"
+      },
+      "text": "creativity",
+      "textSha256": "5a59225b5aa6af6cc5505c4f0e4d67746f9ef0ad0fb3079c0a3098878d4b77f5",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creativity#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "f0ad715be850f42fb5b8202a642479dd9b5ec40328bc10483b1c08ba50b74ac2",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "0b410d0d48ab380ce0cd9cd70c7147c48f27fb2d56b2b8faa223de79c93c827a",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "04eef772f1d6bfa5759edf88d5bb952644ec892e1438e5f3007a79e44aee884c",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "b85f4ad5e84d078c8c166990a579367e1469038b5ca71556811fe0e2e4925361",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "8aa4dbd558e9d2bc2381e9145374a632524a1065e27282e97fd11d679819db7e",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "6e2d31d70f6bad334583633fc08fe371d7f888dc8aebac92f2458e40fe738204",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c3bf774999cfda69278280e21e4064ca4809f04120d8d8d8e3f01d331f4d9386",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "0d6ac436d88456b22c49593812294480bac724792fabd33309cf9d32f60be956",
+      "target": {
+        "contentId": "make-sense",
+        "kind": "phrase",
+        "pronunciationId": "entry-default"
+      },
+      "text": "make sense",
+      "textSha256": "de59a05ed6a88bebdf5662dd5af67558a0d1dcaf5897c4a016683cb7b4f1e07e",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "a75eceba99ad027e1c5860655a550521cdd5955fee08025cf3dddf2187070488",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "2bd4130be093d6a09f45d8ebcbbfc640eab2c976f786edcb3391a0e48c83bcf0",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "3d5f3558572a7c4de9980a07d4ec81fb0c0b57141a60cfd1a3847b9b70e7ecaf",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "82acb6473c0e813abef917e7cd1a9d085c18be43ae1249f21b986dbc4da31d10",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "34a45132c99bb2f4c94c4971f7a0af6e0983e48c2b5211a5348043630243caf5",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "72680cc35fd11aad1ec2a10364743e07990e7513df865b46836d5c2c38265a78",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "7dbb082eabfb691e8248057293dc9c83226a401fd531a7e727b78ca654204a71",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "091d9986888f79b739de97f44469a73684c6886a390f6e2730da1bc2fa776595",
+      "target": {
+        "contentId": "creation:noun:4:2cad546e:0:example:9e601935",
+        "kind": "example",
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!",
+      "textSha256": "ce2305cf8c27cebe3dd7142e96f09a220c4c8221294d38d8338a5a2233255302",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/creation#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c049e9950ac01f706a5cea60d7ee1624deec41afc5a4a267c8bec46835f6375c",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "e1b4f1f174743dd2f261b1a7b5efb81a3cc0e2cf25adc79545da7d0c5695c2ee",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "5cb2b42543eb8f3eb9a57a04fe24b2b860074b02fbbab4e0757044b9423d9a22",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "4ba38c78357797460e6088441d6dadf7456b1af0d96bb87cacb542f407e0d80f",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "7a22616fb741a5c820daf081a3fc5936c4f4ea75f40a6a6269235dcf7b5cd6fa",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "d1b0fd394f75229b1714b18c93ab348ae1062a4f45cf087c29828dd42573264e",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c10f76f5cc44c4afd246b07014269eff41bbdc7a7e65c60d7bf8f9320ca9780c",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "1caf3e5c3181d951724069bd416ab0c29298ee6a0848c102644804cd041b3903",
+      "target": {
+        "contentId": "create:verb:0:69902ac:4:example:b56c6a5c",
+        "kind": "example",
+        "senseId": "create:verb:0:69902ac:4",
+        "pronunciationId": "sentence-default"
+      },
+      "text": "Under the concordate with Belgium, at least one Belgian clergyman must be created cardinal; by tradition, every archbishop of Mechelen is thus created a cardinal.",
+      "textSha256": "d488ddd65f7057252f4419b81cf23baa115bb7d4d5d4cfeb994af1742f9faf13",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+        "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+        "textLicense": "CC BY-SA 4.0",
+        "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "d2f7bca540bc8b706ae03e752bbea8aa6754cf890d9c0ffb96f89442f24bb4d4",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "ee29c34cf39c81daad70f6422d483c39064b41fcbf6e419f4c3d4e67fe9b93a0",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "2126e00133820c67be3c7048704be94090e13a610e31619aa9fd559ff7452ef8",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "e8784c494b5e28de4237dde6bf9530dad8ea32f8e8844590340876b7c0f10ab7",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "e5eb2d3036fdc7b5c8b9d711344786c4df0abee752fbc7cdeba55d151c051ac6",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c78c4f9f4bdb0252a4f674fa1be0e4131e9d1ed7311cb23ebd8175be490a95f1",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "6f951f442f0129bc96c6d6a88744678c2fd6a96adc5f4d502c45a8df7418b606",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "1257171df7cdcded117c2526b32f2caedb16966d6ce5536a1078052f67ef6b4f",
+      "target": {
+        "contentId": "diagnostic:record-noun-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun-context"
+      },
+      "text": "This is a record of our work.",
+      "textSha256": "7279d63b2804fde44ee954431798ce35be1875b87181205876eece181593fb28",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bea3a48f30c454aafca80d38b6e0c8b518493e7e8c76e826d6e6f70eabf576c4",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "4881b8314ea7a9b78dbceff851acd2fd5c3058078951be127dbc793f172a4fdb",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bbf178fe9ff0210ce2e15f40a455eb0b746ea709baab77e9e3e1fed914c7b7c6",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c3279923b324da8b6a515a83897ff5275b5173a8e0d4308cc9694b9ff969ff57",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "4b0ee5f43fe7d5cad185d1a255126253b762041d1866ae0ffa531a65b3a5feed",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "624f842a0680abf446deb3c42a455b12e51b8d0388481c5723c82a73791d62c1",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "7161715edfa238470b87eef64eda99b6b64bc3620529d2aa53590a8d05302f4b",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "75786c2b3fbd90f55771e03b0ea91a75acb1cb732d03d280d104118890fe4815",
+      "target": {
+        "contentId": "diagnostic:record-verb-context",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb-context"
+      },
+      "text": "Please record the next sentence.",
+      "textSha256": "23229116292a40edb05ea73139943d204493773344fb66d607b6245ec8073dbb",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "7e12aac7400c89ec2c82e2fe673b958a036af7c47fce0c733e72c774c1a56ab9",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "2fd3fe6c21d285d776957ec189b651584129aa41264070f57a2bbca58cc3231d",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "d33c25f91e6338122f99e4b122311dea4c12cee9d5d0a615a2676baa0a7e8ae9",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "74f30b85bc414f8b15c1d94a68500440c2ddec7891fb233c336d9086eb1aad2d",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c23e0caf03e81e791abb440f2002f8461cb278f75de79af6ae276482bd5946c9",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c30e9608e74dadf4906fa5ec16989334e8668201cb621a27070018d619da175e",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "f6ad926b779db4cf20ed8d9b6845a9d2f576c26bfeea583cd6f15f8eb7145e3a",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "ed82fb04298dc3f535c9edc1a7af31c6d0634a05cd753eebbbbb562d6ba683d8",
+      "target": {
+        "contentId": "diagnostic:record-noun",
+        "kind": "diagnostic",
+        "pronunciationId": "record-noun"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "8c5791772a56e53ea805475691b9d8acdd10d0df5b5b822bc49b7012d581f9a1",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "42b14bd524d2955d239962486f4cd5e23ee2a1dde26dff4f2c72a7ab87207ee7",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "3b9eaaa84fe737a21677a1edb83a5f2e0c4a37e42f35209bf5322adccd064d07",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "a2c3bb3904e4d6e4e3cf2b6ade9033642acc0060904a15552caadae1247e8983",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "8c6ab66a57e65f0b0deeee9f2feda32119f53096452b324dc9e44d3fe6c469ba",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fcf0ea9cf69382a9968109bb1cd884529069fb86e8a33406c07c944f8a18c95a",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fd509945223a77ba36a35cc7b8e4e70c176d8073d6d57396bd49c83e1495512c",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "dc8d5cf9921a4416b13d432631fbd103fb3dde359124cb2072c58da72c38b8a9",
+      "target": {
+        "contentId": "diagnostic:record-verb",
+        "kind": "diagnostic",
+        "pronunciationId": "record-verb"
+      },
+      "text": "record",
+      "textSha256": "70ce871f8a3d3fb449bc3c3ace6547cef02dfc74ffe48d912532a724bfdbe5b9",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bba1f1554a77851c280e0ccf3fbfe742e0b734f7b7e011ae7989890b5252ed2b",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "39d9bcedefed5374f8039e51c029348ec32da926b0cfd4ad88b1bead1455240b",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "f88ab0dcc39ed1da08631092fb464178c0c06c06f516aa9ec975142e3957ec65",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "343332be76e82639069b3e49f1f0420a5da47d5f74a7b5813990645b03fbcfd0",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "2cb3873f6264d065da495929d56f924b7d38dabae331971ac08ed8f9490f470e",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "8c99caab2043e699c498a01fbfdf0e2f273b65e3d9d4b36de20c233ec905f946",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "6d6290b1fe0a09d28aa0ef280fa7778fba8ecdd355e46e1de2f3f3f54eefeaec",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "06c50c6f6fb766d5a23db3e263d90bde7c5aa4295558c8962932a8d79523fcc4",
+      "target": {
+        "contentId": "diagnostic:read-present",
+        "kind": "diagnostic",
+        "pronunciationId": "read-present"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "60745f61d966331ee5952f28cae294ed791735df4cab03ddeb455f06d0b13e7b",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-JennyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-JennyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "71cd32db64df489356597126c00cb282789de546aac06a771b1e25c1168ff9f4",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-US",
+      "voice": "en-US-GuyNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-US-GuyNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "619d240a22045f9a759de1afa044a956c36a613f91df303048c83f7ee2a5181a",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "535dde6592048454a67ac995a0606d7b1b2386f4f09265b62b8082d30afb48c0",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-US",
+      "voice": "en-US-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-US-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "07d5fc7d00d642602547e0f1611025bb81b8f74113bdfda83557a7458741708d",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-SoniaNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "4707a128c3755149c249be98963126abe1ae2843fd0e1436950ebee608beb483",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "azure",
+      "locale": "en-GB",
+      "voice": "en-GB-RyanNeural",
+      "model": "Neural",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Azure paid-tier TTS output terms",
+        "url": "https://www.microsoft.com/licensing/terms/product/MicrosoftAzure/all",
+        "attribution": "AI 合成语音 · azure en-GB-RyanNeural；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "7953bdee0db9458bc2cf50f8c4cd4529c2aead437b7d486faefa56299dcc85e9",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Aoede",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Aoede；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "c83c618445a60ab528f32aa4ac80b6f21d52b6053e78ba1a02001a7456b47f6f",
+      "target": {
+        "contentId": "diagnostic:read-past",
+        "kind": "diagnostic",
+        "pronunciationId": "read-past"
+      },
+      "text": "read",
+      "textSha256": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925",
+      "provider": "google",
+      "locale": "en-GB",
+      "voice": "en-GB-Chirp3-HD-Charon",
+      "model": "Chirp3-HD",
+      "source": "neural",
+      "voiceVersion": null,
+      "recipeVersion": "audition-v1",
+      "license": {
+        "name": "Google Cloud TTS output terms",
+        "url": "https://cloud.google.com/terms/",
+        "attribution": "AI 合成语音 · google en-GB-Chirp3-HD-Charon；文本：本项目自编评测文本",
+        "textLicense": "Project-authored evaluation text",
+        "termsCheckedAt": "2026-11-11"
+      },
+      "generation": {
+        "status": "planned",
+        "attempts": 0
+      },
+      "review": {
+        "status": "pending"
+      }
+    }
+  ]
+}

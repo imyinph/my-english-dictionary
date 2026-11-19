@@ -1,0 +1,116 @@
+{
+  "revision": 1,
+  "dictionaryVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "records": [
+    {
+      "entryId": "create",
+      "senseId": "create:verb:0:b41d3520:0",
+      "exampleId": "create:verb:0:b41d3520:0:example:23b3271d",
+      "englishText": "You can create the color orange by mixing yellow and red.",
+      "sourceFingerprint": "bae68a8e8d801952d4572c0407364dbfe1f8585748d9cb01a6c574e5d10dc7d3",
+      "translation": "把黄色和红色混在一起，就能调出橙色。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/create#English",
+      "status": "ai_approved",
+      "reviewId": "4b852988db7dd207-20261118114242064"
+    },
+    {
+      "entryId": "creative",
+      "senseId": "creative:noun:3:93002252:1",
+      "exampleId": "creative:noun:3:93002252:1:example:27267870",
+      "englishText": "The design team has completed the creative for next month's multi-part ad campaign.",
+      "sourceFingerprint": "cbb8f5499b229280adbfb8af51b6401bf60412a9c000e90c8e7936fa5fc31486",
+      "translation": "下个月的广告活动分好几个部分，所需的创意素材设计团队都已准备好了。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+      "status": "ai_approved",
+      "reviewId": "538b4d7095bb576f-20261118114347480"
+    },
+    {
+      "entryId": "destroy",
+      "senseId": "destroy:verb:13:717e425b:0",
+      "exampleId": "destroy:verb:13:717e425b:0:example:2cfced2a",
+      "englishText": "The earthquake destroyed several apartment complexes.",
+      "sourceFingerprint": "ccf954d6ef739029a928146412b7137c394d99189b836eef7ff3ed09184b9b9b",
+      "translation": "地震摧毁了好几个公寓区。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/destroy#English",
+      "status": "ai_approved",
+      "reviewId": "4b852988db7dd207-20261118114242064"
+    },
+    {
+      "entryId": "sense",
+      "senseId": "sense:noun:15:76ebb38d:2",
+      "exampleId": "sense:noun:15:76ebb38d:2:example:6be1a272",
+      "englishText": "It’s common sense not to put metal objects in a microwave oven.",
+      "sourceFingerprint": "5815fb735b904d0a1b3010e72ccd0e51edf69e17b80d17bd6fdcf9382f0f1296",
+      "translation": "别把金属物品放进微波炉，这是常识。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/sense#English",
+      "status": "ai_approved",
+      "reviewId": "4b852988db7dd207-20261118114242064"
+    },
+    {
+      "entryId": "make",
+      "senseId": "make:verb:1:52d8ab2b:0",
+      "exampleId": "make:verb:1:52d8ab2b:0:example:7950e10c",
+      "englishText": "We made a bird feeder for our yard.",
+      "sourceFingerprint": "6c830f67aca23bbec12ec26a0a23d5fd042df8da44e3d516494618d1478c0c8a",
+      "translation": "我们给自家院子做了个喂鸟器。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+      "status": "ai_approved",
+      "reviewId": "4b852988db7dd207-20261118114242064"
+    },
+    {
+      "entryId": "make",
+      "senseId": "make:verb:1:e38b0b9d:9",
+      "exampleId": "make:verb:1:e38b0b9d:9:example:4cf49f21",
+      "englishText": "They couldn't make anything of the inscription.",
+      "sourceFingerprint": "a752c064ab1d28175fa2030cc6d7e0225aaf20af88d5797563796702d24f1fe0",
+      "translation": "他们怎么也看不懂那段铭文。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+      "status": "ai_approved",
+      "reviewId": "3f0f4836dc24682b-20261118114314253"
+    },
+    {
+      "entryId": "make",
+      "senseId": "make:verb:1:fce002b3:13",
+      "exampleId": "make:verb:1:fce002b3:13:example:2d497dc4",
+      "englishText": "You're making her cry.",
+      "sourceFingerprint": "55d510167850591b4da3e0c9248def325eddccbcf56a5e0a2974f6e0fce5cd19",
+      "translation": "你都把她弄哭了。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+      "status": "ai_approved",
+      "reviewId": "3f0f4836dc24682b-20261118114314253"
+    },
+    {
+      "entryId": "make-sense",
+      "senseId": "make-sense:verb:14:4763a134:0",
+      "exampleId": "make-sense:verb:14:4763a134:0:example:40461aa1",
+      "englishText": "The thing doesn’t make sense to me.",
+      "sourceFingerprint": "2d919028a565f7ed256f90512161293e4681e14fcbefe2111626cddd10b840ce",
+      "translation": "我觉得这事说不通。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+      "status": "ai_approved",
+      "reviewId": "3f0f4836dc24682b-20261118114314253"
+    },
+    {
+      "entryId": "make-sense",
+      "senseId": "make-sense:verb:14:12ae7d9d:1",
+      "exampleId": "make-sense:verb:14:12ae7d9d:1:example:d660596c",
+      "englishText": "Can you make sense of her handwriting?",
+      "sourceFingerprint": "96f0d76b582d5f3e681a5e274cff0c0c0232d30c042768a52d6dfcc79ab051f0",
+      "translation": "你看得懂她的字迹吗？",
+      "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+      "status": "ai_approved",
+      "reviewId": "3f0f4836dc24682b-20261118114314253"
+    },
+    {
+      "entryId": "make",
+      "senseId": "make:verb:1:cf96a2a3:18",
+      "exampleId": "make:verb:1:cf96a2a3:18:example:d034f329",
+      "englishText": "I won't be able to make dinner; something's come up at work.",
+      "sourceFingerprint": "1fc051fe5a90edba904f8c188fa847f8e90739f3ff46458e6f8fdc65972fdeb8",
+      "translation": "工作上临时出了点事，我没法按时赶来吃晚饭了。",
+      "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+      "status": "ai_approved",
+      "reviewId": "538b4d7095bb576f-20261118114347480"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "instruction": "Independently review the additional Chinese explanation only against its exact English sense, approved gloss and normal usage. For make, its original Wiktionary example is The citizens made their objections clear. Do not approve unsupported implications or unnatural Chinese. Return JSON {reviews:[{senseId,pass:boolean,reason:string}]} with specific Chinese reasons.",
+    "input": [
+      {
+        "senseId": "creation:noun:4:2cad546e:0",
+        "entryId": "creation",
+        "sourceFingerprint": "e338e15ba03c9e2cb2ad55073c29ae786d40af32c89464f7cff201f3ce6f67d2",
+        "englishText": "Something created such as an invention or artwork.",
+        "glosses": [
+          "创作品"
+        ],
+        "version": 2,
+        "explanation": "指创造出来的具体事物，例如一项发明或一件艺术作品。"
+      },
+      {
+        "senseId": "creator:noun:5:d27cffb1:2",
+        "entryId": "creator",
+        "sourceFingerprint": "2bf96a40f549ba13527a477f47551f46fc8b13c1bcdcfd07c2016c82f6824103",
+        "englishText": "The deity that created the world.",
+        "glosses": [
+          "造物主"
+        ],
+        "version": 2,
+        "explanation": "在宗教语境中，指创造世界的神。"
+      },
+      {
+        "senseId": "make:verb:1:4951f9b1:11",
+        "entryId": "make",
+        "sourceFingerprint": "dd44926e44b6448b4030c965c26867f648d25601ea4b950c95c5e11bc16c0ac2",
+        "englishText": "To cause to be.",
+        "glosses": [
+          "使",
+          "使得"
+        ],
+        "version": 2,
+        "explanation": "表示使某人或某物处于某种状态。make 后接宾语，再说明宾语所处的状态，例如 make their objections clear（把他们的反对意见表达清楚）。"
+      }
+    ],
+    "reviews": [
+      {
+        "senseId": "creation:noun:4:2cad546e:0",
+        "pass": true,
+        "reason": "“创作品”对应“something created”，解释准确说明指创造出的具体事物（发明或艺术作品），符合英文释义和正常中文用法。"
+      },
+      {
+        "senseId": "creator:noun:5:d27cffb1:2",
+        "pass": true,
+        "reason": "“造物主”准确对应“the deity that created the world”，解释限定宗教语境，符合英文含义和中文习惯。"
+      },
+      {
+        "senseId": "make:verb:1:4951f9b1:11",
+        "pass": false,
+        "reason": "英文释义为“to cause to be（使处于某状态）”，但例句 make their objections clear 意为“把反对意见表达清楚/阐明”，并非“使宾语处于某状态”的典型用法，解释与例句语义不符，易误导。"
+      }
+    ],
+    "model": "DeepSeek-V4.1-Flash-1017-Event",
+    "requestId": "fe57a6c78c0d774f-20261118121004075",
+    "reviewedAt": "2026-11-18T04:10:06.228Z",
+    "usage": {
+      "completion_tokens": 188,
+      "prompt_tokens": 418,
+      "total_tokens": 606,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "instruction": "Independently review the additional Chinese explanation only against its exact English sense, approved gloss and normal usage. For make, its original Wiktionary example is The citizens made their objections clear. Do not approve unsupported implications or unnatural Chinese. Return JSON {reviews:[{senseId,pass:boolean,reason:string}]} with specific Chinese reasons.",
+    "input": [
+      {
+        "senseId": "make:verb:1:4951f9b1:11",
+        "entryId": "make",
+        "sourceFingerprint": "dd44926e44b6448b4030c965c26867f648d25601ea4b950c95c5e11bc16c0ac2",
+        "englishText": "To cause to be.",
+        "glosses": [
+          "使",
+          "使得"
+        ],
+        "version": 2,
+        "explanation": "表示使某人或某物进入某种状态。常用“make + 宾语 + 形容词”来说明造成的结果。"
+      }
+    ],
+    "reviews": [
+      {
+        "senseId": "make:verb:1:4951f9b1:11",
+        "pass": true,
+        "reason": "英文释义“To cause to be”与中文解释“使某人或某物进入某种状态”一致，且“make + 宾语 + 形容词”结构准确对应例句 The citizens made their objections clear，符合正常用法。"
+      }
+    ],
+    "model": "DeepSeek-V4.1-Flash-1017-Event",
+    "requestId": "490eae03d90f7fa6-20261118121207013",
+    "reviewedAt": "2026-11-18T04:12:11.736Z",
+    "usage": {
+      "completion_tokens": 79,
+      "prompt_tokens": 193,
+      "total_tokens": 272,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    }
+  }
+]

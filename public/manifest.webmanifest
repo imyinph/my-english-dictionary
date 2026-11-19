@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "英语词典 · M2 原型",
+  "short_name": "词典原型",
+  "description": "10 个可追溯真实词条，Joanna / Stephen Neural 双音色美音。名称与视觉方案待确认。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f0",
+  "theme_color": "#234c3d",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

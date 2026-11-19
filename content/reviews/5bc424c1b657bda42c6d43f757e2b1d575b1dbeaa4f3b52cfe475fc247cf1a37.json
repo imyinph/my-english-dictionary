@@ -1,0 +1,1995 @@
+{
+  "schemaVersion": 1,
+  "dictionaryVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "baseRevision": 5,
+  "reviewer": "AI: Codex editorial + DeepSeek independent review",
+  "reviewedAt": "2026-11-17T10:08:18.377Z",
+  "authorization": "用户允许通过自动复核的 AI 辅助释义展示，并于 2026-11-17 授权更新正式版；不等于逐条人工审核。",
+  "items": [
+    {
+      "senseId": "creative:adj:2:a1fe1fed:4",
+      "expectedVersion": 2,
+      "sourceFingerprint": "028c86cf9cf8422bc539290cb4df86b13eb71014c132ddd6d07065eb5f06f246",
+      "glosses": [
+        "（委婉）糟糕的",
+        "缺乏艺术性的",
+        "过于繁杂的"
+      ],
+      "explanation": "用于委婉评价艺术作品：质量差、缺乏艺术性，或显得过于繁杂。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "028c86cf9cf8422bc539290cb4df86b13eb71014c132ddd6d07065eb5f06f246",
+        "candidate": {
+          "sense_id": "creative:adj:2:a1fe1fed:4",
+          "pos": "adjective",
+          "english_definition": "bad, unartistic, busy.",
+          "glosses": [
+            "（委婉）糟糕的",
+            "缺乏艺术性的",
+            "过于繁杂的"
+          ],
+          "explanation": "用于委婉评价艺术作品：质量差、缺乏艺术性，或显得过于繁杂。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "creative:adj:2:a1fe1fed:4",
+          "pos": "adjective",
+          "english_definition": "bad, unartistic, busy.",
+          "glosses": [
+            "（委婉）不怎么样的",
+            "缺乏艺术性的",
+            "过于繁杂的"
+          ],
+          "explanation": "用“有创意”委婉评价艺术作品质量不佳、缺乏艺术性，或构成过于繁杂。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "05bc2648c58a2a32d939b96f4fddf1bc75dc9f1a441047b01c268a7a36093848",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "result": {
+            "sense_id": "creative:adj:2:a1fe1fed:4",
+            "preferred": "gemini",
+            "glosses": [
+              "（委婉）糟糕的",
+              "缺乏艺术性的",
+              "过于繁杂的"
+            ],
+            "explanation": "用于委婉评价艺术作品：质量差、缺乏艺术性，或显得过于繁杂。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition: \"bad, unartistic, busy.\" with tag euphemistic and source raw tag \"of art\". Azure rendered the headword and gloss literally as \"创造性（形容词）\\n糟糕、缺乏艺术感、忙碌。\", which includes the headword and mistranslates \"busy\" as 忙碌; the source note supports the visual-complexity sense 繁杂 for art. The candidate glosses \"（委婉）不怎么样的\", \"缺乏艺术性的\", \"过于繁杂的\" match the three definition elements and the euphemistic/art context. Minor change: \"不怎么样的\" is vaguer than \"bad\"; \"糟糕的\" is more direct while still acceptable under euphemistic framing.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:23:31.720Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "creative:adj:2:a1fe1fed:4",
+            "reason": "采纳独立复核建议，用更明确的“糟糕的”对应 bad；艺术范围由原始 of art 支持。",
+            "glosses": [
+              "（委婉）糟糕的",
+              "缺乏艺术性的",
+              "过于繁杂的"
+            ],
+            "explanation": "用于委婉评价艺术作品：质量差、缺乏艺术性，或显得过于繁杂。"
+          },
+          "reviewedCandidateHash": "05bc2648c58a2a32d939b96f4fddf1bc75dc9f1a441047b01c268a7a36093848",
+          "finalCandidateHash": "8a33e9a3436abb750b614ca91c0e93ad852405b3f66b6a42d59c39709a480739",
+          "independentReviewRequestHash": "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.024Z"
+        },
+        "sourceContext": {
+          "sense_id": "creative:adj:2:a1fe1fed:4",
+          "exactDefinition": "bad, unartistic, busy.",
+          "rawFileSha256": "804c5cbff0724d119a53b659359a51431ec7cb4d676f6ac0127a74419307a782",
+          "recordIndex": 0,
+          "senseIndex": 4,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(euphemistic, of art) bad, unartistic, busy."
+          ],
+          "topics": [],
+          "rawTags": [
+            "of art"
+          ],
+          "tags": [
+            "euphemistic"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/creative#English",
+          "researchNotes": [
+            {
+              "url": "https://en.wiktionary.org/wiki/busy#English",
+              "checkedDate": "2026-11-16",
+              "note": "The linked adjective busy has a visual complexity sense; combined with the exact raw label of art, this supports 繁杂 rather than 忙碌. The added source only disambiguates a word already in the original gloss."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:d74d42b2:26",
+      "expectedVersion": 2,
+      "sourceFingerprint": "35e2718bd5f2649d2c9303452d38c352b1df2871d91bc2cca3b6c2d4e256f673",
+      "glosses": [
+        "获得报道",
+        "出现在（媒体中）"
+      ],
+      "explanation": "指获得媒体报道，或出现在报刊等媒体中。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "35e2718bd5f2649d2c9303452d38c352b1df2871d91bc2cca3b6c2d4e256f673",
+        "candidate": {
+          "sense_id": "make:verb:1:d74d42b2:26",
+          "pos": "verb",
+          "english_definition": "To achieve coverage in; to appear in.",
+          "glosses": [
+            "获得报道",
+            "出现在（媒体中）"
+          ],
+          "explanation": "指获得媒体报道，或出现在报刊等媒体中。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:d74d42b2:26",
+          "pos": "verb",
+          "english_definition": "To achieve coverage in; to appear in.",
+          "glosses": [
+            "获得报道",
+            "出现在（媒体中）"
+          ],
+          "explanation": "指获得媒体报道，或出现在报刊等媒体中。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "3b6fec63cf0fde49336efa892ea90274335376c027cba7b6b0417fd985510194",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "result": {
+            "sense_id": "make:verb:1:d74d42b2:26",
+            "preferred": "gemini",
+            "glosses": [
+              "获得报道",
+              "出现在（媒体中）"
+            ],
+            "explanation": "指获得媒体报道，或出现在报刊等媒体中。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: \"To achieve coverage in; to appear in.\" tagged transitive. Azure rendered \"为了获得覆盖;为了出现在。\", which is ungrammatical and leaves the object implicit; \"coverage\" here is media coverage. The candidate's \"获得报道\" and \"出现在（媒体中）\" correctly supply the media-coverage context implied by \"coverage\" and \"appear in\". No example is given, but the definition is clear enough to translate.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:23:31.720Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:d74d42b2:26",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "3b6fec63cf0fde49336efa892ea90274335376c027cba7b6b0417fd985510194",
+          "finalCandidateHash": "3b6fec63cf0fde49336efa892ea90274335376c027cba7b6b0417fd985510194",
+          "independentReviewRequestHash": "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.028Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:d74d42b2:26",
+          "exactDefinition": "To achieve coverage in; to appear in.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 26,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(transitive) To achieve coverage in; to appear in."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "transitive"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:a3d6598f:27",
+      "expectedVersion": 2,
+      "sourceFingerprint": "c4a4acdadfca8eefde30d084ca987b4997dbc5849359b6f5f2859e7e7c0eb4f2",
+      "glosses": [
+        "支付（费用）",
+        "承担（开支）"
+      ],
+      "explanation": "指支付或承担某项费用；主要用于表示无力支付的表达之后。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "c4a4acdadfca8eefde30d084ca987b4997dbc5849359b6f5f2859e7e7c0eb4f2",
+        "candidate": {
+          "sense_id": "make:verb:1:a3d6598f:27",
+          "pos": "verb",
+          "english_definition": "To pay, to cover (an expense); chiefly used after expressions of inability.",
+          "glosses": [
+            "支付（费用）",
+            "承担（开支）"
+          ],
+          "explanation": "指支付或承担某项费用；主要用于表示无力支付的表达之后。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:a3d6598f:27",
+          "pos": "verb",
+          "english_definition": "To pay, to cover (an expense); chiefly used after expressions of inability.",
+          "glosses": [
+            "支付（费用）"
+          ],
+          "explanation": "主要用于表示无力支付的表达之后，指支付所需费用或承担开支。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "f90e2cb8fed04360efa9de2d564447e6a17c3cd3cbf5fc5759532f72c6575890",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "result": {
+            "sense_id": "make:verb:1:a3d6598f:27",
+            "preferred": "gemini",
+            "glosses": [
+              "支付（费用）",
+              "承担（开支）"
+            ],
+            "explanation": "指支付或承担某项费用；主要用于表示无力支付的表达之后。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition: \"To pay, to cover (an expense); chiefly used after expressions of inability.\" tagged transitive. Azure rendered \"支付，承担（费用）;主要用于表达无能力之后。\", which is broadly accurate but awkward (\"表达无能力之后\"). The candidate's \"支付（费用）\" is accurate but omits the \"cover (an expense)\" element; adding \"承担（开支）\" captures it. The usage restriction should be stated as 表示无力支付的表达之后.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:23:31.720Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:a3d6598f:27",
+            "reason": "采纳 pay/cover 两个表达，并保留 chiefly after inability 的用法限制。",
+            "glosses": [
+              "支付（费用）",
+              "承担（开支）"
+            ],
+            "explanation": "指支付或承担某项费用；主要用于表示无力支付的表达之后。"
+          },
+          "reviewedCandidateHash": "f90e2cb8fed04360efa9de2d564447e6a17c3cd3cbf5fc5759532f72c6575890",
+          "finalCandidateHash": "c7d2d7ebda6b682422a14ab290ffe72dc8e0f505a305e11ed241ea59975fd84b",
+          "independentReviewRequestHash": "2f879e70cf825485decda9bc9a94c4ee0beec8d73058d5f7fcc9487d0e3b6fa8",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.029Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:a3d6598f:27",
+          "exactDefinition": "To pay, to cover (an expense); chiefly used after expressions of inability.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 27,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(transitive) To pay, to cover (an expense); chiefly used after expressions of inability."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "transitive"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:d59b6d60:33",
+      "expectedVersion": 2,
+      "sourceFingerprint": "56fb1b999ea8983ec77556e181026ee02812fd621a9699700c88273feb717140",
+      "glosses": [
+        "完成壮举",
+        "做出某种举动"
+      ],
+      "explanation": "指完成或做出某种壮举、举动。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "56fb1b999ea8983ec77556e181026ee02812fd621a9699700c88273feb717140",
+        "candidate": {
+          "sense_id": "make:verb:1:d59b6d60:33",
+          "pos": "verb",
+          "english_definition": "To perform a feat.",
+          "glosses": [
+            "完成壮举",
+            "做出某种举动"
+          ],
+          "explanation": "指完成或做出某种壮举、举动。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:d59b6d60:33",
+          "pos": "verb",
+          "english_definition": "To perform a feat.",
+          "glosses": [
+            "做出（某种动作）"
+          ],
+          "explanation": "指做出或完成某种动作、举动。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "9ab4d11ef2e22cd194f11b196fd2cbcf56ad8fdbdeaaf3d291046bf4b853fefa",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "result": {
+            "sense_id": "make:verb:1:d59b6d60:33",
+            "preferred": "neither",
+            "glosses": [
+              "完成一项壮举",
+              "做出某种举动"
+            ],
+            "explanation": "指完成或做出某种壮举、举动。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition is \"To perform a feat.\" with examples \"make a leap\", \"make a pass\", \"make a u-turn\". Azure renders only \"完成一项壮举\" (perform a feat), which is accurate but omits the verb \"make\" handling and is a bare literal; the candidate gloss \"做出（某种动作）\" shifts \"feat\" to generic \"动作\" and its explanation \"做出或完成某种动作、举动\" drops the \"feat\" element. Neither is fully precise: the source sense centers on performing a feat, and the examples show concrete actions (leap, pass, u-turn). A corrected gloss should retain \"feat\" while allowing the action sense shown by examples.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:25:15.568Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:d59b6d60:33",
+            "reason": "采纳复核建议，保留 feat 的力度，也涵盖原例中 leap/pass/u-turn 的具体举动，不限定所有用法均为壮举。",
+            "glosses": [
+              "完成壮举",
+              "做出某种举动"
+            ],
+            "explanation": "指完成或做出某种壮举、举动。"
+          },
+          "reviewedCandidateHash": "9ab4d11ef2e22cd194f11b196fd2cbcf56ad8fdbdeaaf3d291046bf4b853fefa",
+          "finalCandidateHash": "8f49e7366198faf239d531deffb67470240af4631d4950455a82720fa7cfb84d",
+          "independentReviewRequestHash": "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.031Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:d59b6d60:33",
+          "exactDefinition": "To perform a feat.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 33,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [],
+          "topics": [],
+          "rawTags": [],
+          "tags": [],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:618f46dd:34",
+      "expectedVersion": 2,
+      "sourceFingerprint": "5fcf6b6287f44f29df2985ea41f172c77a8988f2554ee0c5f6a993c207191505",
+      "glosses": [
+        "获得足以维持存在的受众"
+      ],
+      "explanation": "不及物用法，指获得足够的受众，使其有理由继续存在。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "5fcf6b6287f44f29df2985ea41f172c77a8988f2554ee0c5f6a993c207191505",
+        "candidate": {
+          "sense_id": "make:verb:1:618f46dd:34",
+          "pos": "verb",
+          "english_definition": "To gain sufficient audience to warrant its existence.",
+          "glosses": [
+            "获得足以维持存在的受众"
+          ],
+          "explanation": "不及物用法，指获得足够的受众，使其有理由继续存在。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:618f46dd:34",
+          "pos": "verb",
+          "english_definition": "To gain sufficient audience to warrant its existence.",
+          "glosses": [
+            "获得足以维持存在的受众"
+          ],
+          "explanation": "指获得足够的受众，使其有理由继续存在。原例中的课程因人数不足未能开成。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "0ddad61ad7bfb4e756d3b577ef6f275864b141b06097d374c2b86c2ab85127df",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "result": {
+            "sense_id": "make:verb:1:618f46dd:34",
+            "preferred": "neither",
+            "glosses": [
+              "获得足以维持其存在的受众"
+            ],
+            "explanation": "指获得足够的受众，使其有理由继续存在；为不及物用法。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition: \"To gain sufficient audience to warrant its existence.\" Tag: intransitive. Example: \"In the end, my class didn't make, which left me with a bit of free time.\" Azure's \"为了获得足够的观众支持它的存在\" misreads purpose (\"为了\") and renders \"warrant its existence\" loosely as \"支持它的存在\"; it also omits intransitivity. The candidate gloss \"获得足以维持存在的受众\" is closer but \"维持存在\" slightly overstates \"warrant its existence\"; explanation adds the example interpretation (course not opened due to insufficient enrollment), which is an inference beyond the given example text (the example only says the class didn't make). Corrected gloss should say gaining enough audience to justify its existence, marked intransitive.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:25:15.568Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:618f46dd:34",
+            "reason": "删去对课程未开成原因的解释，保留直接定义和不及物标签；受众与存在条件不变。",
+            "explanation": "不及物用法，指获得足够的受众，使其有理由继续存在。"
+          },
+          "reviewedCandidateHash": "0ddad61ad7bfb4e756d3b577ef6f275864b141b06097d374c2b86c2ab85127df",
+          "finalCandidateHash": "8518a18112656952af76d927d7a6712bf7398a9ed7c0df5312d14f513d393d63",
+          "independentReviewRequestHash": "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.032Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:618f46dd:34",
+          "exactDefinition": "To gain sufficient audience to warrant its existence.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 34,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(intransitive) To gain sufficient audience to warrant its existence."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "intransitive"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:9835600:35",
+      "expectedVersion": 2,
+      "sourceFingerprint": "f8affb5f875e3c61ab391c604ee047cb513f75ba5bfbca72cfb1b6eff8241449",
+      "glosses": [
+        "行事",
+        "应付",
+        "干预"
+      ],
+      "explanation": "已废弃用法，指以某种方式行事、有事要做、设法应付、干预或活动；常用于 to meddle or make。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "f8affb5f875e3c61ab391c604ee047cb513f75ba5bfbca72cfb1b6eff8241449",
+        "candidate": {
+          "sense_id": "make:verb:1:9835600:35",
+          "pos": "verb",
+          "english_definition": "To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make.",
+          "glosses": [
+            "行事",
+            "应付",
+            "干预"
+          ],
+          "explanation": "已废弃用法，指以某种方式行事、有事要做、设法应付、干预或活动；常用于 to meddle or make。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:9835600:35",
+          "pos": "verb",
+          "english_definition": "To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make.",
+          "glosses": [
+            "行事",
+            "应付",
+            "干预"
+          ],
+          "explanation": "已废弃用法，指以某种方式行事、有事要做、设法应付、干预或活动；常用于 to meddle or make。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "4f00e52359da1418ee90e8285a4c7d4b3e7031c7d3f57e7d21e0830cc8e416e3",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "result": {
+            "sense_id": "make:verb:1:9835600:35",
+            "preferred": "neither",
+            "glosses": [
+              "以某种方式行事",
+              "有事要做；设法应付",
+              "干预；活动"
+            ],
+            "explanation": "已废弃用法：指以某种方式行事、有事要做、设法应付、干预或活动；常用于 to meddle or make 这一短语。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition: \"To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make.\" Tag: obsolete. Azure's rendering \"以某种方式行动;必须去做;去管理;去干涉;要主动;常常在“干涉”或“制造”这个词语中出现\" mistranslates \"to meddle or make\" as a phrase about \"干涉\" or \"制造\" and renders \"manage\" as \"去管理\", which is not the sense here; it also fails to mark the obsolete register. The candidate glosses \"行事\", \"应付\", \"干预\" and explanation are closer and correctly note the obsolete register and the phrase, but \"应付\" alone is loose for \"to manage\" and the gloss set omits \"to be active\". A corrected set should cover act in a certain manner, have to do/manage, interfere/be active, with the obsolete tag and the phrase noted.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:25:15.568Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:9835600:35",
+            "reason": "保留三个简释及完整扩展解释。复核建议把多项用分号塞进单个 gloss，违反产品要求；现有解释已覆盖全部并列含义，不必在短简释中重复枚举。"
+          },
+          "reviewedCandidateHash": "4f00e52359da1418ee90e8285a4c7d4b3e7031c7d3f57e7d21e0830cc8e416e3",
+          "finalCandidateHash": "4f00e52359da1418ee90e8285a4c7d4b3e7031c7d3f57e7d21e0830cc8e416e3",
+          "independentReviewRequestHash": "127ea4dc3c143da968263afd555194b80978bfc792db9815df6e1d802921ffee",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.034Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:9835600:35",
+          "exactDefinition": "To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 35,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(obsolete) To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "obsolete"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:3f95c0bc:36",
+      "expectedVersion": 2,
+      "sourceFingerprint": "d9469a0f56386016c9bcef299e7cefd0272d3b4ace704fca8f2457cd0ab8d435",
+      "glosses": [
+        "增加",
+        "增大",
+        "累积"
+      ],
+      "explanation": "已废弃用法，指增加、增大或逐渐累积。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "d9469a0f56386016c9bcef299e7cefd0272d3b4ace704fca8f2457cd0ab8d435",
+        "candidate": {
+          "sense_id": "make:verb:1:3f95c0bc:36",
+          "pos": "verb",
+          "english_definition": "To increase; to augment; to accrue.",
+          "glosses": [
+            "增加",
+            "增大",
+            "累积"
+          ],
+          "explanation": "已废弃用法，指增加、增大或逐渐累积。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:3f95c0bc:36",
+          "pos": "verb",
+          "english_definition": "To increase; to augment; to accrue.",
+          "glosses": [
+            "增加",
+            "增大",
+            "累积"
+          ],
+          "explanation": "已废弃用法，指增加、增大或逐渐累积。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "5d479b537c49e73f6e796afb0a6f9792e81706a07931792f6bf678886ee80a30",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "result": {
+            "sense_id": "make:verb:1:3f95c0bc:36",
+            "preferred": "gemini",
+            "glosses": [
+              "增加",
+              "增大",
+              "累积"
+            ],
+            "explanation": "已废弃用法，指增加、增大或逐渐累积。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'To increase; to augment; to accrue.' Tag: obsolete. Candidate glosses 增加/增大/累积 map one-to-one onto increase/augment/accrue and the explanation correctly marks the obsolete register. Azure's 'make（动词）增加;增加;积累。' duplicates 增加 and adds a headword/POS line not part of the sense; it is not wrong in substance but less clean. Candidate better matches the English.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:25:26.070Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:3f95c0bc:36",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "5d479b537c49e73f6e796afb0a6f9792e81706a07931792f6bf678886ee80a30",
+          "finalCandidateHash": "5d479b537c49e73f6e796afb0a6f9792e81706a07931792f6bf678886ee80a30",
+          "independentReviewRequestHash": "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.035Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:3f95c0bc:36",
+          "exactDefinition": "To increase; to augment; to accrue.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 36,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(obsolete) To increase; to augment; to accrue."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "obsolete"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:f7b0e13b:37",
+      "expectedVersion": 2,
+      "sourceFingerprint": "25dae37964edbfef583c4c331446aa71deb108acd465420e09739a3916cdf3e5",
+      "glosses": [
+        "参与",
+        "涉入"
+      ],
+      "explanation": "已废弃用法，指参与某事，或与某事有牵涉。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "25dae37964edbfef583c4c331446aa71deb108acd465420e09739a3916cdf3e5",
+        "candidate": {
+          "sense_id": "make:verb:1:f7b0e13b:37",
+          "pos": "verb",
+          "english_definition": "To be engaged or concerned in.",
+          "glosses": [
+            "参与",
+            "涉入"
+          ],
+          "explanation": "已废弃用法，指参与某事，或与某事有牵涉。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:f7b0e13b:37",
+          "pos": "verb",
+          "english_definition": "To be engaged or concerned in.",
+          "glosses": [
+            "参与",
+            "涉入"
+          ],
+          "explanation": "已废弃用法，指参与某事，或与某事有牵涉。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "6e2ddd86b8bb7e51b1c1aac8fe7fb96ade1b9b72480b5b57c3ef986e9cef4442",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "result": {
+            "sense_id": "make:verb:1:f7b0e13b:37",
+            "preferred": "gemini",
+            "glosses": [
+              "参与",
+              "涉入"
+            ],
+            "explanation": "已废弃用法，指参与某事，或与某事有牵涉。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'To be engaged or concerned in.' Tag: obsolete. Candidate glosses 参与/涉入 cover 'engaged in' and 'concerned in', and the explanation preserves the obsolete tag. Azure's '要投入或关心。' renders 'concerned' as 关心 (to care about), which shifts the sense from being involved/concerned in something toward emotional concern, and drops 'engaged in'. Candidate better matches the English.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:25:26.070Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:f7b0e13b:37",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "6e2ddd86b8bb7e51b1c1aac8fe7fb96ade1b9b72480b5b57c3ef986e9cef4442",
+          "finalCandidateHash": "6e2ddd86b8bb7e51b1c1aac8fe7fb96ade1b9b72480b5b57c3ef986e9cef4442",
+          "independentReviewRequestHash": "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.037Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:f7b0e13b:37",
+          "exactDefinition": "To be engaged or concerned in.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 37,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(obsolete) To be engaged or concerned in."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "obsolete"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:2220f1c7:38",
+      "expectedVersion": 2,
+      "sourceFingerprint": "85ef4ad7c327d296991e9051e89d59a4971512345889c17bbfd035a2af57d189",
+      "glosses": [
+        "使处于（某处）"
+      ],
+      "explanation": "古旧用法，用在作主语的 what 之后，表示使某人或某物处于某处。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "85ef4ad7c327d296991e9051e89d59a4971512345889c17bbfd035a2af57d189",
+        "candidate": {
+          "sense_id": "make:verb:1:2220f1c7:38",
+          "pos": "verb",
+          "english_definition": "To cause to be (in a specified place), used after a subjective what.",
+          "glosses": [
+            "使处于（某处）"
+          ],
+          "explanation": "古旧用法，用在作主语的 what 之后，表示使某人或某物处于某处。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:2220f1c7:38",
+          "pos": "verb",
+          "english_definition": "To cause to be (in a specified place), used after a subjective what.",
+          "glosses": [
+            "使处于（某处）"
+          ],
+          "explanation": "古旧用法，用在作主语的 what 之后，询问是什么使某人或某物处在某处。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "2c5010b612ee796a8bc58e9f168843cb586cf4ae841d52fb187ac1452d78392d",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "result": {
+            "sense_id": "make:verb:1:2220f1c7:38",
+            "preferred": "gemini",
+            "glosses": [
+              "使处于（某处）"
+            ],
+            "explanation": "古旧用法，用在作主语的 what 之后，表示使某人或某物处于某处。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition: 'To cause to be (in a specified place), used after a subjective what.' Tag: archaic; source note cites 'What makes him here?' with what as subject. Candidate gloss '使处于（某处）' matches 'cause to be (in a specified place)'. However the candidate explanation says '询问是什么使某人或某物处在某处' (asking what causes...), which adds an interrogative/asking function not stated in the definition; the definition only specifies the syntactic position after a subjective what. Azure's '在某个特定地点，导致在主观的“什么”之后被使用。' is garbled and misreads 'subjective what' as '主观的什么'. Neither is fully adequate; candidate is closer but its explanation needs trimming to the source-bound statement. Corrected explanation supplied.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:25:26.070Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:2220f1c7:38",
+            "reason": "采纳更紧贴定义的表述，删去多余的“询问”说明；主语身份由原始引文支持。",
+            "explanation": "古旧用法，用在作主语的 what 之后，表示使某人或某物处于某处。"
+          },
+          "reviewedCandidateHash": "2c5010b612ee796a8bc58e9f168843cb586cf4ae841d52fb187ac1452d78392d",
+          "finalCandidateHash": "665783b987674fcfcb2832f60e4d8a9973913fdb71150c178b79184d591fe19b",
+          "independentReviewRequestHash": "adf06beb0a15e39f43ae00602e0977c6a6fb8307f4b68105a889d77e83d96b94",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.039Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:2220f1c7:38",
+          "exactDefinition": "To cause to be (in a specified place), used after a subjective what.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 38,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(now archaic) To cause to be (in a specified place), used after a subjective what."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "archaic"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": [
+            {
+              "url": "https://en.wiktionary.org/wiki/make#English",
+              "checkedDate": "2026-11-16",
+              "note": "The exact cached sense includes the 1676 Etherege quotation What makes him here? The structure supports subjective what meaning what as subject. Research evidence only, not a newly added product example.",
+              "quotationRef": "1676, George Etherege, The Man of Mode",
+              "excerpt": "What makes him here?"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:8066bf79:41",
+      "expectedVersion": 2,
+      "sourceFingerprint": "47bf95c0ae4075b153679fc89ca07d018b3eda6b94cbf0c1f590ec826272742f",
+      "glosses": [
+        "（水）向岸涌流",
+        "上涨"
+      ],
+      "explanation": "不及物用法，用于水，指向陆地流动或水位上涨。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "47bf95c0ae4075b153679fc89ca07d018b3eda6b94cbf0c1f590ec826272742f",
+        "candidate": {
+          "sense_id": "make:verb:1:8066bf79:41",
+          "pos": "verb",
+          "english_definition": "Of water, to flow toward land; to rise.",
+          "glosses": [
+            "（水）向岸涌流",
+            "上涨"
+          ],
+          "explanation": "不及物用法，用于水，指向陆地流动或水位上涨。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:8066bf79:41",
+          "pos": "verb",
+          "english_definition": "Of water, to flow toward land; to rise.",
+          "glosses": [
+            "（水）向岸涌流",
+            "上涨"
+          ],
+          "explanation": "不及物用法，用于水，指向陆地流动或水位上涨。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "fd56a371be8974cd26a31c7e0366c5aaf33f75b89c6742943dbcc6fb20ef2c64",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "result": {
+            "sense_id": "make:verb:1:8066bf79:41",
+            "preferred": "gemini",
+            "glosses": [
+              "（水）向岸涌流",
+              "上涨"
+            ],
+            "explanation": "不及物用法，用于水，指向陆地流动或水位上涨。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'Of water, to flow toward land; to rise.' Tag: intransitive. Azure renders 'make（动词）\\n水流向陆地;升起。' which keeps the headword and a literal but awkward '升起'; the candidate glosses '（水）向岸涌流' and '上涨' cover 'flow toward land' and 'rise' respectively and add the intransitive water subject. Both are source-bound; candidate is more idiomatic and correctly marks the water subject.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:17.055Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:8066bf79:41",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "fd56a371be8974cd26a31c7e0366c5aaf33f75b89c6742943dbcc6fb20ef2c64",
+          "finalCandidateHash": "fd56a371be8974cd26a31c7e0366c5aaf33f75b89c6742943dbcc6fb20ef2c64",
+          "independentReviewRequestHash": "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.040Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:8066bf79:41",
+          "exactDefinition": "Of water, to flow toward land; to rise.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 41,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(intransitive) Of water, to flow toward land; to rise."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "intransitive"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:verb:1:7c0ba878:42",
+      "expectedVersion": 2,
+      "sourceFingerprint": "2170326bb4fedb777ef631ed04738e22a63d60c55ec484bbad8903406a90cf95",
+      "glosses": [
+        "占稳（棋盘点位）"
+      ],
+      "explanation": "双陆棋用语，指在同一点位放置至少两枚己方棋子，使该点位不能被对手占取。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "2170326bb4fedb777ef631ed04738e22a63d60c55ec484bbad8903406a90cf95",
+        "candidate": {
+          "sense_id": "make:verb:1:7c0ba878:42",
+          "pos": "verb",
+          "english_definition": "To establish two or more men on (a point) so that it cannot be captured.",
+          "glosses": [
+            "占稳（棋盘点位）"
+          ],
+          "explanation": "双陆棋用语，指在同一点位放置至少两枚己方棋子，使该点位不能被对手占取。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:verb:1:7c0ba878:42",
+          "pos": "verb",
+          "english_definition": "To establish two or more men on (a point) so that it cannot be captured.",
+          "glosses": [
+            "占稳（棋盘点位）"
+          ],
+          "explanation": "双陆棋用语，指在同一点位放置至少两枚己方棋子，使该点位不能被对手占取。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "2468aaad1f4ad1fdbec50d7408426c919f742173c307430622e85eb068c0ea35",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "result": {
+            "sense_id": "make:verb:1:7c0ba878:42",
+            "preferred": "gemini",
+            "glosses": [
+              "占稳（棋盘点位）"
+            ],
+            "explanation": "双陆棋用语，指在同一点位放置至少两枚己方棋子，使该点位不能被对手占取。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'To establish two or more men on (a point) so that it cannot be captured.' Source context rawGlosses add '(transitive, backgammon)' and topics include backgammon/games. Azure renders '在（一个点）上布置两人或以上，使其无法被占领。' which is accurate but lacks the backgammon/game context and the 'men' as pieces nuance. Candidate gloss '占稳（棋盘点位）' plus explanation naming 双陆棋 and 至少两枚己方棋子 matches the definition and verified source context.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:17.055Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:verb:1:7c0ba878:42",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "2468aaad1f4ad1fdbec50d7408426c919f742173c307430622e85eb068c0ea35",
+          "finalCandidateHash": "2468aaad1f4ad1fdbec50d7408426c919f742173c307430622e85eb068c0ea35",
+          "independentReviewRequestHash": "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.043Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:verb:1:7c0ba878:42",
+          "exactDefinition": "To establish two or more men on (a point) so that it cannot be captured.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 0,
+          "senseIndex": 42,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(transitive, backgammon) To establish two or more men on (a point) so that it cannot be captured."
+          ],
+          "topics": [
+            "backgammon",
+            "games"
+          ],
+          "rawTags": [],
+          "tags": [
+            "transitive"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:noun:1:7673f9f6:9",
+      "expectedVersion": 2,
+      "sourceFingerprint": "2ce243efe08e2efae95c3fdb6d517f88db8b23fa01444b34196b7891b937f882",
+      "glosses": [
+        "自制项目"
+      ],
+      "explanation": "指自己动手制作的项目，尤指在电视上展示制作的那类。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "2ce243efe08e2efae95c3fdb6d517f88db8b23fa01444b34196b7891b937f882",
+        "candidate": {
+          "sense_id": "make:noun:1:7673f9f6:9",
+          "pos": "noun",
+          "english_definition": "A homemade project, particularly one demonstrated on television.",
+          "glosses": [
+            "自制项目"
+          ],
+          "explanation": "指自己动手制作的项目，尤指在电视上展示制作的那类。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:noun:1:7673f9f6:9",
+          "pos": "noun",
+          "english_definition": "A homemade project, particularly one demonstrated on television.",
+          "glosses": [
+            "自制项目"
+          ],
+          "explanation": "指自己动手制作的项目，尤指在电视上展示制作的那类。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "753049aba81ddd9dab85b4d6021e8cb1a7a9a76109d99a32d411499ec09e0239",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "result": {
+            "sense_id": "make:noun:1:7673f9f6:9",
+            "preferred": "gemini",
+            "glosses": [
+              "自制项目"
+            ],
+            "explanation": "指自己动手制作的项目，尤指在电视上展示制作的那类。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'A homemade project, particularly one demonstrated on television.' Azure renders '这是一个自制项目，尤其是在电视上展示过的。' which is accurate but phrased as a full sentence with a demonstrative. Candidate gloss '自制项目' and explanation '指自己动手制作的项目，尤指在电视上展示制作的那类' preserve both 'homemade project' and 'particularly one demonstrated on television' without adding unsupported detail.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:17.055Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:noun:1:7673f9f6:9",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "753049aba81ddd9dab85b4d6021e8cb1a7a9a76109d99a32d411499ec09e0239",
+          "finalCandidateHash": "753049aba81ddd9dab85b4d6021e8cb1a7a9a76109d99a32d411499ec09e0239",
+          "independentReviewRequestHash": "e3e4a5e42d99ec941433990de9f697ca0070faf2c03866b4938372198f5815b4",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.045Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:noun:1:7673f9f6:9",
+          "exactDefinition": "A homemade project, particularly one demonstrated on television.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 1,
+          "senseIndex": 9,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [],
+          "topics": [],
+          "rawTags": [],
+          "tags": [],
+          "sourceSenseIds": [
+            "en:homemade project"
+          ],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make:noun:1:83b51cf7:10",
+      "expectedVersion": 2,
+      "sourceFingerprint": "4a1a087200437365c1d99670d529979a4e9987cf2aa42c3f27c5dcbc99a44927",
+      "glosses": [
+        "定将牌或洗牌的轮次"
+      ],
+      "explanation": "牌类用语，指轮到某人宣布一手牌的将牌（桥牌中），或轮到某人洗牌。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "4a1a087200437365c1d99670d529979a4e9987cf2aa42c3f27c5dcbc99a44927",
+        "candidate": {
+          "sense_id": "make:noun:1:83b51cf7:10",
+          "pos": "noun",
+          "english_definition": "Turn to declare the trump for a hand (in bridge), or to shuffle the cards.",
+          "glosses": [
+            "定将牌或洗牌的轮次"
+          ],
+          "explanation": "牌类用语，指轮到某人宣布一手牌的将牌（桥牌中），或轮到某人洗牌。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:noun:1:83b51cf7:10",
+          "pos": "noun",
+          "english_definition": "Turn to declare the trump for a hand (in bridge), or to shuffle the cards.",
+          "glosses": [
+            "定将牌或洗牌的轮次"
+          ],
+          "explanation": "牌类用语，指轮到某人宣布一手牌的将牌（桥牌中），或轮到某人洗牌。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "1afec0c9b2452beb2fa4870abbf4debb4719717e422425a676a5abd6826f9c4c",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "result": {
+            "sense_id": "make:noun:1:83b51cf7:10",
+            "preferred": "gemini",
+            "glosses": [
+              "（桥牌中）轮到某人定将牌或洗牌"
+            ],
+            "explanation": "牌类用语，指轮到某人宣布一手牌的将牌（桥牌中），或轮到某人洗牌。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition: \"Turn to declare the trump for a hand (in bridge), or to shuffle the cards.\" The head noun is \"Turn\", scoping over both alternatives. Azure renders \"Turn\" as \"转牌\", which is not supported by the definition (no card-turn meaning is stated) and drops the \"turn\" sense; it also omits the bridge qualifier placement. The candidate gloss \"定将牌或洗牌的轮次\" correctly captures \"turn\" and both alternatives, though \"轮次\" is slightly abstract. Corrected gloss adds the bridge qualifier and the player-turn framing supported by the definition and source note.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:33.772Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:noun:1:83b51cf7:10",
+            "reason": "保留名词性的“轮次”。复核建议把“桥牌中”放在整个简释之前，会把洗牌一支也限于桥牌；原文括注只紧接定将牌一支，当前解释保留这个范围。"
+          },
+          "reviewedCandidateHash": "1afec0c9b2452beb2fa4870abbf4debb4719717e422425a676a5abd6826f9c4c",
+          "finalCandidateHash": "1afec0c9b2452beb2fa4870abbf4debb4719717e422425a676a5abd6826f9c4c",
+          "independentReviewRequestHash": "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.046Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:noun:1:83b51cf7:10",
+          "exactDefinition": "Turn to declare the trump for a hand (in bridge), or to shuffle the cards.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 1,
+          "senseIndex": 10,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(card games) Turn to declare the trump for a hand (in bridge), or to shuffle the cards."
+          ],
+          "topics": [
+            "card-games",
+            "games"
+          ],
+          "rawTags": [],
+          "tags": [],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": [
+            {
+              "url": "https://en.wiktionary.org/wiki/make#English",
+              "checkedDate": "2026-11-16",
+              "note": "The cached quotations use possessive determiners with make, corroborating a turn belonging to a player. Turn scopes over both alternatives in the English definition. No quotation is being added to the PWA."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "senseId": "make:noun:4:1cd14633:0",
+      "expectedVersion": 2,
+      "sourceFingerprint": "c072b9363723cc11b3bb581926ef2c55a1a07496a9cae24585c71d4bf09c0225",
+      "glosses": [
+        "镰刀状的收割农具"
+      ],
+      "explanation": "英格兰东盎格利亚、埃塞克斯地区的旧称，指类似镰刀、用于收割豌豆、芦苇等植物的农具。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "c072b9363723cc11b3bb581926ef2c55a1a07496a9cae24585c71d4bf09c0225",
+        "candidate": {
+          "sense_id": "make:noun:4:1cd14633:0",
+          "pos": "noun",
+          "english_definition": "An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares.",
+          "glosses": [
+            "镰刀状的收割农具"
+          ],
+          "explanation": "英格兰东盎格利亚、埃塞克斯地区的旧称，指类似镰刀、用于收割豌豆、芦苇等植物的农具。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make:noun:4:1cd14633:0",
+          "pos": "noun",
+          "english_definition": "An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares.",
+          "glosses": [
+            "镰刀状的收割农具"
+          ],
+          "explanation": "英格兰东盎格利亚、埃塞克斯地区的旧称，指类似镰刀、用于收割豌豆、芦苇等植物的农具。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "49a4bde67d5c8201c60ead1cc67b3d6a34b5389404b322ba78f4f95081be7d3e",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "result": {
+            "sense_id": "make:noun:4:1cd14633:0",
+            "preferred": "gemini",
+            "glosses": [
+              "类似镰刀的收割农具"
+            ],
+            "explanation": "英格兰东盎格利亚、埃塞克斯地区的旧称，指类似镰刀、用于收割豌豆、芦苇等植物的农具。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: \"An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares.\" Tags: East-Anglia, Essex, obsolete. Azure's \"畧\" is a garbled rendering of \"tares\" (likely 稗/毒麦), and it omits the regional/obsolete register. The candidate gloss \"镰刀状的收割农具\" matches the definition; explanation correctly notes the regional obsolete register and the plants. No change needed.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:33.772Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make:noun:4:1cd14633:0",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "49a4bde67d5c8201c60ead1cc67b3d6a34b5389404b322ba78f4f95081be7d3e",
+          "finalCandidateHash": "49a4bde67d5c8201c60ead1cc67b3d6a34b5389404b322ba78f4f95081be7d3e",
+          "independentReviewRequestHash": "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.048Z"
+        },
+        "sourceContext": {
+          "sense_id": "make:noun:4:1cd14633:0",
+          "exactDefinition": "An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares.",
+          "rawFileSha256": "a7ecf027151f2cbecfde6821d13b3096c637cadec16b0f55ad9575e94a769e93",
+          "recordIndex": 4,
+          "senseIndex": 0,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(East Anglia, Essex, obsolete) An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "East-Anglia",
+            "Essex",
+            "obsolete"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "destroy:verb:13:917cfc7a:6",
+      "expectedVersion": 2,
+      "sourceFingerprint": "fbab0070d680504e1a4761907762ebc6a018b9c7ae6c45220119e4915fc3df1b",
+      "glosses": [
+        "使彻底力竭以促其恢复或增强"
+      ],
+      "explanation": "健身俚语，以反语说法指使肌肉等彻底力竭，从而促其恢复或增强；原例谈到肩部锻炼。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "fbab0070d680504e1a4761907762ebc6a018b9c7ae6c45220119e4915fc3df1b",
+        "candidate": {
+          "sense_id": "destroy:verb:13:917cfc7a:6",
+          "pos": "verb",
+          "english_definition": "To exhaust completely and thus recreate or build up.",
+          "glosses": [
+            "使彻底力竭以促其恢复或增强"
+          ],
+          "explanation": "健身俚语，以反语说法指使肌肉等彻底力竭，从而促其恢复或增强；原例谈到肩部锻炼。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "destroy:verb:13:917cfc7a:6",
+          "pos": "verb",
+          "english_definition": "To exhaust completely and thus recreate or build up.",
+          "glosses": [
+            "使彻底力竭以促其恢复或增强"
+          ],
+          "explanation": "健身俚语，以反语说法指使肌肉等彻底力竭，从而促其恢复或增强；原例谈到肩部锻炼。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "needs_review",
+          "candidateHash": "ea571baac0f5c5ea2cfec85838cda631514f267436e311e2b8658822e5227f3d",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "result": {
+            "sense_id": "destroy:verb:13:917cfc7a:6",
+            "preferred": "gemini",
+            "glosses": [
+              "（健身俚语）使彻底力竭以促其恢复或增强"
+            ],
+            "explanation": "健身俚语，以反语说法指使肌肉等彻底力竭，从而促其恢复或增强；原例谈到肩部锻炼。",
+            "changes_needed": true,
+            "resolved": true,
+            "evidence": "English definition: \"To exhaust completely and thus recreate or build up.\" Tags: slang, transitive; source topics include bodybuilding and rawGlosses note antiphrasis. Azure's \"完全耗尽，从而重新创造或积累\" is literal and misses the bodybuilding/antiphrasis register and the \"build up\" (muscle) sense. The candidate gloss captures exhaustion plus rebuilding; corrected gloss adds the bodybuilding slang register and antiphrasis framing supported by source context. Example \"This exercise is going to destroy all parts of your shoulders\" supports the exercise/muscle context.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:33.772Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "destroy:verb:13:917cfc7a:6",
+            "reason": "保留当前简释。复核仅建议在简释重复添加健身标签；扩展解释已经明确健身俚语与反语，不需要堆叠标签。"
+          },
+          "reviewedCandidateHash": "ea571baac0f5c5ea2cfec85838cda631514f267436e311e2b8658822e5227f3d",
+          "finalCandidateHash": "ea571baac0f5c5ea2cfec85838cda631514f267436e311e2b8658822e5227f3d",
+          "independentReviewRequestHash": "b15b4fdcd64677ad8c793aa5063c565c017feb31d8a0945ad85fc6848e0a1b4c",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.049Z"
+        },
+        "sourceContext": {
+          "sense_id": "destroy:verb:13:917cfc7a:6",
+          "exactDefinition": "To exhaust completely and thus recreate or build up.",
+          "rawFileSha256": "8bb2cc2774a3be442c432e92aff57e0dfbffcef2cbe3e9864f1e770fcd965a39",
+          "recordIndex": 0,
+          "senseIndex": 6,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(transitive, bodybuilding, slang, antiphrasis) To exhaust completely and thus recreate or build up."
+          ],
+          "topics": [
+            "bodybuilding",
+            "hobbies",
+            "lifestyle",
+            "sports"
+          ],
+          "rawTags": [],
+          "tags": [
+            "slang",
+            "transitive"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/destroy#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "destroy:verb:13:452a12a5:8",
+      "expectedVersion": 2,
+      "sourceFingerprint": "4b76e763f03e1f844ffd0caaad398c960b3bf9202c9f091f1c1b337a6a78d41b",
+      "glosses": [
+        "把（歌）唱得极糟"
+      ],
+      "explanation": "美国俚语，及物用法，指把一首歌唱得极其糟糕。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "4b76e763f03e1f844ffd0caaad398c960b3bf9202c9f091f1c1b337a6a78d41b",
+        "candidate": {
+          "sense_id": "destroy:verb:13:452a12a5:8",
+          "pos": "verb",
+          "english_definition": "To sing a song extremely poorly.",
+          "glosses": [
+            "把（歌）唱得极糟"
+          ],
+          "explanation": "美国俚语，及物用法，指把一首歌唱得极其糟糕。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "destroy:verb:13:452a12a5:8",
+          "pos": "verb",
+          "english_definition": "To sing a song extremely poorly.",
+          "glosses": [
+            "把（歌）唱得极糟"
+          ],
+          "explanation": "美国俚语，及物用法，指把一首歌唱得极其糟糕。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "7ebda4d3537446932f35bc9be59110db86b5f9f240c1c4b2f8e05bdceec975ba",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "result": {
+            "sense_id": "destroy:verb:13:452a12a5:8",
+            "preferred": "gemini",
+            "glosses": [
+              "把（歌）唱得极糟"
+            ],
+            "explanation": "美国俚语，及物用法，指把一首歌唱得极其糟糕。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'To sing a song extremely poorly.' Tags: US, slang, transitive. Azure renders the headword as '毁灭（动词）' and then '唱得非常糟糕。' — the first line imports the unrelated core sense 'destroy/ruin', which is not part of this sense's definition, so Azure's output mixes in a meaning not supported by the source. The candidate gloss '把（歌）唱得极糟' correctly captures the transitive object (the song) and the 'extremely poorly' degree, and its explanation stays within the definition and tags. No example is supplied, but the definition is clear enough to translate; absence of an example is not grounds for leaving it unresolved.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:47.774Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "destroy:verb:13:452a12a5:8",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "7ebda4d3537446932f35bc9be59110db86b5f9f240c1c4b2f8e05bdceec975ba",
+          "finalCandidateHash": "7ebda4d3537446932f35bc9be59110db86b5f9f240c1c4b2f8e05bdceec975ba",
+          "independentReviewRequestHash": "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.049Z"
+        },
+        "sourceContext": {
+          "sense_id": "destroy:verb:13:452a12a5:8",
+          "exactDefinition": "To sing a song extremely poorly.",
+          "rawFileSha256": "8bb2cc2774a3be442c432e92aff57e0dfbffcef2cbe3e9864f1e770fcd965a39",
+          "recordIndex": 0,
+          "senseIndex": 8,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(transitive, US, slang) To sing a song extremely poorly."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "US",
+            "slang",
+            "transitive"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/destroy#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make-sense:verb:14:621d0f9e:2",
+      "expectedVersion": 2,
+      "sourceFingerprint": "fd42773998dc89868a6e643c0329984195436d8f2b6ca7707ce1b6643ecb8102",
+      "glosses": [
+        "合意",
+        "有益",
+        "行得通"
+      ],
+      "explanation": "非正式用法，可表示对某事感兴趣或有意愿，也可表示某事令人满意、有益、能起作用或对某人有利。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "fd42773998dc89868a6e643c0329984195436d8f2b6ca7707ce1b6643ecb8102",
+        "candidate": {
+          "sense_id": "make-sense:verb:14:621d0f9e:2",
+          "pos": "verb",
+          "english_definition": "Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to.",
+          "glosses": [
+            "合意",
+            "有益",
+            "行得通"
+          ],
+          "explanation": "非正式用法，可表示对某事感兴趣或有意愿，也可表示某事令人满意、有益、能起作用或对某人有利。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make-sense:verb:14:621d0f9e:2",
+          "pos": "verb",
+          "english_definition": "Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to.",
+          "glosses": [
+            "合意",
+            "有益",
+            "行得通"
+          ],
+          "explanation": "非正式用法，可表示对某事感兴趣或有意愿，也可表示某事令人满意、有益、能起作用或对某人有利。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "fa6ad7f320bc5379df1bf37da4029071a1f5a38c11898f61974d5db2a50dc879",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "result": {
+            "sense_id": "make-sense:verb:14:621d0f9e:2",
+            "preferred": "gemini",
+            "glosses": [
+              "合意",
+              "有益",
+              "行得通"
+            ],
+            "explanation": "非正式用法，可表示对某事感兴趣或有意愿，也可表示某事令人满意、有益、能起作用或对某人有利。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to.' Tag: informal. Azure's rendering '用来表达对某事的兴趣或欲望;用来取悦或有益;用来工作、发挥作用或对其有利。' is a literal, awkward calque ('用来工作' for 'to work', '用来取悦' for 'to be pleasing') and reads as translationese rather than a dictionary gloss. The candidate's glosses '合意/有益/行得通' and explanation map onto 'pleasing/beneficial', 'advantageous', and 'work/operative' respectively, and the explanation covers 'interest or desire'. The example 'our relationship just isn't making much sense anymore' is consistent with the 'work/be advantageous' branch. Candidate is closer to natural Chinese while preserving all definition branches.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:47.774Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make-sense:verb:14:621d0f9e:2",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "fa6ad7f320bc5379df1bf37da4029071a1f5a38c11898f61974d5db2a50dc879",
+          "finalCandidateHash": "fa6ad7f320bc5379df1bf37da4029071a1f5a38c11898f61974d5db2a50dc879",
+          "independentReviewRequestHash": "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.050Z"
+        },
+        "sourceContext": {
+          "sense_id": "make-sense:verb:14:621d0f9e:2",
+          "exactDefinition": "Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to.",
+          "rawFileSha256": "3d57e71f34dc4053611043c121a1b7e8038bbec54cdc0af9431dca91e1062019",
+          "recordIndex": 0,
+          "senseIndex": 2,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(informal) Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to."
+          ],
+          "topics": [],
+          "rawTags": [],
+          "tags": [
+            "informal"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "make-sense:verb:14:ef843e21:3",
+      "expectedVersion": 2,
+      "sourceFingerprint": "e0813b2aa75f1516e78c9c60c8285f15c90e36ef058d67f3e27c13e5ef6bb1f4",
+      "glosses": [
+        "处于普通水平",
+        "并不特别发达"
+      ],
+      "explanation": "健身俚语，指发展程度普通、并不特别发达，通常以否定形式出现；原例的 don’t make sense 因而形容肌肉发达得很突出。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "e0813b2aa75f1516e78c9c60c8285f15c90e36ef058d67f3e27c13e5ef6bb1f4",
+        "candidate": {
+          "sense_id": "make-sense:verb:14:ef843e21:3",
+          "pos": "verb",
+          "english_definition": "To be in the realm of the ordinary, to be not particularly developed.",
+          "glosses": [
+            "处于普通水平",
+            "并不特别发达"
+          ],
+          "explanation": "健身俚语，指发展程度普通、并不特别发达，通常以否定形式出现；原例的 don’t make sense 因而形容肌肉发达得很突出。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "make-sense:verb:14:ef843e21:3",
+          "pos": "verb",
+          "english_definition": "To be in the realm of the ordinary, to be not particularly developed.",
+          "glosses": [
+            "处于普通水平",
+            "并不特别发达"
+          ],
+          "explanation": "健身俚语，指发展程度普通、并不特别发达，通常以否定形式出现；原例的 don’t make sense 因而形容肌肉发达得很突出。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "c3fa16f5373315da8278e91a1227d411a5ecbf84171dc69fca1e3107052fadfd",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "result": {
+            "sense_id": "make-sense:verb:14:ef843e21:3",
+            "preferred": "gemini",
+            "glosses": [
+              "处于普通水平",
+              "并不特别发达"
+            ],
+            "explanation": "健身俚语，指发展程度普通、并不特别发达，通常以否定形式出现；原例的 don’t make sense 因而形容肌肉发达得很突出。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'To be in the realm of the ordinary, to be not particularly developed.' Source rawGloss adds '(generally negated, bodybuilding slang)'; topics include bodybuilding/sports. Azure's '处于平凡的领域，不算特别发达。' is a literal rendering of 'realm of the ordinary' that is unnatural in Chinese and misses the bodybuilding register. The candidate's '处于普通水平/并不特别发达' matches 'ordinary' and 'not particularly developed', and its explanation notes the generally-negated bodybuilding context, which is supported by the source rawGloss and topics. The example 'spinal erectors that don't make sense' is consistent with the negated bodybuilding usage. One caveat: the explanation's added clause that the example means the muscles are very developed is an interpretive inference beyond the bare definition, but it is grounded in the supplied example and the negated-usage note; it does not introduce a new sense.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:26:47.774Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "make-sense:verb:14:ef843e21:3",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "c3fa16f5373315da8278e91a1227d411a5ecbf84171dc69fca1e3107052fadfd",
+          "finalCandidateHash": "c3fa16f5373315da8278e91a1227d411a5ecbf84171dc69fca1e3107052fadfd",
+          "independentReviewRequestHash": "6fa8f0f16db9dd6d0f03f9bfbb318a886e74de0a07484ce0e36ee8151adb97ba",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.050Z"
+        },
+        "sourceContext": {
+          "sense_id": "make-sense:verb:14:ef843e21:3",
+          "exactDefinition": "To be in the realm of the ordinary, to be not particularly developed.",
+          "rawFileSha256": "3d57e71f34dc4053611043c121a1b7e8038bbec54cdc0af9431dca91e1062019",
+          "recordIndex": 0,
+          "senseIndex": 3,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(generally negated, bodybuilding slang) To be in the realm of the ordinary, to be not particularly developed."
+          ],
+          "topics": [
+            "bodybuilding",
+            "hobbies",
+            "lifestyle",
+            "sports"
+          ],
+          "rawTags": [],
+          "tags": [
+            "slang"
+          ],
+          "sourceSenseIds": [],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/make_sense#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "sense:noun:15:14810876:7",
+      "expectedVersion": 2,
+      "sourceFingerprint": "799779f56f598c88a34ea751db881f4b871c2b70458025ec7d00a6b8658ee854",
+      "glosses": [
+        "指称对象的呈现方式"
+      ],
+      "explanation": "语用学用语，指一个指称对象被呈现的方式。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "799779f56f598c88a34ea751db881f4b871c2b70458025ec7d00a6b8658ee854",
+        "candidate": {
+          "sense_id": "sense:noun:15:14810876:7",
+          "pos": "noun",
+          "english_definition": "The way that a referent is presented.",
+          "glosses": [
+            "指称对象的呈现方式"
+          ],
+          "explanation": "语用学用语，指一个指称对象被呈现的方式。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "sense:noun:15:14810876:7",
+          "pos": "noun",
+          "english_definition": "The way that a referent is presented.",
+          "glosses": [
+            "指称对象的呈现方式"
+          ],
+          "explanation": "语用学用语，指一个指称对象被呈现的方式。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "741731a390bc25f9deb5f479e27ebc8122ff892ebe8c4de520ef807a5d04cdbd",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "result": {
+            "sense_id": "sense:noun:15:14810876:7",
+            "preferred": "gemini",
+            "glosses": [
+              "指称对象的呈现方式"
+            ],
+            "explanation": "语用学用语，指一个指称对象被呈现的方式。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'The way that a referent is presented.' Source rawGloss confirms '(pragmatics)' and topics include pragmatics. Azure's rendering '意义（名词）\\n指称对象的呈现方式。' adds a headword/POS label '意义（名词）' not present in the definition and is less clean as a gloss; the candidate gloss '指称对象的呈现方式' directly matches 'the way that a referent is presented', and its explanation correctly notes the pragmatics domain supported by source_context. No examples exist, so no example claims are made.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:27:03.387Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "sense:noun:15:14810876:7",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "741731a390bc25f9deb5f479e27ebc8122ff892ebe8c4de520ef807a5d04cdbd",
+          "finalCandidateHash": "741731a390bc25f9deb5f479e27ebc8122ff892ebe8c4de520ef807a5d04cdbd",
+          "independentReviewRequestHash": "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.051Z"
+        },
+        "sourceContext": {
+          "sense_id": "sense:noun:15:14810876:7",
+          "exactDefinition": "The way that a referent is presented.",
+          "rawFileSha256": "518937b61d63a10ff461d915d857d2634e696d1f3d0b9cdcf9b2a081154a3444",
+          "recordIndex": 0,
+          "senseIndex": 7,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(pragmatics) The way that a referent is presented."
+          ],
+          "topics": [
+            "human-sciences",
+            "linguistics",
+            "pragmatics",
+            "sciences"
+          ],
+          "rawTags": [],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "sourceSenseIds": [
+            "en:pragmatics term"
+          ],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/sense#English",
+          "researchNotes": []
+        }
+      }
+    },
+    {
+      "senseId": "sense:noun:15:e11fbf0f:10",
+      "expectedVersion": 2,
+      "sourceFingerprint": "e9e2e471f192eebe049b06d7b67290950a6f74e236d5a660ae66102373aae9fc",
+      "glosses": [
+        "直接规定产物的核酸链"
+      ],
+      "explanation": "生物化学用语，指核酸中直接规定产物的那条链。",
+      "decision": "ai_approved",
+      "aiEvidence": {
+        "sourceFingerprint": "e9e2e471f192eebe049b06d7b67290950a6f74e236d5a660ae66102373aae9fc",
+        "candidate": {
+          "sense_id": "sense:noun:15:e11fbf0f:10",
+          "pos": "noun",
+          "english_definition": "referring to the strand of a nucleic acid that directly specifies the product.",
+          "glosses": [
+            "直接规定产物的核酸链"
+          ],
+          "explanation": "生物化学用语，指核酸中直接规定产物的那条链。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "reviewedCandidate": {
+          "sense_id": "sense:noun:15:e11fbf0f:10",
+          "pos": "noun",
+          "english_definition": "referring to the strand of a nucleic acid that directly specifies the product.",
+          "glosses": [
+            "直接规定产物的核酸链"
+          ],
+          "explanation": "生物化学用语，指核酸中直接规定产物的那条链。",
+          "confidence": 0.8,
+          "uncertainties": []
+        },
+        "independentReview": {
+          "status": "passed",
+          "candidateHash": "7118f86710f4ac400756812b9551d2c921c7589e9e8aced66b1823440af405a3",
+          "reviewer": "DeepSeek · SCNet Token Plan",
+          "model": "DeepSeek-V4.1-Flash-1017-Event",
+          "promptVersion": "deepseek-recheck-source-bound-zh-v3",
+          "requestHash": "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "result": {
+            "sense_id": "sense:noun:15:e11fbf0f:10",
+            "preferred": "gemini",
+            "glosses": [
+              "直接规定产物的核酸链"
+            ],
+            "explanation": "生物化学用语，指核酸中直接规定产物的那条链。",
+            "changes_needed": false,
+            "resolved": true,
+            "evidence": "English definition: 'referring to the strand of a nucleic acid that directly specifies the product.' Source rawGloss confirms '(biochemistry)'. Candidate gloss '直接规定产物的核酸链' preserves 'strand of a nucleic acid' and 'directly specifies the product'; explanation adds the supported biochemistry domain. Azure's '意义（名词）\\n指的是核酸中直接指定产物的链。' again prepends an unsupported headword/POS label and uses a sentence-style rendering rather than a gloss. Neither invents meanings; candidate is closer to the source wording.",
+            "unresolved": []
+          },
+          "userApproved": false,
+          "at": "2026-11-17T09:27:03.387Z"
+        },
+        "editorialDecision": {
+          "type": "ai_editorial_adjudication",
+          "editor": "Codex assistant",
+          "modelVersion": "not-recorded",
+          "decision": {
+            "sense_id": "sense:noun:15:e11fbf0f:10",
+            "reason": "修订内容逐项对应原始定义及已校验上下文；独立模型未要求修改，保留当前文本。"
+          },
+          "reviewedCandidateHash": "7118f86710f4ac400756812b9551d2c921c7589e9e8aced66b1823440af405a3",
+          "finalCandidateHash": "7118f86710f4ac400756812b9551d2c921c7589e9e8aced66b1823440af405a3",
+          "independentReviewRequestHash": "579106addbb2c9f725e6ddb7444f50024ec93a02b2c1ee90e480c2354ce24a4a",
+          "userApproved": false,
+          "at": "2026-11-17T09:30:52.052Z"
+        },
+        "sourceContext": {
+          "sense_id": "sense:noun:15:e11fbf0f:10",
+          "exactDefinition": "referring to the strand of a nucleic acid that directly specifies the product.",
+          "rawFileSha256": "518937b61d63a10ff461d915d857d2634e696d1f3d0b9cdcf9b2a081154a3444",
+          "recordIndex": 0,
+          "senseIndex": 10,
+          "matchingMethod": "verified_file_hash+headword+language+POS+exact_definition",
+          "rawGlosses": [
+            "(biochemistry) referring to the strand of a nucleic acid that directly specifies the product."
+          ],
+          "topics": [
+            "biochemistry",
+            "biology",
+            "chemistry",
+            "microbiology",
+            "natural-sciences",
+            "physical-sciences"
+          ],
+          "rawTags": [],
+          "tags": [
+            "countable",
+            "uncountable"
+          ],
+          "sourceSenseIds": [
+            "en:biochemistry"
+          ],
+          "externalQuotationsExcluded": true,
+          "license": "CC BY-SA 4.0",
+          "attribution": "English Wiktionary contributors; Wiktextract / Kaikki.org (Tatu Ylonen and contributors).",
+          "sourceUrl": "https://en.wiktionary.org/wiki/sense#English",
+          "researchNotes": []
+        }
+      }
+    }
+  ]
+}

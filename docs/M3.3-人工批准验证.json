@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-14",
+  "protectedFiles": 234,
+  "changedProtectedFiles": 0,
+  "mp3Files": 210,
+  "formalApprovedSenses": 15,
+  "formalExplanations": 12,
+  "remainingSenses": 98,
+  "paidCalls": 0,
+  "unitPassed": 106,
+  "browser": {
+    "existingTestsPassed": 108,
+    "newFormalExplanationCasesPassed": 3,
+    "totalPassingCases": 111,
+    "unresolvedFailures": 0,
+    "note": "Full run: 108 pass, 3 new-test locator ambiguities; narrowed heading locator then all 3 passed in targeted rerun. No product changes after full run."
+  },
+  "iphone": "not_tested",
+  "deployed": false,
+  "realMp3Decoded": 210,
+  "nativePlaybackPassed": 6,
+  "providerPreference": "Gemini",
+  "apiBoundary": "stopped_before_credentials_and_calls"
+}

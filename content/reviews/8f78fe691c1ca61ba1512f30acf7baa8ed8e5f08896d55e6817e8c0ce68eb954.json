@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "dictionaryVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "baseRevision": 3,
+  "reviewer": "项目用户（聊天明确确认 12 条内容人工审核通过）",
+  "reviewedAt": "2026-11-14T12:30:53.855Z",
+  "authorizationQuote": "我通过了这12条内容的人工审核，你直接进行下一步",
+  "sampleBatchId": "m33-sample-12-v1",
+  "items": [
+    {
+      "senseId": "create:verb:0:b41d3520:0",
+      "expectedVersion": 2,
+      "sourceFingerprint": "2ac188ff5579701fe564354898469e6d0ec5152ee653407dc8604a265fcdaf9c",
+      "glosses": [
+        "创造",
+        "使产生"
+      ],
+      "explanation": "使原先不存在的事物出现。这个总义不限定必须凭空产生，也可以利用已有材料。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "creative:adj:2:7b1dafdb:0",
+      "expectedVersion": 2,
+      "sourceFingerprint": "91c92c88c3cf7ec322ee0539e933f34f99e248cd826f39a63a53500affbd02ab",
+      "glosses": [
+        "有创造力的",
+        "善于创造的"
+      ],
+      "explanation": "形容有创造事物的倾向或能力；这种创造可以表现为经常进行、做得出色或方式新颖，不要求同时具备所有特点。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "creation:noun:4:f628e272:1",
+      "expectedVersion": 2,
+      "sourceFingerprint": "c632e3276e2da0c0143c2ef225dec8e515bc1da1a466d5b6e754909bd676fb6a",
+      "glosses": [
+        "创造",
+        "创设"
+      ],
+      "explanation": "指把某事物创造出来这一行为，重点在创造的过程，而非创造出的作品或成果。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "creator:noun:5:56c12aa1:1",
+      "expectedVersion": 2,
+      "sourceFingerprint": "70647fa8074cc131de5e44231e06a5152ddc79a81139cb516028b4e2cc79ccfc",
+      "glosses": [
+        "内容创作者"
+      ],
+      "explanation": "content creator 的省略说法，指经常在社交媒体上制作并发布内容的人，尤其是内容能够带来收入的创作者。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "creatively:adv:6:f8aa136f:0",
+      "expectedVersion": 2,
+      "sourceFingerprint": "4879abe78e207128a3c1e982f3b23d8f46755b9f3d6b348af6e6ea021f1deb31",
+      "glosses": [
+        "有创造性地",
+        "富有创意地"
+      ],
+      "explanation": "说明做事的方式具有创造性，而不是直接指一个人所拥有的创造能力。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "creativity:noun:7:e7f52eed:0",
+      "expectedVersion": 2,
+      "sourceFingerprint": "48fbf4a5174cb8bfb2fd94c8662ec6af66e0b225aa747268cc5990ba9f902fa0",
+      "glosses": [
+        "创造力"
+      ],
+      "explanation": "指运用想象力，产生新颖想法或产品的能力。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "make:verb:1:cb285157:12",
+      "expectedVersion": 2,
+      "sourceFingerprint": "3bebc90948c6d4440e14efff9e8cb4140d1583639c5dc105d4bdcd6d28d3a41b",
+      "glosses": [
+        "使显得",
+        "描绘为"
+      ],
+      "explanation": "使某人或某事看起来具有某种身份或性质，或在叙述中将其描绘成某种样子。重点是呈现或描写，不一定是使其实际变成那样。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "make:noun:1:39483fde:6",
+      "expectedVersion": 2,
+      "sourceFingerprint": "bebbeec59ef824edf67b064afefac260a63ee1d988c50cf6677662ee93314131",
+      "glosses": [
+        "make 构建工具"
+      ],
+      "explanation": "指用于自动构建大型应用程序的软件工具，或该工具的一种实现。这里是工具名称，不是动词“制作”。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "make:verb:1:fdd5aa4:28",
+      "expectedVersion": 2,
+      "sourceFingerprint": "1a63833da4cd3e4b12d0ba11a86dffdc545190908953729842dbe8457fb9450a",
+      "glosses": [
+        "作诗",
+        "写诗"
+      ],
+      "explanation": "指创作诗句或诗歌。源词典将这一不及物用法标为已废弃（obsolete），不宜当作现代常用表达。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "destroy:verb:13:e4aa6981:2",
+      "expectedVersion": 2,
+      "sourceFingerprint": "0b7b2c7f66f6c8d77da52ae762b13e5d14e50e3df10d1790842f27724ec1d439",
+      "glosses": [
+        "处死（动物）",
+        "对（动物）实施安乐死"
+      ],
+      "explanation": "这里指结束动物的生命；原例句中的对象是患狂犬病的狗。并非泛指损坏物品，也不表示所有这种处置都采用同一种方式。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "make-sense:verb:14:4763a134:0",
+      "expectedVersion": 2,
+      "sourceFingerprint": "0c45b3d1b44a694052e34cd933f2b8b80492bd4a7b5e93166e25af0297df1707",
+      "glosses": [
+        "讲得通",
+        "合乎情理"
+      ],
+      "explanation": "指话语、事情或安排有条理、合理，能够让人理解。这里描述事物本身是否合理，而非某人主动去理解它。",
+      "decision": "approved"
+    },
+    {
+      "senseId": "sense:noun:15:415ec60f:4",
+      "expectedVersion": 2,
+      "sourceFingerprint": "3553c359c06f3ce30978c27bf42489904a9838eefabff1daf01d1ac7a4e3362e",
+      "glosses": [
+        "义项",
+        "某一含义"
+      ],
+      "explanation": "指一个词或表达的多种意思中的某一种，强调具体是哪一个含义，而不是笼统地说它有意义。",
+      "decision": "approved"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "dictionaryVersion": "86232c6d48967970aa7203283a316f6f76879ceeea6dc4264e3f1ff923e84147",
+  "baseRevision": 1,
+  "reviewer": "项目用户（聊天明确确认三条简释）",
+  "reviewedAt": "2026-11-14T07:07:41.8876216Z",
+  "items": [
+    {
+      "senseId": "creation:noun:4:2cad546e:0",
+      "expectedVersion": 1,
+      "sourceFingerprint": "e338e15ba03c9e2cb2ad55073c29ae786d40af32c89464f7cff201f3ce6f67d2",
+      "englishText": "Something created such as an invention or artwork.",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "创作品"
+      ],
+      "explanation": null,
+      "decision": "approved"
+    },
+    {
+      "senseId": "creator:noun:5:d27cffb1:2",
+      "expectedVersion": 1,
+      "sourceFingerprint": "2bf96a40f549ba13527a477f47551f46fc8b13c1bcdcfd07c2016c82f6824103",
+      "englishText": "The deity that created the world.",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "造物主"
+      ],
+      "explanation": null,
+      "decision": "approved"
+    },
+    {
+      "senseId": "make:verb:1:4951f9b1:11",
+      "expectedVersion": 1,
+      "sourceFingerprint": "dd44926e44b6448b4030c965c26867f648d25601ea4b950c95c5e11bc16c0ac2",
+      "englishText": "To cause to be.",
+      "partOfSpeech": "verb",
+      "glosses": [
+        "使",
+        "使得"
+      ],
+      "explanation": null,
+      "decision": "approved"
+    }
+  ]
+}
